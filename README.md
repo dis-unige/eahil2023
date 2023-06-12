@@ -36,7 +36,8 @@ Finally, looking at some qualitative examples, we will also try to highlight int
    * results: final data with the calculations and aggregations produced
 
 -----------------------------
-[1] Solomon, D.J., Laakso, M.; Björk, B.-C. (authors). Suber P. (editor). 2016. Converting Scholarly Journals to Open Access: A Review of Approaches and Experiences. https://dash.harvard.edu/handle/1/27803834 
+[1] Solomon, D.J., Laakso, M.; Björk, B.-C. (authors). Suber P. (editor). 2016. Converting Scholarly Journals to Open Access: A Review of Approaches and Experiences. https://dash.harvard.edu/handle/1/27803834   
+
 [2] Matthias, L.; Jahn, N.; Laakso, M. The Two-Way Street of Open Access Journal Publishing: Flip It and Reverse It. Publications 2019, 7, 23. https://doi.org/10.3390/publications7020023  
 
 
