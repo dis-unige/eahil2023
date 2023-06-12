@@ -19,9 +19,21 @@ Finally, looking at some qualitative examples, we will also try to highlight int
 
 ## Content of repository
 
-1. Notebooks
-2. Data sources et temporary data
-3. Results and figures
+ * Notebooks
+   * 01_eahil23_import_pubmed_data.ipynb
+   * 02_eahil23_import_sherpa_data.ipynb
+   * 03_eahil23_parse_sherpa.ipynb
+   * 04_eahil23_merge_pubmed_sherpa.ipynb
+   * 06_eahil23_reverse_flipped.ipynb
+   * 07_eahil23_import_pubmed_articles_data.ipynb
+   * 08_eahil23_merge_pubmed_articles_journals.ipynb
+   * 09_eahil23_results.ipynb
+   
+ * Folders
+   * data: data sources et temporary data
+   * figures: graphs generated
+   * html: notebooks exported on HTML format to facilitate the access
+   * results: final data with the calculations and aggregations produced
 
 -----------------------------
 [1] Solomon, D.J., Laakso, M.; Björk, B.-C. (authors). Suber P. (editor). 2016. Converting Scholarly Journals to Open Access: A Review of Approaches and Experiences. https://dash.harvard.edu/handle/1/27803834 
