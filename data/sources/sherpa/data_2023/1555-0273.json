@@ -1,0 +1,485 @@
+{
+    "items": [
+        {
+            "issns": [
+                {
+                    "type": "print",
+                    "issn": "1555-0265",
+                    "type_phrases": [
+                        {
+                            "language": "en",
+                            "value": "print",
+                            "phrase": "Print"
+                        }
+                    ]
+                },
+                {
+                    "type": "electronic",
+                    "type_phrases": [
+                        {
+                            "value": "electronic",
+                            "phrase": "Electronic",
+                            "language": "en"
+                        }
+                    ],
+                    "issn": "1555-0273"
+                }
+            ],
+            "publishers": [
+                {
+                    "publisher": {
+                        "id": 300,
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/300",
+                        "url": "https://us.humankinetics.com/",
+                        "country_phrases": [
+                            {
+                                "phrase": "United States of America",
+                                "value": "us",
+                                "language": "en"
+                            }
+                        ],
+                        "country": "us",
+                        "publication_count": 26,
+                        "name": [
+                            {
+                                "preferred_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "Name",
+                                        "value": "name"
+                                    }
+                                ],
+                                "language_phrases": [
+                                    {
+                                        "phrase": "English",
+                                        "value": "en",
+                                        "language": "en"
+                                    }
+                                ],
+                                "language": "en",
+                                "preferred": "name",
+                                "name": "Human Kinetics"
+                            }
+                        ]
+                    },
+                    "relationship_type": "commercial_publisher",
+                    "relationship_type_phrases": [
+                        {
+                            "value": "commercial_publisher",
+                            "phrase": "Commercial Publisher",
+                            "language": "en"
+                        }
+                    ]
+                }
+            ],
+            "publisher_policy": [
+                {
+                    "permitted_oa": [
+                        {
+                            "public_notes": [
+                                "After publication",
+                                "Accepted version must be in PDF or other image capturing format"
+                            ],
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "phrase": "Academic Social Network",
+                                        "value": "academic_social_network",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "value": "authors_homepage",
+                                        "phrase": "Author's Homepage"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "value": "institutional_repository",
+                                        "phrase": "Institutional Repository"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "phrase": "Institutional Website",
+                                        "value": "institutional_website"
+                                    },
+                                    {
+                                        "value": "named_academic_social_network",
+                                        "phrase": "Named Academic Social Network",
+                                        "language": "en"
+                                    }
+                                ],
+                                "location": [
+                                    "academic_social_network",
+                                    "authors_homepage",
+                                    "institutional_repository",
+                                    "institutional_website",
+                                    "named_academic_social_network"
+                                ],
+                                "named_academic_social_network": [
+                                    "Academia.edu",
+                                    "ResearchGate",
+                                    "Mendeley"
+                                ]
+                            },
+                            "additional_oa_fee": "no",
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Accepted",
+                                    "value": "accepted",
+                                    "language": "en"
+                                }
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "No",
+                                    "value": "no"
+                                }
+                            ],
+                            "copyright_owner_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "Publishers",
+                                    "value": "publishers"
+                                }
+                            ],
+                            "conditions": [
+                                "Publisher copyright and source must be acknowledged",
+                                "Must link to publisher version with DOI",
+                                "Set statement to accompany deposit (see policy)"
+                            ],
+                            "id": 3849,
+                            "copyright_owner": "publishers",
+                            "article_version": [
+                                "accepted"
+                            ]
+                        },
+                        {
+                            "copyright_owner": "publishers",
+                            "id": 3850,
+                            "article_version": [
+                                "accepted"
+                            ],
+                            "additional_oa_fee": "no",
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Accepted",
+                                    "value": "accepted",
+                                    "language": "en"
+                                }
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "phrase": "No",
+                                    "value": "no",
+                                    "language": "en"
+                                }
+                            ],
+                            "conditions": [
+                                "Publisher copyright and source must be acknowledged",
+                                "Must link to publisher version",
+                                "Set statement to accompany deposit \"as accepted for publication\""
+                            ],
+                            "copyright_owner_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "Publishers",
+                                    "value": "publishers"
+                                }
+                            ],
+                            "prerequisites": {
+                                "prerequisites": [
+                                    "when_required_by_funder"
+                                ],
+                                "prerequisites_phrases": [
+                                    {
+                                        "value": "when_required_by_funder",
+                                        "phrase": "If Required by Funder",
+                                        "language": "en"
+                                    }
+                                ]
+                            },
+                            "public_notes": [
+                                "After publication",
+                                "Accepted version must be in PDF or other image capturing format"
+                            ],
+                            "location": {
+                                "named_repository": [
+                                    "PubMed Central"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "value": "named_repository",
+                                        "phrase": "Named Repository",
+                                        "language": "en"
+                                    }
+                                ],
+                                "location": [
+                                    "named_repository"
+                                ]
+                            }
+                        },
+                        {
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "phrase": "Non-Commercial Website",
+                                        "value": "non_commercial_website",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "value": "this_journal",
+                                        "phrase": "Journal Website"
+                                    }
+                                ],
+                                "location": [
+                                    "non_commercial_website",
+                                    "this_journal"
+                                ]
+                            },
+                            "license": [
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "language": "en",
+                                            "phrase": "CC BY-NC",
+                                            "value": "cc_by_nc"
+                                        }
+                                    ],
+                                    "version": "4.0",
+                                    "license": "cc_by_nc"
+                                },
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "language": "en",
+                                            "phrase": "CC BY-NC-ND",
+                                            "value": "cc_by_nc_nd"
+                                        }
+                                    ],
+                                    "license": "cc_by_nc_nd",
+                                    "version": "4.0"
+                                }
+                            ],
+                            "copyright_owner_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "Authors",
+                                    "value": "authors"
+                                }
+                            ],
+                            "conditions": [
+                                "Published source must be acknowledged with citation",
+                                "Copyright must be acknowledged"
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "language": "en",
+                                    "value": "published",
+                                    "phrase": "Published"
+                                }
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "value": "yes",
+                                    "phrase": "Yes",
+                                    "language": "en"
+                                }
+                            ],
+                            "additional_oa_fee": "yes",
+                            "article_version": [
+                                "published"
+                            ],
+                            "copyright_owner": "authors",
+                            "id": 4073
+                        },
+                        {
+                            "license": [
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "language": "en",
+                                            "phrase": "CC BY",
+                                            "value": "cc_by"
+                                        }
+                                    ],
+                                    "version": "4.0",
+                                    "license": "cc_by"
+                                }
+                            ],
+                            "location": {
+                                "location": [
+                                    "any_website",
+                                    "this_journal"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "Any Website",
+                                        "value": "any_website"
+                                    },
+                                    {
+                                        "value": "this_journal",
+                                        "phrase": "Journal Website",
+                                        "language": "en"
+                                    }
+                                ]
+                            },
+                            "copyright_owner_phrases": [
+                                {
+                                    "value": "authors",
+                                    "phrase": "Authors",
+                                    "language": "en"
+                                }
+                            ],
+                            "conditions": [
+                                "Published source must be acknowledged with citation",
+                                "Copyright must be acknowledged"
+                            ],
+                            "additional_oa_fee": "yes",
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "phrase": "Yes",
+                                    "value": "yes",
+                                    "language": "en"
+                                }
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Published",
+                                    "value": "published",
+                                    "language": "en"
+                                }
+                            ],
+                            "article_version": [
+                                "published"
+                            ],
+                            "copyright_owner": "authors",
+                            "id": 8147
+                        },
+                        {
+                            "location": {
+                                "location": [
+                                    "any_website",
+                                    "this_journal"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "phrase": "Any Website",
+                                        "value": "any_website",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "phrase": "Journal Website",
+                                        "value": "this_journal"
+                                    }
+                                ]
+                            },
+                            "article_version": [
+                                "published"
+                            ],
+                            "id": 8148,
+                            "copyright_owner": "publishers",
+                            "copyright_owner_phrases": [
+                                {
+                                    "language": "en",
+                                    "value": "publishers",
+                                    "phrase": "Publishers"
+                                }
+                            ],
+                            "conditions": [
+                                "Published source must be acknowledged with citation",
+                                "Copyright must be acknowledged"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "Yes",
+                                    "value": "yes"
+                                }
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "value": "published",
+                                    "phrase": "Published",
+                                    "language": "en"
+                                }
+                            ],
+                            "additional_oa_fee": "yes"
+                        }
+                    ],
+                    "publication_count": 27,
+                    "urls": [
+                        {
+                            "description": "Copyright and Permissions",
+                            "url": "https://journals.humankinetics.com/page/copyright/copyright-and-permissions"
+                        },
+                        {
+                            "description": "Open Access",
+                            "url": "https://journals.humankinetics.com/page/openaccess/open-access"
+                        }
+                    ],
+                    "id": 300,
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/300",
+                    "open_access_prohibited": "no",
+                    "open_access_prohibited_phrases": [
+                        {
+                            "language": "en",
+                            "phrase": "No",
+                            "value": "no"
+                        }
+                    ],
+                    "internal_moniker": "Default Policy"
+                }
+            ],
+            "listed_in_doaj": "no",
+            "system_metadata": {
+                "uri": "https://v2.sherpa.ac.uk/id/publication/12249",
+                "id": 12249,
+                "date_modified": "2022-08-18 14:49:01",
+                "publicly_visible": "yes",
+                "date_created": "2010-08-27 14:49:30",
+                "publicly_visible_phrases": [
+                    {
+                        "value": "yes",
+                        "phrase": "Yes",
+                        "language": "en"
+                    }
+                ]
+            },
+            "type_phrases": [
+                {
+                    "phrase": "Journal",
+                    "value": "journal",
+                    "language": "en"
+                }
+            ],
+            "url": "https://journals.humankinetics.com/view/journals/ijspp/ijspp-overview.xml",
+            "listed_in_doaj_phrases": [
+                {
+                    "value": "no",
+                    "phrase": "No",
+                    "language": "en"
+                }
+            ],
+            "title": [
+                {
+                    "language": "en",
+                    "language_phrases": [
+                        {
+                            "language": "en",
+                            "value": "en",
+                            "phrase": "English"
+                        }
+                    ],
+                    "acronym": "IJSPP",
+                    "title": "International Journal of Sports Physiology and Performance"
+                }
+            ],
+            "id": 12249,
+            "type": "journal"
+        }
+    ]
+}

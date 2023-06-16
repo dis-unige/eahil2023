@@ -1,0 +1,284 @@
+{
+    "items": [
+        {
+            "issns": [
+                {
+                    "type": "print",
+                    "issn": "0353-9504",
+                    "type_phrases": [
+                        {
+                            "language": "en",
+                            "phrase": "Print",
+                            "value": "print"
+                        }
+                    ]
+                },
+                {
+                    "type_phrases": [
+                        {
+                            "value": "electronic",
+                            "phrase": "Electronic",
+                            "language": "en"
+                        }
+                    ],
+                    "issn": "1332-8166",
+                    "type": "electronic"
+                }
+            ],
+            "publishers": [
+                {
+                    "relationship_type_phrases": [
+                        {
+                            "language": "en",
+                            "value": "imprint",
+                            "phrase": "Imprint"
+                        }
+                    ],
+                    "publisher": {
+                        "imprint_of_id": 62233,
+                        "country": "hr",
+                        "name": [
+                            {
+                                "name": "School of Medicine",
+                                "language": "en",
+                                "language_phrases": [
+                                    {
+                                        "phrase": "English",
+                                        "value": "en",
+                                        "language": "en"
+                                    }
+                                ]
+                            }
+                        ],
+                        "publication_count": 1,
+                        "id": 63620,
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/63620",
+                        "url": "https://mef.unizg.hr/",
+                        "country_phrases": [
+                            {
+                                "language": "en",
+                                "phrase": "Croatia",
+                                "value": "hr"
+                            }
+                        ]
+                    },
+                    "relationship_type": "imprint"
+                },
+                {
+                    "publisher": {
+                        "country": "hr",
+                        "publication_count": 20,
+                        "name": [
+                            {
+                                "name": "University of Zagreb",
+                                "language_phrases": [
+                                    {
+                                        "phrase": "English",
+                                        "value": "en",
+                                        "language": "en"
+                                    }
+                                ],
+                                "language": "en"
+                            },
+                            {
+                                "language": "hr",
+                                "language_phrases": [
+                                    {
+                                        "phrase": "Croatian",
+                                        "value": "hr",
+                                        "language": "en"
+                                    }
+                                ],
+                                "preferred_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "Name",
+                                        "value": "name"
+                                    }
+                                ],
+                                "name": "Sveučilište u Zagrebu",
+                                "preferred": "name"
+                            }
+                        ],
+                        "imprints_id": [
+                            63638,
+                            63277,
+                            1704,
+                            63639,
+                            63640,
+                            63641,
+                            63298,
+                            63295,
+                            2294,
+                            63622,
+                            63613,
+                            63646,
+                            2374,
+                            63621,
+                            63620
+                        ],
+                        "id": 62233,
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/62233",
+                        "url": "http://www.unizg.hr/",
+                        "country_phrases": [
+                            {
+                                "value": "hr",
+                                "phrase": "Croatia",
+                                "language": "en"
+                            }
+                        ]
+                    },
+                    "relationship_type": "university_publisher",
+                    "relationship_type_phrases": [
+                        {
+                            "language": "en",
+                            "value": "university_publisher",
+                            "phrase": "University Publisher"
+                        }
+                    ]
+                }
+            ],
+            "publisher_policy": [
+                {
+                    "publication_count": 1,
+                    "permitted_oa": [
+                        {
+                            "article_version": [
+                                "published"
+                            ],
+                            "id": 7407,
+                            "copyright_owner": "publishers",
+                            "copyright_owner_phrases": [
+                                {
+                                    "value": "publishers",
+                                    "phrase": "Publishers",
+                                    "language": "en"
+                                }
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "value": "no",
+                                    "phrase": "No",
+                                    "language": "en"
+                                }
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Published",
+                                    "value": "published",
+                                    "language": "en"
+                                }
+                            ],
+                            "additional_oa_fee": "no",
+                            "license": [
+                                {
+                                    "version": "4.0",
+                                    "license": "cc_by_nc_nd",
+                                    "license_phrases": [
+                                        {
+                                            "value": "cc_by_nc_nd",
+                                            "phrase": "CC BY-NC-ND",
+                                            "language": "en"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "location": {
+                                "location": [
+                                    "named_repository",
+                                    "this_journal"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "Named Repository",
+                                        "value": "named_repository"
+                                    },
+                                    {
+                                        "phrase": "Journal Website",
+                                        "value": "this_journal",
+                                        "language": "en"
+                                    }
+                                ],
+                                "named_repository": [
+                                    "HRČAK",
+                                    "PubMed Central"
+                                ]
+                            }
+                        }
+                    ],
+                    "open_access_prohibited": "no",
+                    "internal_moniker": "Default Policy",
+                    "open_access_prohibited_phrases": [
+                        {
+                            "language": "en",
+                            "phrase": "No",
+                            "value": "no"
+                        }
+                    ],
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/5433",
+                    "urls": [
+                        {
+                            "url": "http://www.cmj.hr/",
+                            "description": "Home"
+                        }
+                    ],
+                    "id": 5433
+                }
+            ],
+            "listed_in_doaj": "yes",
+            "system_metadata": {
+                "date_created": "2021-10-26 12:32:12",
+                "publicly_visible_phrases": [
+                    {
+                        "language": "en",
+                        "phrase": "Yes",
+                        "value": "yes"
+                    }
+                ],
+                "id": 40202,
+                "uri": "https://v2.sherpa.ac.uk/id/publication/40202",
+                "publicly_visible": "yes",
+                "date_modified": "2022-12-01 09:44:35"
+            },
+            "type_phrases": [
+                {
+                    "language": "en",
+                    "phrase": "Journal",
+                    "value": "journal"
+                }
+            ],
+            "url": "http://www.cmj.hr/",
+            "listed_in_doaj_phrases": [
+                {
+                    "language": "en",
+                    "value": "yes",
+                    "phrase": "Yes"
+                }
+            ],
+            "title": [
+                {
+                    "language_phrases": [
+                        {
+                            "language": "en",
+                            "value": "en",
+                            "phrase": "English"
+                        }
+                    ],
+                    "preferred_phrases": [
+                        {
+                            "language": "en",
+                            "phrase": "Title",
+                            "value": "name"
+                        }
+                    ],
+                    "language": "en",
+                    "preferred": "name",
+                    "title": "Croatian Medical Journal"
+                }
+            ],
+            "type": "journal",
+            "id": 40202
+        }
+    ]
+}

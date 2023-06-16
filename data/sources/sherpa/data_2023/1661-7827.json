@@ -1,0 +1,340 @@
+{
+    "items": [
+        {
+            "listed_in_doaj": "yes",
+            "system_metadata": {
+                "id": 17517,
+                "uri": "https://v2.sherpa.ac.uk/id/publication/17517",
+                "publicly_visible": "yes",
+                "date_modified": "2022-04-28 13:49:10",
+                "publicly_visible_phrases": [
+                    {
+                        "language": "en",
+                        "phrase": "Yes",
+                        "value": "yes"
+                    }
+                ],
+                "date_created": "2010-09-23 11:54:30"
+            },
+            "issns": [
+                {
+                    "issn": "1660-4601",
+                    "type_phrases": [
+                        {
+                            "language": "en",
+                            "phrase": "Electronic",
+                            "value": "electronic"
+                        }
+                    ],
+                    "type": "electronic"
+                },
+                {
+                    "type": "print",
+                    "issn": "1661-7827",
+                    "type_phrases": [
+                        {
+                            "language": "en",
+                            "value": "print",
+                            "phrase": "Print"
+                        }
+                    ]
+                }
+            ],
+            "publishers": [
+                {
+                    "relationship_type_phrases": [
+                        {
+                            "phrase": "Commercial Publisher",
+                            "value": "commercial_publisher",
+                            "language": "en"
+                        }
+                    ],
+                    "relationship_type": "commercial_publisher",
+                    "publisher": {
+                        "country": "ch",
+                        "publication_count": 428,
+                        "name": [
+                            {
+                                "preferred": "name",
+                                "name": "MDPI",
+                                "language_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "en",
+                                        "phrase": "English"
+                                    }
+                                ],
+                                "preferred_phrases": [
+                                    {
+                                        "value": "name",
+                                        "phrase": "Name",
+                                        "language": "en"
+                                    }
+                                ],
+                                "language": "en"
+                            }
+                        ],
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/487",
+                        "id": 487,
+                        "country_phrases": [
+                            {
+                                "phrase": "Switzerland",
+                                "value": "ch",
+                                "language": "en"
+                            }
+                        ],
+                        "url": "https://www.mdpi.com/",
+                        "identifiers": [
+                            {
+                                "type": "ror",
+                                "identifier": "https://ror.org/00ckv2g77",
+                                "type_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "ror",
+                                        "phrase": "ROR ID"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ],
+            "publisher_policy": [
+                {
+                    "open_access_prohibited_phrases": [
+                        {
+                            "language": "en",
+                            "value": "no",
+                            "phrase": "No"
+                        }
+                    ],
+                    "internal_moniker": "PubMed Central",
+                    "open_access_prohibited": "no",
+                    "id": 3918,
+                    "urls": [
+                        {
+                            "url": "http://www.mdpi.com/about/openaccess",
+                            "description": "MDPI Open Access Information and Policy"
+                        }
+                    ],
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/3918",
+                    "publication_count": 71,
+                    "permitted_oa": [
+                        {
+                            "copyright_owner": "authors",
+                            "copyright_owner_phrases": [
+                                {
+                                    "phrase": "Authors",
+                                    "value": "authors",
+                                    "language": "en"
+                                }
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "No",
+                                    "value": "no"
+                                }
+                            ],
+                            "publisher_deposit": [
+                                {
+                                    "system_metadata": {
+                                        "uri": "https://v2.sherpa.ac.uk/id/repository/267",
+                                        "id": 267
+                                    },
+                                    "repository_metadata": {
+                                        "url": "http://www.ncbi.nlm.nih.gov/pmc/",
+                                        "name": [
+                                            {
+                                                "language_phrases": [
+                                                    {
+                                                        "value": "en",
+                                                        "phrase": "English",
+                                                        "language": "en"
+                                                    }
+                                                ],
+                                                "preferred_phrases": [
+                                                    {
+                                                        "phrase": "Name",
+                                                        "value": "name",
+                                                        "language": "en"
+                                                    }
+                                                ],
+                                                "language": "en",
+                                                "preferred": "name",
+                                                "name": "PubMed Central"
+                                            }
+                                        ],
+                                        "type_phrases": [
+                                            {
+                                                "value": "disciplinary",
+                                                "phrase": "Disciplinary",
+                                                "language": "en"
+                                            }
+                                        ],
+                                        "type": "disciplinary"
+                                    }
+                                }
+                            ],
+                            "license": [
+                                {
+                                    "license": "cc_by",
+                                    "version": "4.0",
+                                    "license_phrases": [
+                                        {
+                                            "value": "cc_by",
+                                            "phrase": "CC BY",
+                                            "language": "en"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "location": {
+                                "named_repository": [
+                                    "PubMed Central"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "any_repository",
+                                        "phrase": "Any Repository"
+                                    },
+                                    {
+                                        "phrase": "Named Repository",
+                                        "value": "named_repository",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "phrase": "Journal Website",
+                                        "value": "this_journal",
+                                        "language": "en"
+                                    }
+                                ],
+                                "location": [
+                                    "any_repository",
+                                    "named_repository",
+                                    "this_journal"
+                                ]
+                            },
+                            "article_version": [
+                                "published"
+                            ],
+                            "id": 5248,
+                            "conditions": [
+                                "Published source must be acknowledged with citation"
+                            ],
+                            "additional_oa_fee": "no",
+                            "article_version_phrases": [
+                                {
+                                    "value": "published",
+                                    "phrase": "Published",
+                                    "language": "en"
+                                }
+                            ],
+                            "public_notes": [
+                                "Authors are encouraged to submit their published articles to institutional repositories"
+                            ]
+                        },
+                        {
+                            "public_notes": [
+                                "Authors are encouraged to submit their published articles to institutional repositories"
+                            ],
+                            "additional_oa_fee": "no",
+                            "article_version_phrases": [
+                                {
+                                    "value": "submitted",
+                                    "phrase": "Submitted",
+                                    "language": "en"
+                                },
+                                {
+                                    "language": "en",
+                                    "phrase": "Accepted",
+                                    "value": "accepted"
+                                }
+                            ],
+                            "conditions": [
+                                "Must link to published article"
+                            ],
+                            "id": 5249,
+                            "article_version": [
+                                "submitted",
+                                "accepted"
+                            ],
+                            "location": {
+                                "location": [
+                                    "any_repository"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "Any Repository",
+                                        "value": "any_repository"
+                                    }
+                                ]
+                            },
+                            "license": [
+                                {
+                                    "version": "4.0",
+                                    "license": "cc_by",
+                                    "license_phrases": [
+                                        {
+                                            "value": "cc_by",
+                                            "phrase": "CC BY",
+                                            "language": "en"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "value": "no",
+                                    "phrase": "No"
+                                }
+                            ],
+                            "copyright_owner_phrases": [
+                                {
+                                    "language": "en",
+                                    "value": "authors",
+                                    "phrase": "Authors"
+                                }
+                            ],
+                            "copyright_owner": "authors"
+                        }
+                    ]
+                }
+            ],
+            "type": "journal",
+            "id": 17517,
+            "type_phrases": [
+                {
+                    "language": "en",
+                    "value": "journal",
+                    "phrase": "Journal"
+                }
+            ],
+            "title": [
+                {
+                    "title": "International Journal of Environmental Research and Public Health",
+                    "language": "en",
+                    "language_phrases": [
+                        {
+                            "language": "en",
+                            "phrase": "English",
+                            "value": "en"
+                        }
+                    ]
+                }
+            ],
+            "listed_in_doaj_phrases": [
+                {
+                    "value": "yes",
+                    "phrase": "Yes",
+                    "language": "en"
+                }
+            ],
+            "url": "http://www.mdpi.com/journal/ijerph"
+        }
+    ]
+}

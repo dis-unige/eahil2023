@@ -1,0 +1,325 @@
+{
+    "items": [
+        {
+            "id": 1910,
+            "type": "journal",
+            "publisher_policy": [
+                {
+                    "open_access_prohibited_phrases": [
+                        {
+                            "language": "en",
+                            "phrase": "No",
+                            "value": "no"
+                        }
+                    ],
+                    "open_access_prohibited": "no",
+                    "internal_moniker": "Default Policy",
+                    "urls": [
+                        {
+                            "url": "http://www.jpgmonline.com/contributors.asp",
+                            "description": "Example Instructions For Contributors"
+                        }
+                    ],
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/89",
+                    "id": 89,
+                    "permitted_oa": [
+                        {
+                            "additional_oa_fee": "no",
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "phrase": "No",
+                                    "value": "no",
+                                    "language": "en"
+                                }
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "Submitted",
+                                    "value": "submitted"
+                                },
+                                {
+                                    "language": "en",
+                                    "value": "accepted",
+                                    "phrase": "Accepted"
+                                }
+                            ],
+                            "conditions": [
+                                "Published source must be acknowledged"
+                            ],
+                            "id": 102,
+                            "article_version": [
+                                "submitted",
+                                "accepted"
+                            ],
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "institutional_repository",
+                                        "phrase": "Institutional Repository"
+                                    },
+                                    {
+                                        "value": "subject_repository",
+                                        "phrase": "Subject Repository",
+                                        "language": "en"
+                                    }
+                                ],
+                                "location": [
+                                    "institutional_repository",
+                                    "subject_repository"
+                                ]
+                            },
+                            "license": [
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "language": "en",
+                                            "value": "cc_by_nc_sa",
+                                            "phrase": "CC BY-NC-SA"
+                                        }
+                                    ],
+                                    "version": "4.0",
+                                    "license": "cc_by_nc_sa"
+                                }
+                            ]
+                        },
+                        {
+                            "conditions": [
+                                "Published source must be acknowledged with citation"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "No",
+                                    "value": "no"
+                                }
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "Published",
+                                    "value": "published"
+                                }
+                            ],
+                            "additional_oa_fee": "no",
+                            "article_version": [
+                                "published"
+                            ],
+                            "id": 4607,
+                            "license": [
+                                {
+                                    "version": "4.0",
+                                    "license": "cc_by_nc_sa",
+                                    "license_phrases": [
+                                        {
+                                            "language": "en",
+                                            "value": "cc_by_nc_sa",
+                                            "phrase": "CC BY-NC-SA"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "location": {
+                                "named_repository": [
+                                    "PubMed Central"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "named_repository",
+                                        "phrase": "Named Repository"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "phrase": "Non-Commercial Website",
+                                        "value": "non_commercial_website"
+                                    },
+                                    {
+                                        "value": "this_journal",
+                                        "phrase": "Journal Website",
+                                        "language": "en"
+                                    }
+                                ],
+                                "location": [
+                                    "named_repository",
+                                    "non_commercial_website",
+                                    "this_journal"
+                                ]
+                            },
+                            "publisher_deposit": [
+                                {
+                                    "system_metadata": {
+                                        "id": 267,
+                                        "uri": "https://v2.sherpa.ac.uk/id/repository/267"
+                                    },
+                                    "repository_metadata": {
+                                        "url": "http://www.ncbi.nlm.nih.gov/pmc/",
+                                        "name": [
+                                            {
+                                                "name": "PubMed Central",
+                                                "preferred": "name",
+                                                "language": "en",
+                                                "language_phrases": [
+                                                    {
+                                                        "language": "en",
+                                                        "value": "en",
+                                                        "phrase": "English"
+                                                    }
+                                                ],
+                                                "preferred_phrases": [
+                                                    {
+                                                        "phrase": "Name",
+                                                        "value": "name",
+                                                        "language": "en"
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "type_phrases": [
+                                            {
+                                                "phrase": "Disciplinary",
+                                                "value": "disciplinary",
+                                                "language": "en"
+                                            }
+                                        ],
+                                        "type": "disciplinary"
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "publication_count": 282
+                }
+            ],
+            "issns": [
+                {
+                    "type_phrases": [
+                        {
+                            "value": "print",
+                            "phrase": "Print",
+                            "language": "en"
+                        }
+                    ],
+                    "issn": "0189-6725",
+                    "type": "print"
+                },
+                {
+                    "issn": "0974-5998",
+                    "type_phrases": [
+                        {
+                            "language": "en",
+                            "value": "electronic",
+                            "phrase": "Electronic"
+                        }
+                    ],
+                    "type": "electronic"
+                }
+            ],
+            "system_metadata": {
+                "publicly_visible_phrases": [
+                    {
+                        "language": "en",
+                        "value": "yes",
+                        "phrase": "Yes"
+                    }
+                ],
+                "date_created": "2010-07-19 10:58:54",
+                "uri": "https://v2.sherpa.ac.uk/id/publication/1910",
+                "id": 1910,
+                "date_modified": "2022-04-21 10:24:30",
+                "publicly_visible": "yes"
+            },
+            "url": "https://www.afrjpaedsurg.org/",
+            "title": [
+                {
+                    "title": "African Journal of Paediatric Surgery",
+                    "language": "en",
+                    "language_phrases": [
+                        {
+                            "phrase": "English",
+                            "value": "en",
+                            "language": "en"
+                        }
+                    ]
+                }
+            ],
+            "listed_in_doaj_phrases": [
+                {
+                    "language": "en",
+                    "value": "yes",
+                    "phrase": "Yes"
+                }
+            ],
+            "type_phrases": [
+                {
+                    "language": "en",
+                    "phrase": "Journal",
+                    "value": "journal"
+                }
+            ],
+            "publishers": [
+                {
+                    "relationship_type_phrases": [
+                        {
+                            "value": "commercial_publisher",
+                            "phrase": "Commercial Publisher",
+                            "language": "en"
+                        }
+                    ],
+                    "publisher": {
+                        "country": "in",
+                        "imprint_of_id": 62046,
+                        "publication_count": 279,
+                        "name": [
+                            {
+                                "preferred": "name",
+                                "name": "Medknow Publications",
+                                "preferred_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "Name",
+                                        "value": "name"
+                                    }
+                                ],
+                                "language_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "English",
+                                        "value": "en"
+                                    }
+                                ],
+                                "language": "en"
+                            }
+                        ],
+                        "id": 89,
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/89",
+                        "url": "https://www.medknow.com/",
+                        "identifiers": [
+                            {
+                                "type": "ror",
+                                "identifier": "https://ror.org/01qxk5g75",
+                                "type_phrases": [
+                                    {
+                                        "phrase": "ROR ID",
+                                        "value": "ror",
+                                        "language": "en"
+                                    }
+                                ]
+                            }
+                        ],
+                        "country_phrases": [
+                            {
+                                "phrase": "India",
+                                "value": "in",
+                                "language": "en"
+                            }
+                        ]
+                    },
+                    "relationship_type": "commercial_publisher"
+                }
+            ],
+            "listed_in_doaj": "yes"
+        }
+    ]
+}

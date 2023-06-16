@@ -1,0 +1,368 @@
+{
+    "items": [
+        {
+            "publishers": [
+                {
+                    "relationship_type": "society_publisher",
+                    "relationship_type_phrases": [
+                        {
+                            "value": "society_publisher",
+                            "language": "en",
+                            "phrase": "Society Publisher"
+                        }
+                    ],
+                    "publisher": {
+                        "id": 69,
+                        "country": "gb",
+                        "url": "http://www.microbiologysociety.org/",
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/69",
+                        "name": [
+                            {
+                                "preferred": "name",
+                                "name": "Microbiology Society",
+                                "language": "en",
+                                "language_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "en",
+                                        "phrase": "English"
+                                    }
+                                ],
+                                "preferred_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "name",
+                                        "phrase": "Name"
+                                    }
+                                ]
+                            }
+                        ],
+                        "publication_count": 6,
+                        "identifiers": [
+                            {
+                                "type": "ror",
+                                "type_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "ror",
+                                        "phrase": "ROR ID"
+                                    }
+                                ],
+                                "identifier": "https://ror.org/016h08r74"
+                            }
+                        ],
+                        "country_phrases": [
+                            {
+                                "language": "en",
+                                "value": "gb",
+                                "phrase": "United Kingdom"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "url": "https://www.microbiologyresearch.org/content/journal/jgv",
+            "issns": [
+                {
+                    "type": "print",
+                    "issn": "0022-1317",
+                    "type_phrases": [
+                        {
+                            "language": "en",
+                            "value": "print",
+                            "phrase": "Print"
+                        }
+                    ]
+                },
+                {
+                    "type_phrases": [
+                        {
+                            "language": "en",
+                            "value": "electronic",
+                            "phrase": "Electronic"
+                        }
+                    ],
+                    "issn": "1465-2099",
+                    "type": "electronic"
+                }
+            ],
+            "type": "journal",
+            "title": [
+                {
+                    "language": "en",
+                    "language_phrases": [
+                        {
+                            "language": "en",
+                            "value": "en",
+                            "phrase": "English"
+                        }
+                    ],
+                    "preferred_phrases": [
+                        {
+                            "language": "en",
+                            "value": "name",
+                            "phrase": "Title"
+                        }
+                    ],
+                    "title": "Journal of General Virology",
+                    "preferred": "name"
+                }
+            ],
+            "id": 14639,
+            "listed_in_doaj_phrases": [
+                {
+                    "language": "en",
+                    "value": "no",
+                    "phrase": "No"
+                }
+            ],
+            "publisher_policy": [
+                {
+                    "open_access_prohibited": "no",
+                    "urls": [
+                        {
+                            "description": "How to submit your article",
+                            "url": "https://www.microbiologyresearch.org/submit-an-article"
+                        },
+                        {
+                            "url": "https://www.microbiologyresearch.org/oa-policy",
+                            "description": "Open Access policy"
+                        }
+                    ],
+                    "internal_moniker": "Default Policy",
+                    "id": 69,
+                    "permitted_oa": [
+                        {
+                            "conditions": [
+                                "Published source must be acknowledged with citation once published",
+                                "Must link to published article with DOI",
+                                "Set phrase to accompany archived copy (see policy)",
+                                "Should link to published article once available"
+                            ],
+                            "additional_oa_fee": "no",
+                            "article_version": [
+                                "submitted"
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Submitted",
+                                    "language": "en",
+                                    "value": "submitted"
+                                }
+                            ],
+                            "location": {
+                                "named_repository": [
+                                    "bioRxiv"
+                                ],
+                                "location": [
+                                    "institutional_repository",
+                                    "named_repository",
+                                    "preprint_repository"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "phrase": "Institutional Repository",
+                                        "value": "institutional_repository",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "phrase": "Named Repository",
+                                        "language": "en",
+                                        "value": "named_repository"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "value": "preprint_repository",
+                                        "phrase": "Preprint Repository"
+                                    }
+                                ]
+                            },
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "value": "no",
+                                    "phrase": "No"
+                                }
+                            ]
+                        },
+                        {
+                            "article_version_phrases": [
+                                {
+                                    "value": "accepted",
+                                    "language": "en",
+                                    "phrase": "Accepted"
+                                }
+                            ],
+                            "copyright_owner": "authors",
+                            "public_notes": [
+                                "Version deposited must replicate that accepted for publication (authors version)"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "value": "no",
+                                    "phrase": "No"
+                                }
+                            ],
+                            "additional_oa_fee": "no",
+                            "location": {
+                                "named_repository": [
+                                    "BioRxiv",
+                                    "PubMed Central"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "value": "named_repository",
+                                        "language": "en",
+                                        "phrase": "Named Repository"
+                                    },
+                                    {
+                                        "value": "non_commercial_institutional_repository",
+                                        "language": "en",
+                                        "phrase": "Non-Commercial Institutional Repository"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "value": "non_commercial_subject_repository",
+                                        "phrase": "Non-Commercial Subject Repository"
+                                    },
+                                    {
+                                        "phrase": "Preprint Repository",
+                                        "value": "preprint_repository",
+                                        "language": "en"
+                                    }
+                                ],
+                                "location": [
+                                    "named_repository",
+                                    "non_commercial_institutional_repository",
+                                    "non_commercial_subject_repository",
+                                    "preprint_repository"
+                                ]
+                            },
+                            "article_version": [
+                                "accepted"
+                            ],
+                            "conditions": [
+                                "Published source must be acknowledged with citation",
+                                "Must link to published article with DOI",
+                                "Set phrase to accompany archived copy (see policy)"
+                            ],
+                            "copyright_owner_phrases": [
+                                {
+                                    "phrase": "Authors",
+                                    "value": "authors",
+                                    "language": "en"
+                                }
+                            ],
+                            "license": [
+                                {
+                                    "version": "4.0",
+                                    "license_phrases": [
+                                        {
+                                            "phrase": "CC BY",
+                                            "value": "cc_by",
+                                            "language": "en"
+                                        }
+                                    ],
+                                    "license": "cc_by"
+                                }
+                            ]
+                        },
+                        {
+                            "additional_oa_fee": "yes",
+                            "location": {
+                                "location": [
+                                    "institutional_repository",
+                                    "subject_repository",
+                                    "this_journal"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "value": "institutional_repository",
+                                        "language": "en",
+                                        "phrase": "Institutional Repository"
+                                    },
+                                    {
+                                        "phrase": "Subject Repository",
+                                        "language": "en",
+                                        "value": "subject_repository"
+                                    },
+                                    {
+                                        "value": "this_journal",
+                                        "language": "en",
+                                        "phrase": "Journal Website"
+                                    }
+                                ]
+                            },
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Published",
+                                    "value": "published",
+                                    "language": "en"
+                                }
+                            ],
+                            "article_version": [
+                                "published"
+                            ],
+                            "conditions": [
+                                "Published source must be acknowledged with citation",
+                                "Must link to published article with DOI"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "value": "yes",
+                                    "language": "en",
+                                    "phrase": "Yes"
+                                }
+                            ],
+                            "license": [
+                                {
+                                    "version": "4.0",
+                                    "license": "cc_by",
+                                    "license_phrases": [
+                                        {
+                                            "phrase": "CC BY",
+                                            "value": "cc_by",
+                                            "language": "en"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "open_access_prohibited_phrases": [
+                        {
+                            "language": "en",
+                            "value": "no",
+                            "phrase": "No"
+                        }
+                    ],
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/69",
+                    "publication_count": 4
+                }
+            ],
+            "listed_in_doaj": "no",
+            "system_metadata": {
+                "publicly_visible": "yes",
+                "id": 14639,
+                "uri": "https://v2.sherpa.ac.uk/id/publication/14639",
+                "date_created": "2010-09-08 10:07:19",
+                "publicly_visible_phrases": [
+                    {
+                        "phrase": "Yes",
+                        "value": "yes",
+                        "language": "en"
+                    }
+                ],
+                "date_modified": "2022-07-01 09:35:18"
+            },
+            "type_phrases": [
+                {
+                    "language": "en",
+                    "value": "journal",
+                    "phrase": "Journal"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,806 @@
+{
+    "items": [
+        {
+            "listed_in_doaj_phrases": [
+                {
+                    "phrase": "No",
+                    "language": "en",
+                    "value": "no"
+                }
+            ],
+            "system_metadata": {
+                "id": 11344,
+                "publicly_visible_phrases": [
+                    {
+                        "language": "en",
+                        "phrase": "Yes",
+                        "value": "yes"
+                    }
+                ],
+                "date_modified": "2022-09-21 13:50:41",
+                "date_created": "2010-08-25 13:57:49",
+                "publicly_visible": "yes",
+                "uri": "https://v2.sherpa.ac.uk/id/publication/11344"
+            },
+            "publishers": [
+                {
+                    "relationship_type": "society_publisher",
+                    "publisher": {
+                        "imprints_id": [
+                            1631
+                        ],
+                        "name": [
+                            {
+                                "preferred": "name",
+                                "language": "en",
+                                "name": "IOP Publishing",
+                                "preferred_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "Name",
+                                        "value": "name"
+                                    }
+                                ],
+                                "language_phrases": [
+                                    {
+                                        "value": "en",
+                                        "language": "en",
+                                        "phrase": "English"
+                                    }
+                                ]
+                            }
+                        ],
+                        "country_phrases": [
+                            {
+                                "value": "gb",
+                                "language": "en",
+                                "phrase": "United Kingdom"
+                            }
+                        ],
+                        "country": "gb",
+                        "url": "http://iopscience.iop.org/",
+                        "publication_count": 98,
+                        "id": 40,
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/40"
+                    },
+                    "relationship_type_phrases": [
+                        {
+                            "value": "society_publisher",
+                            "phrase": "Society Publisher",
+                            "language": "en"
+                        }
+                    ]
+                }
+            ],
+            "issns": [
+                {
+                    "type": "print",
+                    "issn": "0034-4885",
+                    "type_phrases": [
+                        {
+                            "language": "en",
+                            "phrase": "Print",
+                            "value": "print"
+                        }
+                    ]
+                },
+                {
+                    "issn": "1361-6633",
+                    "type": "electronic",
+                    "type_phrases": [
+                        {
+                            "value": "electronic",
+                            "language": "en",
+                            "phrase": "Electronic"
+                        }
+                    ]
+                }
+            ],
+            "url": "https://iopscience.iop.org/journal/0034-4885",
+            "type_phrases": [
+                {
+                    "language": "en",
+                    "phrase": "Journal",
+                    "value": "journal"
+                }
+            ],
+            "publisher_policy": [
+                {
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/40",
+                    "id": 40,
+                    "open_access_prohibited_phrases": [
+                        {
+                            "language": "en",
+                            "phrase": "No",
+                            "value": "no"
+                        }
+                    ],
+                    "internal_moniker": "Default Policy",
+                    "publication_count": 52,
+                    "open_access_prohibited": "no",
+                    "permitted_oa": [
+                        {
+                            "article_version_phrases": [
+                                {
+                                    "value": "submitted",
+                                    "phrase": "Submitted",
+                                    "language": "en"
+                                }
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "phrase": "No",
+                                    "language": "en",
+                                    "value": "no"
+                                }
+                            ],
+                            "article_version": [
+                                "submitted"
+                            ],
+                            "conditions": [
+                                "Can not be updated after submission",
+                                "Set statements to accompany different versions (see policy)",
+                                "Published source must be acknowledged with citation upon publication",
+                                "Must link to publisher version with DOI upon publication",
+                                "Academic Social Networks must have been endorsed the STM voluntary principles for article sharing"
+                            ],
+                            "additional_oa_fee": "no",
+                            "location": {
+                                "location": [
+                                    "academic_social_network",
+                                    "any_website",
+                                    "authors_homepage",
+                                    "named_repository",
+                                    "non_commercial_repository",
+                                    "preprint_repository"
+                                ],
+                                "named_repository": [
+                                    "arXiv",
+                                    "bioRxiv"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "value": "academic_social_network",
+                                        "language": "en",
+                                        "phrase": "Academic Social Network"
+                                    },
+                                    {
+                                        "phrase": "Any Website",
+                                        "language": "en",
+                                        "value": "any_website"
+                                    },
+                                    {
+                                        "phrase": "Author's Homepage",
+                                        "language": "en",
+                                        "value": "authors_homepage"
+                                    },
+                                    {
+                                        "value": "named_repository",
+                                        "phrase": "Named Repository",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "value": "non_commercial_repository",
+                                        "phrase": "Non-Commercial Repository",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "phrase": "Preprint Repository",
+                                        "value": "preprint_repository"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "article_version_phrases": [
+                                {
+                                    "value": "accepted",
+                                    "language": "en",
+                                    "phrase": "Accepted"
+                                }
+                            ],
+                            "license": [
+                                {
+                                    "version": "4.0",
+                                    "license": "cc_by_nc_nd",
+                                    "license_phrases": [
+                                        {
+                                            "value": "cc_by_nc_nd",
+                                            "phrase": "CC BY-NC-ND",
+                                            "language": "en"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "additional_oa_fee": "no",
+                            "conditions": [
+                                "Published source must be acknowledged with citation",
+                                "Must link to publisher version with DOI",
+                                "Set statements to accompany different versions (see policy)"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "No",
+                                    "value": "no"
+                                }
+                            ],
+                            "article_version": [
+                                "accepted"
+                            ],
+                            "embargo": {
+                                "amount": 12,
+                                "units": "months",
+                                "units_phrases": [
+                                    {
+                                        "phrase": "Months",
+                                        "language": "en",
+                                        "value": "months"
+                                    }
+                                ]
+                            },
+                            "location": {
+                                "named_repository": [
+                                    "PubMed Central"
+                                ],
+                                "location": [
+                                    "authors_homepage",
+                                    "institutional_website",
+                                    "named_repository",
+                                    "non_commercial_institutional_repository",
+                                    "non_commercial_social_network",
+                                    "non_commercial_subject_repository"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "Author's Homepage",
+                                        "value": "authors_homepage"
+                                    },
+                                    {
+                                        "value": "institutional_website",
+                                        "phrase": "Institutional Website",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "value": "named_repository",
+                                        "language": "en",
+                                        "phrase": "Named Repository"
+                                    },
+                                    {
+                                        "phrase": "Non-Commercial Institutional Repository",
+                                        "language": "en",
+                                        "value": "non_commercial_institutional_repository"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "phrase": "Non-Commercial Social Network",
+                                        "value": "non_commercial_social_network"
+                                    },
+                                    {
+                                        "value": "non_commercial_subject_repository",
+                                        "phrase": "Non-Commercial Subject Repository",
+                                        "language": "en"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "location": {
+                                "named_repository": [
+                                    "arXiv",
+                                    "bioRxiv"
+                                ],
+                                "location": [
+                                    "named_repository"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "value": "named_repository",
+                                        "language": "en",
+                                        "phrase": "Named Repository"
+                                    }
+                                ]
+                            },
+                            "embargo": {
+                                "units": "months",
+                                "units_phrases": [
+                                    {
+                                        "value": "months",
+                                        "phrase": "Months",
+                                        "language": "en"
+                                    }
+                                ],
+                                "amount": 12
+                            },
+                            "article_version": [
+                                "accepted"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "No",
+                                    "value": "no"
+                                }
+                            ],
+                            "conditions": [
+                                "If author selects 'non-exclusive license to distribute'",
+                                "Published source must be acknowledged with citation",
+                                "Must link to publisher version with DOI",
+                                "Set statements to accompany different versions (see policy)"
+                            ],
+                            "additional_oa_fee": "no",
+                            "license": [
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "phrase": "CC BY-NC-ND",
+                                            "language": "en",
+                                            "value": "cc_by_nc_nd"
+                                        }
+                                    ],
+                                    "license": "cc_by_nc_nd",
+                                    "version": "4.0"
+                                }
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "value": "accepted",
+                                    "phrase": "Accepted",
+                                    "language": "en"
+                                }
+                            ]
+                        },
+                        {
+                            "article_version_phrases": [
+                                {
+                                    "value": "accepted",
+                                    "language": "en",
+                                    "phrase": "Accepted"
+                                }
+                            ],
+                            "conditions": [
+                                "Closed deposit within 3 months of date of acceptance",
+                                "Published source must be acknowledged with citation",
+                                "Must link to publisher version with DOI",
+                                "Published source must be acknowledged with citation"
+                            ],
+                            "additional_oa_fee": "no",
+                            "prerequisites": {
+                                "prerequisite_funders": [
+                                    {
+                                        "funder_metadata": {
+                                            "identifiers": [
+                                                {
+                                                    "type": "fundref",
+                                                    "identifier": "http://dx.doi.org/10.13039/501100000384",
+                                                    "type_phrases": [
+                                                        {
+                                                            "value": "fundref",
+                                                            "language": "en",
+                                                            "phrase": "FundRef DOI"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type_phrases": [
+                                                        {
+                                                            "language": "en",
+                                                            "phrase": "ROR ID",
+                                                            "value": "ror"
+                                                        }
+                                                    ],
+                                                    "identifier": "https://ror.org/02wxr8x18",
+                                                    "type": "ror"
+                                                }
+                                            ],
+                                            "id": 877,
+                                            "country": "gb",
+                                            "name": [
+                                                {
+                                                    "preferred_phrases": [
+                                                        {
+                                                            "value": "acronym",
+                                                            "phrase": "Acronym",
+                                                            "language": "en"
+                                                        }
+                                                    ],
+                                                    "name": "Higher Education Funding Council for England",
+                                                    "language": "en",
+                                                    "acronym": "HEFCE",
+                                                    "preferred": "acronym",
+                                                    "language_phrases": [
+                                                        {
+                                                            "value": "en",
+                                                            "phrase": "English",
+                                                            "language": "en"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "country_phrases": [
+                                                {
+                                                    "phrase": "United Kingdom",
+                                                    "language": "en",
+                                                    "value": "gb"
+                                                }
+                                            ],
+                                            "url": [
+                                                {
+                                                    "language": "en",
+                                                    "language_phrases": [
+                                                        {
+                                                            "value": "en",
+                                                            "phrase": "English",
+                                                            "language": "en"
+                                                        }
+                                                    ],
+                                                    "url": "http://www.hefce.ac.uk/"
+                                                }
+                                            ]
+                                        },
+                                        "system_metadata": {
+                                            "id": 877,
+                                            "uri": "https://v2.sherpa.ac.uk/id/funder/877"
+                                        }
+                                    },
+                                    {
+                                        "system_metadata": {
+                                            "id": 881,
+                                            "uri": "https://v2.sherpa.ac.uk/id/funder/881"
+                                        },
+                                        "funder_metadata": {
+                                            "url": [
+                                                {
+                                                    "language": "en",
+                                                    "url": "http://www.hefcw.ac.uk/home/home.aspx",
+                                                    "language_phrases": [
+                                                        {
+                                                            "value": "en",
+                                                            "phrase": "English",
+                                                            "language": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "language_phrases": [
+                                                        {
+                                                            "value": "cy",
+                                                            "language": "en",
+                                                            "phrase": "Welsh"
+                                                        }
+                                                    ],
+                                                    "url": "http://www.hefcw.ac.uk/home/home_cy.aspx",
+                                                    "language": "cy"
+                                                }
+                                            ],
+                                            "id": 881,
+                                            "country": "gb",
+                                            "country_phrases": [
+                                                {
+                                                    "language": "en",
+                                                    "phrase": "United Kingdom",
+                                                    "value": "gb"
+                                                }
+                                            ],
+                                            "name": [
+                                                {
+                                                    "language": "en",
+                                                    "name": "Higher Education Funding Council for Wales",
+                                                    "preferred_phrases": [
+                                                        {
+                                                            "value": "acronym",
+                                                            "language": "en",
+                                                            "phrase": "Acronym"
+                                                        }
+                                                    ],
+                                                    "preferred": "acronym",
+                                                    "acronym": "HEFCW",
+                                                    "language_phrases": [
+                                                        {
+                                                            "language": "en",
+                                                            "phrase": "English",
+                                                            "value": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "language_phrases": [
+                                                        {
+                                                            "phrase": "Welsh",
+                                                            "language": "en",
+                                                            "value": "cy"
+                                                        }
+                                                    ],
+                                                    "name": "Cyngor Cyllido Addysg Uwch Cymru",
+                                                    "language": "cy",
+                                                    "preferred_phrases": [
+                                                        {
+                                                            "phrase": "Acronym",
+                                                            "language": "en",
+                                                            "value": "acronym"
+                                                        }
+                                                    ],
+                                                    "preferred": "acronym",
+                                                    "acronym": "CCAUC"
+                                                }
+                                            ],
+                                            "identifiers": [
+                                                {
+                                                    "type_phrases": [
+                                                        {
+                                                            "phrase": "FundRef DOI",
+                                                            "language": "en",
+                                                            "value": "fundref"
+                                                        }
+                                                    ],
+                                                    "identifier": "http://dx.doi.org/10.13039/501100000383",
+                                                    "type": "fundref"
+                                                },
+                                                {
+                                                    "identifier": "https://ror.org/056y81r79",
+                                                    "type_phrases": [
+                                                        {
+                                                            "value": "ror",
+                                                            "phrase": "ROR ID",
+                                                            "language": "en"
+                                                        }
+                                                    ],
+                                                    "type": "ror"
+                                                }
+                                            ],
+                                            "groups": [
+                                                {
+                                                    "uri": "https://v2.sherpa.ac.uk/id/funder_group/1060",
+                                                    "type": "funder_group",
+                                                    "id": 1060,
+                                                    "name": "REF"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "system_metadata": {
+                                            "uri": "https://v2.sherpa.ac.uk/id/funder/887",
+                                            "id": 887
+                                        },
+                                        "funder_metadata": {
+                                            "url": [
+                                                {
+                                                    "url": "http://www.sfc.ac.uk/",
+                                                    "language_phrases": [
+                                                        {
+                                                            "value": "en",
+                                                            "phrase": "English",
+                                                            "language": "en"
+                                                        }
+                                                    ],
+                                                    "language": "en"
+                                                }
+                                            ],
+                                            "identifiers": [
+                                                {
+                                                    "type_phrases": [
+                                                        {
+                                                            "language": "en",
+                                                            "phrase": "FundRef DOI",
+                                                            "value": "fundref"
+                                                        }
+                                                    ],
+                                                    "identifier": "http://dx.doi.org/10.13039/501100000360",
+                                                    "type": "fundref"
+                                                },
+                                                {
+                                                    "type_phrases": [
+                                                        {
+                                                            "language": "en",
+                                                            "phrase": "ROR ID",
+                                                            "value": "ror"
+                                                        }
+                                                    ],
+                                                    "identifier": "https://ror.org/056bwcz71",
+                                                    "type": "ror"
+                                                }
+                                            ],
+                                            "groups": [
+                                                {
+                                                    "uri": "https://v2.sherpa.ac.uk/id/funder_group/1060",
+                                                    "type": "funder_group",
+                                                    "name": "REF",
+                                                    "id": 1060
+                                                }
+                                            ],
+                                            "country": "gb",
+                                            "id": 887,
+                                            "name": [
+                                                {
+                                                    "acronym": "SFC",
+                                                    "preferred": "name",
+                                                    "preferred_phrases": [
+                                                        {
+                                                            "language": "en",
+                                                            "phrase": "Name",
+                                                            "value": "name"
+                                                        }
+                                                    ],
+                                                    "name": "Scottish Funding Council",
+                                                    "language": "en",
+                                                    "language_phrases": [
+                                                        {
+                                                            "language": "en",
+                                                            "phrase": "English",
+                                                            "value": "en"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "country_phrases": [
+                                                {
+                                                    "value": "gb",
+                                                    "language": "en",
+                                                    "phrase": "United Kingdom"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "funder_metadata": {
+                                            "url": [
+                                                {
+                                                    "language": "en",
+                                                    "url": "https://www.economy-ni.gov.uk/",
+                                                    "language_phrases": [
+                                                        {
+                                                            "value": "en",
+                                                            "phrase": "English",
+                                                            "language": "en"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "name": [
+                                                {
+                                                    "language_phrases": [
+                                                        {
+                                                            "value": "en",
+                                                            "phrase": "English",
+                                                            "language": "en"
+                                                        }
+                                                    ],
+                                                    "preferred": "name",
+                                                    "name": "Department for the Economy, Northern Ireland",
+                                                    "language": "en",
+                                                    "preferred_phrases": [
+                                                        {
+                                                            "phrase": "Name",
+                                                            "language": "en",
+                                                            "value": "name"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "country_phrases": [
+                                                {
+                                                    "value": "gb",
+                                                    "language": "en",
+                                                    "phrase": "United Kingdom"
+                                                }
+                                            ],
+                                            "country": "gb",
+                                            "id": 884,
+                                            "groups": [
+                                                {
+                                                    "name": "REF",
+                                                    "id": 1060,
+                                                    "type": "funder_group",
+                                                    "uri": "https://v2.sherpa.ac.uk/id/funder_group/1060"
+                                                }
+                                            ],
+                                            "identifiers": [
+                                                {
+                                                    "type_phrases": [
+                                                        {
+                                                            "phrase": "FundRef DOI",
+                                                            "language": "en",
+                                                            "value": "fundref"
+                                                        }
+                                                    ],
+                                                    "identifier": "http://dx.doi.org/10.13039/100008303",
+                                                    "type": "fundref"
+                                                },
+                                                {
+                                                    "type_phrases": [
+                                                        {
+                                                            "phrase": "ROR ID",
+                                                            "language": "en",
+                                                            "value": "ror"
+                                                        }
+                                                    ],
+                                                    "identifier": "https://ror.org/05w9mt194",
+                                                    "type": "ror"
+                                                }
+                                            ]
+                                        },
+                                        "system_metadata": {
+                                            "id": 884,
+                                            "uri": "https://v2.sherpa.ac.uk/id/funder/884"
+                                        }
+                                    }
+                                ]
+                            },
+                            "article_version": [
+                                "accepted"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "value": "no",
+                                    "language": "en",
+                                    "phrase": "No"
+                                }
+                            ],
+                            "location": {
+                                "location": [
+                                    "non_commercial_repository"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "Non-Commercial Repository",
+                                        "value": "non_commercial_repository"
+                                    }
+                                ]
+                            },
+                            "embargo": {
+                                "amount": 12,
+                                "units_phrases": [
+                                    {
+                                        "value": "months",
+                                        "phrase": "Months",
+                                        "language": "en"
+                                    }
+                                ],
+                                "units": "months"
+                            }
+                        },
+                        {}
+                    ],
+                    "urls": [
+                        {
+                            "url": "http://ioppublishing.org/wp-content/uploads/2016/05/J-VAR-LF-0216-Author-Rights-New-5.pdf",
+                            "description": "Author rights"
+                        },
+                        {
+                            "url": "https://publishingsupport.iopscience.iop.org/author-rights-policies/",
+                            "description": "Author rights and article sharing"
+                        },
+                        {
+                            "url": "https://publishingsupport.iopscience.iop.org/preprint-pre-publication-policy/",
+                            "description": "Preprint policy"
+                        },
+                        {
+                            "description": "Author Rights Policy (subscription articles)",
+                            "url": "https://publishingsupport.iopscience.iop.org/current-policy-author-rights-policy-for-subscription-articles-for-which-the-copyright-form-was-submitted-on-or-after-26-april-2016/"
+                        }
+                    ]
+                }
+            ],
+            "listed_in_doaj": "no",
+            "id": 11344,
+            "title": [
+                {
+                    "title": "Reports on Progress in Physics",
+                    "language": "en",
+                    "language_phrases": [
+                        {
+                            "value": "en",
+                            "phrase": "English",
+                            "language": "en"
+                        }
+                    ]
+                }
+            ],
+            "type": "journal"
+        }
+    ]
+}

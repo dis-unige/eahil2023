@@ -1,0 +1,315 @@
+{
+    "items": [
+        {
+            "listed_in_doaj": "no",
+            "system_metadata": {
+                "publicly_visible_phrases": [
+                    {
+                        "value": "yes",
+                        "phrase": "Yes",
+                        "language": "en"
+                    }
+                ],
+                "date_created": "2010-08-02 11:49:36",
+                "date_modified": "2022-08-05 12:45:16",
+                "publicly_visible": "yes",
+                "uri": "https://v2.sherpa.ac.uk/id/publication/6235",
+                "id": 6235
+            },
+            "issns": [
+                {
+                    "type_phrases": [
+                        {
+                            "value": "print",
+                            "phrase": "Print",
+                            "language": "en"
+                        }
+                    ],
+                    "issn": "1551-8949",
+                    "type": "print"
+                },
+                {
+                    "type": "electronic",
+                    "issn": "1935-5068",
+                    "type_phrases": [
+                        {
+                            "language": "en",
+                            "value": "electronic",
+                            "phrase": "Electronic"
+                        }
+                    ]
+                }
+            ],
+            "publishers": [
+                {
+                    "publisher": {
+                        "id": 760,
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/760",
+                        "url": "https://www.aapd.org/",
+                        "country_phrases": [
+                            {
+                                "language": "en",
+                                "value": "us",
+                                "phrase": "United States of America"
+                            }
+                        ],
+                        "country": "us",
+                        "name": [
+                            {
+                                "language_phrases": [
+                                    {
+                                        "phrase": "English",
+                                        "value": "en",
+                                        "language": "en"
+                                    }
+                                ],
+                                "preferred_phrases": [
+                                    {
+                                        "value": "name",
+                                        "phrase": "Name",
+                                        "language": "en"
+                                    }
+                                ],
+                                "language": "en",
+                                "preferred": "name",
+                                "name": "American Academy of Pediatric Dentistry"
+                            }
+                        ],
+                        "publication_count": 2
+                    },
+                    "relationship_type": "society_publisher",
+                    "relationship_type_phrases": [
+                        {
+                            "language": "en",
+                            "phrase": "Society Publisher",
+                            "value": "society_publisher"
+                        }
+                    ]
+                }
+            ],
+            "publisher_policy": [
+                {
+                    "id": 760,
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/760",
+                    "urls": [
+                        {
+                            "description": "Example - Instructions for Authors",
+                            "url": "http://www.aapd.org/assets/1/7/PDInstructions.pdf"
+                        }
+                    ],
+                    "internal_moniker": "Default policy",
+                    "open_access_prohibited_phrases": [
+                        {
+                            "language": "en",
+                            "value": "no",
+                            "phrase": "No"
+                        }
+                    ],
+                    "open_access_prohibited": "no",
+                    "permitted_oa": [
+                        {
+                            "prerequisites": {
+                                "prerequisites": [
+                                    "requires_publisher_permission"
+                                ],
+                                "prerequisites_phrases": [
+                                    {
+                                        "value": "requires_publisher_permission",
+                                        "phrase": "If Publisher Permission Granted",
+                                        "language": "en"
+                                    }
+                                ],
+                                "prerequisite_funders": [
+                                    {
+                                        "funder_metadata": {
+                                            "url": [
+                                                {
+                                                    "url": "https://www.nih.gov/",
+                                                    "language_phrases": [
+                                                        {
+                                                            "value": "en",
+                                                            "phrase": "English",
+                                                            "language": "en"
+                                                        }
+                                                    ],
+                                                    "language": "en"
+                                                }
+                                            ],
+                                            "identifiers": [
+                                                {
+                                                    "identifier": "http://dx.doi.org/10.13039/100000002",
+                                                    "type_phrases": [
+                                                        {
+                                                            "phrase": "FundRef DOI",
+                                                            "value": "fundref",
+                                                            "language": "en"
+                                                        }
+                                                    ],
+                                                    "type": "fundref"
+                                                },
+                                                {
+                                                    "type": "ror",
+                                                    "type_phrases": [
+                                                        {
+                                                            "phrase": "ROR ID",
+                                                            "value": "ror",
+                                                            "language": "en"
+                                                        }
+                                                    ],
+                                                    "identifier": "https://ror.org/01cwqze88"
+                                                }
+                                            ],
+                                            "country_phrases": [
+                                                {
+                                                    "language": "en",
+                                                    "phrase": "United States of America",
+                                                    "value": "us"
+                                                }
+                                            ],
+                                            "id": 9,
+                                            "name": [
+                                                {
+                                                    "name": "National Institutes of Health",
+                                                    "preferred_phrases": [
+                                                        {
+                                                            "phrase": "Name",
+                                                            "value": "name",
+                                                            "language": "en"
+                                                        }
+                                                    ],
+                                                    "preferred": "name",
+                                                    "language_phrases": [
+                                                        {
+                                                            "language": "en",
+                                                            "value": "en",
+                                                            "phrase": "English"
+                                                        }
+                                                    ],
+                                                    "acronym": "NIH",
+                                                    "language": "en"
+                                                }
+                                            ],
+                                            "country": "us"
+                                        },
+                                        "system_metadata": {
+                                            "id": 9,
+                                            "uri": "https://v2.sherpa.ac.uk/id/funder/9"
+                                        }
+                                    }
+                                ]
+                            },
+                            "publisher_deposit": [
+                                {
+                                    "repository_metadata": {
+                                        "name": [
+                                            {
+                                                "name": "PubMed Central",
+                                                "preferred": "name",
+                                                "language": "en",
+                                                "preferred_phrases": [
+                                                    {
+                                                        "language": "en",
+                                                        "phrase": "Name",
+                                                        "value": "name"
+                                                    }
+                                                ],
+                                                "language_phrases": [
+                                                    {
+                                                        "language": "en",
+                                                        "value": "en",
+                                                        "phrase": "English"
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "url": "http://www.ncbi.nlm.nih.gov/pmc/",
+                                        "type_phrases": [
+                                            {
+                                                "language": "en",
+                                                "phrase": "Disciplinary",
+                                                "value": "disciplinary"
+                                            }
+                                        ],
+                                        "type": "disciplinary"
+                                    },
+                                    "system_metadata": {
+                                        "uri": "https://v2.sherpa.ac.uk/id/repository/267",
+                                        "id": 267
+                                    }
+                                }
+                            ],
+                            "public_notes": [
+                                "Authors of studies funded by the NIH whose manuscripts are accepted for publication will have their final accepted version deposited to PubMed® Central (PMC) by the publisher AAPD on behalf of the authors"
+                            ],
+                            "location": {
+                                "location": [
+                                    "named_repository"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "value": "named_repository",
+                                        "phrase": "Named Repository",
+                                        "language": "en"
+                                    }
+                                ],
+                                "named_repository": [
+                                    "PubMed Central"
+                                ]
+                            },
+                            "article_version": [
+                                "published"
+                            ],
+                            "id": 1635,
+                            "additional_oa_fee": "no",
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "value": "no",
+                                    "phrase": "No"
+                                }
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Published",
+                                    "value": "published",
+                                    "language": "en"
+                                }
+                            ]
+                        }
+                    ],
+                    "publication_count": 2
+                }
+            ],
+            "type": "journal",
+            "id": 6235,
+            "type_phrases": [
+                {
+                    "language": "en",
+                    "value": "journal",
+                    "phrase": "Journal"
+                }
+            ],
+            "listed_in_doaj_phrases": [
+                {
+                    "language": "en",
+                    "phrase": "No",
+                    "value": "no"
+                }
+            ],
+            "url": "https://www.aapd.org/publications/journals/journal-of-dentistry-for-children/",
+            "title": [
+                {
+                    "language_phrases": [
+                        {
+                            "language": "en",
+                            "value": "en",
+                            "phrase": "English"
+                        }
+                    ],
+                    "language": "en",
+                    "title": "Journal of Dentistry for Children"
+                }
+            ]
+        }
+    ]
+}

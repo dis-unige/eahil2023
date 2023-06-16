@@ -1,0 +1,547 @@
+{
+    "items": [
+        {
+            "type_phrases": [
+                {
+                    "language": "en",
+                    "phrase": "Journal",
+                    "value": "journal"
+                }
+            ],
+            "publisher_policy": [
+                {
+                    "internal_moniker": "Default policy",
+                    "publication_count": 12,
+                    "open_access_prohibited": "no",
+                    "permitted_oa": [
+                        {
+                            "article_version_phrases": [
+                                {
+                                    "value": "submitted",
+                                    "language": "en",
+                                    "phrase": "Submitted"
+                                },
+                                {
+                                    "phrase": "Accepted",
+                                    "language": "en",
+                                    "value": "accepted"
+                                }
+                            ],
+                            "conditions": [
+                                "Pre-print must acknowledge submission to journal",
+                                "Must link to publisher version on IUCr server",
+                                "Published source must be acknowledged with citation"
+                            ],
+                            "copyright_owner": "authors",
+                            "additional_oa_fee": "no",
+                            "article_version": [
+                                "submitted",
+                                "accepted"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "value": "no",
+                                    "language": "en",
+                                    "phrase": "No"
+                                }
+                            ],
+                            "copyright_owner_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "Authors",
+                                    "value": "authors"
+                                }
+                            ],
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "value": "authors_homepage",
+                                        "language": "en",
+                                        "phrase": "Author's Homepage"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "phrase": "Institutional Repository",
+                                        "value": "institutional_repository"
+                                    },
+                                    {
+                                        "phrase": "Institutional Website",
+                                        "language": "en",
+                                        "value": "institutional_website"
+                                    },
+                                    {
+                                        "value": "non_commercial_subject_repository",
+                                        "language": "en",
+                                        "phrase": "Non-Commercial Subject Repository"
+                                    },
+                                    {
+                                        "phrase": "Preprint Repository",
+                                        "language": "en",
+                                        "value": "preprint_repository"
+                                    }
+                                ],
+                                "location": [
+                                    "authors_homepage",
+                                    "institutional_repository",
+                                    "institutional_website",
+                                    "non_commercial_subject_repository",
+                                    "preprint_repository"
+                                ]
+                            }
+                        },
+                        {
+                            "copyright_owner": "authors",
+                            "conditions": [
+                                "Published source must be acknowledged with citation",
+                                "Must link to publisher version on IUCr server"
+                            ],
+                            "additional_oa_fee": "no",
+                            "prerequisites": {
+                                "prerequisites": [
+                                    "when_required_by_funder"
+                                ],
+                                "prerequisites_phrases": [
+                                    {
+                                        "value": "when_required_by_funder",
+                                        "language": "en",
+                                        "phrase": "If Required by Funder"
+                                    }
+                                ]
+                            },
+                            "license": [
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "language": "en",
+                                            "phrase": "CC BY",
+                                            "value": "cc_by"
+                                        }
+                                    ],
+                                    "license": "cc_by"
+                                }
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "value": "accepted",
+                                    "language": "en",
+                                    "phrase": "Accepted"
+                                }
+                            ],
+                            "copyright_owner_phrases": [
+                                {
+                                    "value": "authors",
+                                    "phrase": "Authors",
+                                    "language": "en"
+                                }
+                            ],
+                            "location": {
+                                "location": [
+                                    "authors_homepage",
+                                    "institutional_repository",
+                                    "institutional_website",
+                                    "non_commercial_subject_repository",
+                                    "subject_repository"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "Author's Homepage",
+                                        "value": "authors_homepage"
+                                    },
+                                    {
+                                        "phrase": "Institutional Repository",
+                                        "language": "en",
+                                        "value": "institutional_repository"
+                                    },
+                                    {
+                                        "value": "institutional_website",
+                                        "language": "en",
+                                        "phrase": "Institutional Website"
+                                    },
+                                    {
+                                        "value": "non_commercial_subject_repository",
+                                        "language": "en",
+                                        "phrase": "Non-Commercial Subject Repository"
+                                    },
+                                    {
+                                        "value": "subject_repository",
+                                        "phrase": "Subject Repository",
+                                        "language": "en"
+                                    }
+                                ]
+                            },
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "No",
+                                    "value": "no"
+                                }
+                            ],
+                            "article_version": [
+                                "accepted"
+                            ]
+                        },
+                        {
+                            "conditions": [
+                                "Must link to publisher version on IUCr server",
+                                "Published source must be acknowledged with citation"
+                            ],
+                            "copyright_owner": "authors",
+                            "additional_oa_fee": "no",
+                            "article_version_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "Published",
+                                    "value": "published"
+                                }
+                            ],
+                            "location": {
+                                "location": [
+                                    "authors_homepage",
+                                    "institutional_repository",
+                                    "institutional_website",
+                                    "named_repository",
+                                    "non_commercial_subject_repository"
+                                ],
+                                "named_repository": [
+                                    "PubMed Central"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "phrase": "Author's Homepage",
+                                        "language": "en",
+                                        "value": "authors_homepage"
+                                    },
+                                    {
+                                        "value": "institutional_repository",
+                                        "language": "en",
+                                        "phrase": "Institutional Repository"
+                                    },
+                                    {
+                                        "value": "institutional_website",
+                                        "phrase": "Institutional Website",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "phrase": "Named Repository",
+                                        "value": "named_repository"
+                                    },
+                                    {
+                                        "value": "non_commercial_subject_repository",
+                                        "language": "en",
+                                        "phrase": "Non-Commercial Subject Repository"
+                                    }
+                                ]
+                            },
+                            "copyright_owner_phrases": [
+                                {
+                                    "value": "authors",
+                                    "phrase": "Authors",
+                                    "language": "en"
+                                }
+                            ],
+                            "article_version": [
+                                "published"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "value": "no",
+                                    "language": "en",
+                                    "phrase": "No"
+                                }
+                            ]
+                        },
+                        {
+                            "copyright_owner_phrases": [
+                                {
+                                    "value": "authors",
+                                    "phrase": "Authors",
+                                    "language": "en"
+                                }
+                            ],
+                            "location": {
+                                "location": [
+                                    "named_repository",
+                                    "this_journal"
+                                ],
+                                "named_repository": [
+                                    "PubMed Central"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "value": "named_repository",
+                                        "language": "en",
+                                        "phrase": "Named Repository"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "phrase": "Journal Website",
+                                        "value": "this_journal"
+                                    }
+                                ]
+                            },
+                            "article_version": [
+                                "published"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "phrase": "Yes",
+                                    "language": "en",
+                                    "value": "yes"
+                                }
+                            ],
+                            "conditions": [
+                                "Published source must be acknowledged with citation"
+                            ],
+                            "copyright_owner": "authors",
+                            "license": [
+                                {
+                                    "license": "cc_by",
+                                    "version": "4.0",
+                                    "license_phrases": [
+                                        {
+                                            "value": "cc_by",
+                                            "language": "en",
+                                            "phrase": "CC BY"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "additional_oa_fee": "yes",
+                            "article_version_phrases": [
+                                {
+                                    "value": "published",
+                                    "language": "en",
+                                    "phrase": "Published"
+                                }
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "http://journals.iucr.org/services/copyrightpolicy.html",
+                            "description": "opyright and licencing policy"
+                        },
+                        {
+                            "description": "author rights",
+                            "url": "http://journals.iucr.org/services/authorrights.html"
+                        },
+                        {
+                            "url": "http://journals.iucr.org/services/nihpolicy.html",
+                            "description": "NIH Public Access Policy"
+                        },
+                        {
+                            "description": "Open Access",
+                            "url": "http://journals.iucr.org/services/openaccess.html"
+                        }
+                    ],
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/332",
+                    "open_access_prohibited_phrases": [
+                        {
+                            "value": "no",
+                            "language": "en",
+                            "phrase": "No"
+                        }
+                    ],
+                    "id": 332
+                }
+            ],
+            "title": [
+                {
+                    "language_phrases": [
+                        {
+                            "value": "en",
+                            "language": "en",
+                            "phrase": "English"
+                        }
+                    ],
+                    "preferred": "name",
+                    "preferred_phrases": [
+                        {
+                            "value": "name",
+                            "language": "en",
+                            "phrase": "Title"
+                        }
+                    ],
+                    "title": "Acta Crystallographica Section B: Structural Science, Crystal Engineering and Materials",
+                    "language": "en"
+                }
+            ],
+            "id": 29902,
+            "listed_in_doaj": "no",
+            "type": "journal",
+            "listed_in_doaj_phrases": [
+                {
+                    "language": "en",
+                    "phrase": "No",
+                    "value": "no"
+                }
+            ],
+            "system_metadata": {
+                "date_modified": "2022-07-21 10:51:11",
+                "date_created": "2015-07-14 11:19:36",
+                "publicly_visible": "yes",
+                "uri": "https://v2.sherpa.ac.uk/id/publication/29902",
+                "id": 29902,
+                "publicly_visible_phrases": [
+                    {
+                        "language": "en",
+                        "phrase": "Yes",
+                        "value": "yes"
+                    }
+                ]
+            },
+            "publishers": [
+                {
+                    "relationship_type_phrases": [
+                        {
+                            "language": "en",
+                            "phrase": "Client Organisation",
+                            "value": "client_organisation"
+                        }
+                    ],
+                    "publisher": {
+                        "identifiers": [
+                            {
+                                "type_phrases": [
+                                    {
+                                        "phrase": "ROR ID",
+                                        "language": "en",
+                                        "value": "ror"
+                                    }
+                                ],
+                                "identifier": "https://ror.org/00vdend65",
+                                "type": "ror"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "language_phrases": [
+                                    {
+                                        "value": "en",
+                                        "language": "en",
+                                        "phrase": "English"
+                                    }
+                                ],
+                                "preferred": "name",
+                                "preferred_phrases": [
+                                    {
+                                        "value": "name",
+                                        "phrase": "Name",
+                                        "language": "en"
+                                    }
+                                ],
+                                "language": "en",
+                                "name": "International Union of Crystallography"
+                            }
+                        ],
+                        "country_phrases": [
+                            {
+                                "phrase": "United Kingdom",
+                                "language": "en",
+                                "value": "gb"
+                            }
+                        ],
+                        "country": "gb",
+                        "publication_count": 10,
+                        "url": "http://www.iucr.org/",
+                        "id": 332,
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/332"
+                    },
+                    "relationship_type": "client_organisation"
+                },
+                {
+                    "relationship_type_phrases": [
+                        {
+                            "phrase": "Commercial Publisher",
+                            "language": "en",
+                            "value": "commercial_publisher"
+                        }
+                    ],
+                    "publisher": {
+                        "imprints_id": [
+                            1390,
+                            100,
+                            53370,
+                            1032,
+                            79
+                        ],
+                        "identifiers": [
+                            {
+                                "type": "ror",
+                                "type_phrases": [
+                                    {
+                                        "phrase": "ROR ID",
+                                        "language": "en",
+                                        "value": "ror"
+                                    }
+                                ],
+                                "identifier": "https://ror.org/01zm94433"
+                            }
+                        ],
+                        "country": "us",
+                        "country_phrases": [
+                            {
+                                "language": "en",
+                                "phrase": "United States of America",
+                                "value": "us"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "preferred_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "Name",
+                                        "value": "name"
+                                    }
+                                ],
+                                "name": "Wiley",
+                                "language": "en",
+                                "preferred": "name",
+                                "language_phrases": [
+                                    {
+                                        "value": "en",
+                                        "language": "en",
+                                        "phrase": "English"
+                                    }
+                                ]
+                            }
+                        ],
+                        "publication_count": 1423,
+                        "url": "https://www.wiley.com/en-gb",
+                        "id": 580,
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/580"
+                    },
+                    "relationship_type": "commercial_publisher"
+                }
+            ],
+            "issns": [
+                {
+                    "type": "print",
+                    "issn": "2052-5192",
+                    "type_phrases": [
+                        {
+                            "phrase": "Print",
+                            "language": "en",
+                            "value": "print"
+                        }
+                    ]
+                },
+                {
+                    "type_phrases": [
+                        {
+                            "language": "en",
+                            "phrase": "Electronic",
+                            "value": "electronic"
+                        }
+                    ],
+                    "issn": "2052-5206",
+                    "type": "electronic"
+                }
+            ],
+            "url": "http://journals.iucr.org/b/journalhomepage.html"
+        }
+    ]
+}

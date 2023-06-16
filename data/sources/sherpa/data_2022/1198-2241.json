@@ -1,0 +1,281 @@
+{
+    "items": [
+        {
+            "type": "journal",
+            "type_phrases": [
+                {
+                    "language": "en",
+                    "phrase": "Journal",
+                    "value": "journal"
+                }
+            ],
+            "publisher_policy": [
+                {
+                    "open_access_prohibited_phrases": [
+                        {
+                            "value": "no",
+                            "language": "en",
+                            "phrase": "No"
+                        }
+                    ],
+                    "id": 100,
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/100",
+                    "urls": [
+                        {
+                            "url": "https://www.hindawi.com/journals/apm/guidelines/",
+                            "description": "Example Author Guidelines"
+                        }
+                    ],
+                    "open_access_prohibited": "no",
+                    "permitted_oa": [
+                        {
+                            "copyright_owner_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "Authors",
+                                    "value": "authors"
+                                }
+                            ],
+                            "location": {
+                                "location": [
+                                    "any_website",
+                                    "this_journal"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "Any Website",
+                                        "value": "any_website"
+                                    },
+                                    {
+                                        "phrase": "Journal Website",
+                                        "language": "en",
+                                        "value": "this_journal"
+                                    }
+                                ]
+                            },
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "value": "no",
+                                    "language": "en",
+                                    "phrase": "No"
+                                }
+                            ],
+                            "article_version": [
+                                "published"
+                            ],
+                            "license": [
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "language": "en",
+                                            "phrase": "CC BY",
+                                            "value": "cc_by"
+                                        }
+                                    ],
+                                    "license": "cc_by",
+                                    "version": "4.0"
+                                }
+                            ],
+                            "additional_oa_fee": "no",
+                            "copyright_owner": "authors",
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Published",
+                                    "language": "en",
+                                    "value": "published"
+                                }
+                            ]
+                        },
+                        {
+                            "license": [
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "language": "en",
+                                            "phrase": "CC BY",
+                                            "value": "cc_by"
+                                        }
+                                    ],
+                                    "license": "cc_by"
+                                }
+                            ],
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "phrase": "Any Website",
+                                        "language": "en",
+                                        "value": "any_website"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "phrase": "Institutional Repository",
+                                        "value": "institutional_repository"
+                                    },
+                                    {
+                                        "value": "preprint_repository",
+                                        "language": "en",
+                                        "phrase": "Preprint Repository"
+                                    }
+                                ],
+                                "location": [
+                                    "any_website",
+                                    "institutional_repository",
+                                    "preprint_repository"
+                                ]
+                            },
+                            "additional_oa_fee": "no",
+                            "article_version_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "Submitted",
+                                    "value": "submitted"
+                                },
+                                {
+                                    "value": "accepted",
+                                    "phrase": "Accepted",
+                                    "language": "en"
+                                }
+                            ],
+                            "article_version": [
+                                "submitted",
+                                "accepted"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "value": "no",
+                                    "phrase": "No",
+                                    "language": "en"
+                                }
+                            ]
+                        }
+                    ],
+                    "publication_count": 87,
+                    "internal_moniker": "Default Policy"
+                }
+            ],
+            "title": [
+                {
+                    "language_phrases": [
+                        {
+                            "value": "en",
+                            "phrase": "English",
+                            "language": "en"
+                        }
+                    ],
+                    "language": "en",
+                    "title": "Canadian Respiratory Journal"
+                }
+            ],
+            "id": 31330,
+            "listed_in_doaj": "yes",
+            "issns": [
+                {
+                    "type_phrases": [
+                        {
+                            "value": "print",
+                            "phrase": "Print",
+                            "language": "en"
+                        }
+                    ],
+                    "issn": "1198-2241",
+                    "type": "print"
+                },
+                {
+                    "issn": "1916-7245",
+                    "type": "electronic",
+                    "type_phrases": [
+                        {
+                            "value": "electronic",
+                            "language": "en",
+                            "phrase": "Electronic"
+                        }
+                    ]
+                }
+            ],
+            "url": "http://www.hindawi.com/journals/crj/biblio/",
+            "listed_in_doaj_phrases": [
+                {
+                    "value": "yes",
+                    "language": "en",
+                    "phrase": "Yes"
+                }
+            ],
+            "system_metadata": {
+                "publicly_visible_phrases": [
+                    {
+                        "value": "yes",
+                        "phrase": "Yes",
+                        "language": "en"
+                    }
+                ],
+                "id": 31330,
+                "uri": "https://v2.sherpa.ac.uk/id/publication/31330",
+                "publicly_visible": "yes",
+                "date_created": "2016-05-25 09:55:12",
+                "date_modified": "2022-03-28 10:35:31"
+            },
+            "publishers": [
+                {
+                    "relationship_type_phrases": [
+                        {
+                            "value": "commercial_publisher",
+                            "language": "en",
+                            "phrase": "Commercial Publisher"
+                        }
+                    ],
+                    "publisher": {
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/100",
+                        "id": 100,
+                        "imprint_of_id": 580,
+                        "publication_count": 241,
+                        "url": "http://www.hindawi.com/",
+                        "country": "gb",
+                        "country_phrases": [
+                            {
+                                "language": "en",
+                                "phrase": "United Kingdom",
+                                "value": "gb"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "language_phrases": [
+                                    {
+                                        "phrase": "English",
+                                        "language": "en",
+                                        "value": "en"
+                                    }
+                                ],
+                                "name": "Hindawi",
+                                "language": "en",
+                                "preferred_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "Name",
+                                        "value": "name"
+                                    }
+                                ],
+                                "preferred": "name"
+                            }
+                        ],
+                        "identifiers": [
+                            {
+                                "type_phrases": [
+                                    {
+                                        "value": "ror",
+                                        "phrase": "ROR ID",
+                                        "language": "en"
+                                    }
+                                ],
+                                "identifier": "https://ror.org/02rt9z237",
+                                "type": "ror"
+                            }
+                        ]
+                    },
+                    "relationship_type": "commercial_publisher"
+                }
+            ]
+        }
+    ]
+}

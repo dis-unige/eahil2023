@@ -1,0 +1,984 @@
+{
+    "items": [
+        {
+            "type": "journal",
+            "listed_in_doaj": "no",
+            "title": [
+                {
+                    "acronym": "VetRecord",
+                    "preferred": "acronym",
+                    "title": "Veterinary Record",
+                    "preferred_phrases": [
+                        {
+                            "language": "en",
+                            "phrase": "Acronym",
+                            "value": "acronym"
+                        }
+                    ],
+                    "language": "en",
+                    "language_phrases": [
+                        {
+                            "language": "en",
+                            "phrase": "English",
+                            "value": "en"
+                        }
+                    ]
+                }
+            ],
+            "id": 1963,
+            "publisher_policy": [
+                {
+                    "open_access_prohibited_phrases": [
+                        {
+                            "value": "no",
+                            "language": "en",
+                            "phrase": "No"
+                        }
+                    ],
+                    "id": 2053,
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/2053",
+                    "urls": [
+                        {
+                            "url": "https://authorservices.wiley.com/author-resources/Journal-Authors/licensing/self-archiving.html",
+                            "description": "Wiley's Self-Archiving Policy"
+                        },
+                        {
+                            "description": "Understand your funder's agreement with Wiley",
+                            "url": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/affiliation-policies-payments/funder-agreements.html"
+                        },
+                        {
+                            "url": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/author-compliance-tool.html",
+                            "description": "How to comply with open access policies"
+                        }
+                    ],
+                    "open_access_prohibited": "no",
+                    "permitted_oa": [
+                        {
+                            "location": {
+                                "location": [
+                                    "authors_homepage",
+                                    "institutional_repository",
+                                    "named_repository"
+                                ],
+                                "named_repository": [
+                                    "arXiv",
+                                    "AgEcon",
+                                    "PhilPapers",
+                                    "PubMed Central",
+                                    "RePEc",
+                                    "SSRN"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "value": "authors_homepage",
+                                        "language": "en",
+                                        "phrase": "Author's Homepage"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "phrase": "Institutional Repository",
+                                        "value": "institutional_repository"
+                                    },
+                                    {
+                                        "phrase": "Named Repository",
+                                        "language": "en",
+                                        "value": "named_repository"
+                                    }
+                                ]
+                            },
+                            "embargo": {
+                                "units": "months",
+                                "units_phrases": [
+                                    {
+                                        "value": "months",
+                                        "language": "en",
+                                        "phrase": "Months"
+                                    }
+                                ],
+                                "amount": 12
+                            },
+                            "article_version": [
+                                "accepted"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "No",
+                                    "value": "no"
+                                }
+                            ],
+                            "additional_oa_fee": "no",
+                            "prerequisites": {
+                                "prerequisite_funders": [
+                                    {
+                                        "system_metadata": {
+                                            "uri": "https://v2.sherpa.ac.uk/id/funder/698",
+                                            "id": 698
+                                        },
+                                        "funder_metadata": {
+                                            "url": [
+                                                {
+                                                    "language_phrases": [
+                                                        {
+                                                            "value": "en",
+                                                            "phrase": "English",
+                                                            "language": "en"
+                                                        }
+                                                    ],
+                                                    "url": "http://www.ahrc.ac.uk/Pages/Home.aspx",
+                                                    "language": "en"
+                                                }
+                                            ],
+                                            "identifiers": [
+                                                {
+                                                    "type_phrases": [
+                                                        {
+                                                            "value": "fundref",
+                                                            "phrase": "FundRef DOI",
+                                                            "language": "en"
+                                                        }
+                                                    ],
+                                                    "identifier": "http://dx.doi.org/10.13039/501100000267",
+                                                    "type": "fundref"
+                                                },
+                                                {
+                                                    "type": "ror",
+                                                    "type_phrases": [
+                                                        {
+                                                            "value": "ror",
+                                                            "phrase": "ROR ID",
+                                                            "language": "en"
+                                                        }
+                                                    ],
+                                                    "identifier": "https://ror.org/0505m1554"
+                                                }
+                                            ],
+                                            "groups": [
+                                                {
+                                                    "id": 1061,
+                                                    "name": "UK Research and Innovation",
+                                                    "type": "funder_group",
+                                                    "uri": "https://v2.sherpa.ac.uk/id/funder_group/1061"
+                                                },
+                                                {
+                                                    "uri": "https://v2.sherpa.ac.uk/id/funder_group/1063",
+                                                    "type": "funder_group",
+                                                    "name": "Plan S Funders",
+                                                    "id": 1063
+                                                }
+                                            ],
+                                            "id": 698,
+                                            "country": "gb",
+                                            "country_phrases": [
+                                                {
+                                                    "phrase": "United Kingdom",
+                                                    "language": "en",
+                                                    "value": "gb"
+                                                }
+                                            ],
+                                            "name": [
+                                                {
+                                                    "language_phrases": [
+                                                        {
+                                                            "value": "en",
+                                                            "language": "en",
+                                                            "phrase": "English"
+                                                        }
+                                                    ],
+                                                    "language": "en",
+                                                    "name": "Arts and Humanities Research Council",
+                                                    "preferred_phrases": [
+                                                        {
+                                                            "value": "name",
+                                                            "language": "en",
+                                                            "phrase": "Name"
+                                                        }
+                                                    ],
+                                                    "preferred": "name",
+                                                    "acronym": "AHRC"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "funder_metadata": {
+                                            "name": [
+                                                {
+                                                    "acronym": "ESRC",
+                                                    "preferred": "name",
+                                                    "preferred_phrases": [
+                                                        {
+                                                            "value": "name",
+                                                            "phrase": "Name",
+                                                            "language": "en"
+                                                        }
+                                                    ],
+                                                    "name": "Economic and Social Research Council",
+                                                    "language": "en",
+                                                    "language_phrases": [
+                                                        {
+                                                            "phrase": "English",
+                                                            "language": "en",
+                                                            "value": "en"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "country_phrases": [
+                                                {
+                                                    "language": "en",
+                                                    "phrase": "United Kingdom",
+                                                    "value": "gb"
+                                                }
+                                            ],
+                                            "country": "gb",
+                                            "id": 717,
+                                            "groups": [
+                                                {
+                                                    "uri": "https://v2.sherpa.ac.uk/id/funder_group/1061",
+                                                    "type": "funder_group",
+                                                    "name": "UK Research and Innovation",
+                                                    "id": 1061
+                                                },
+                                                {
+                                                    "uri": "https://v2.sherpa.ac.uk/id/funder_group/1063",
+                                                    "type": "funder_group",
+                                                    "id": 1063,
+                                                    "name": "Plan S Funders"
+                                                }
+                                            ],
+                                            "identifiers": [
+                                                {
+                                                    "type": "fundref",
+                                                    "type_phrases": [
+                                                        {
+                                                            "value": "fundref",
+                                                            "language": "en",
+                                                            "phrase": "FundRef DOI"
+                                                        }
+                                                    ],
+                                                    "identifier": "http://dx.doi.org/10.13039/501100000269"
+                                                },
+                                                {
+                                                    "identifier": "https://ror.org/03n0ht308",
+                                                    "type_phrases": [
+                                                        {
+                                                            "phrase": "ROR ID",
+                                                            "language": "en",
+                                                            "value": "ror"
+                                                        }
+                                                    ],
+                                                    "type": "ror"
+                                                }
+                                            ],
+                                            "url": [
+                                                {
+                                                    "language": "en",
+                                                    "language_phrases": [
+                                                        {
+                                                            "value": "en",
+                                                            "phrase": "English",
+                                                            "language": "en"
+                                                        }
+                                                    ],
+                                                    "url": "http://www.esrc.ac.uk/"
+                                                }
+                                            ]
+                                        },
+                                        "system_metadata": {
+                                            "id": 717,
+                                            "uri": "https://v2.sherpa.ac.uk/id/funder/717"
+                                        }
+                                    }
+                                ]
+                            },
+                            "conditions": [
+                                "If the journal does not offer a gold open access option",
+                                "Publisher source must be acknowledged with citation",
+                                "Must link to publisher version with set statement (see policy)"
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "value": "accepted",
+                                    "language": "en",
+                                    "phrase": "Accepted"
+                                }
+                            ]
+                        }
+                    ],
+                    "publication_count": 15,
+                    "internal_moniker": "UKRI 12 months"
+                },
+                {
+                    "internal_moniker": "Online Open",
+                    "publication_count": 1254,
+                    "open_access_prohibited": "no",
+                    "permitted_oa": [
+                        {
+                            "article_version_phrases": [
+                                {
+                                    "value": "published",
+                                    "phrase": "Published",
+                                    "language": "en"
+                                }
+                            ],
+                            "license": [
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "language": "en",
+                                            "phrase": "CC BY",
+                                            "value": "cc_by"
+                                        }
+                                    ],
+                                    "license": "cc_by"
+                                }
+                            ],
+                            "additional_oa_fee": "yes",
+                            "conditions": [
+                                "Published source must be acknowledged"
+                            ],
+                            "copyright_owner": "authors",
+                            "article_version": [
+                                "published"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "phrase": "Yes",
+                                    "language": "en",
+                                    "value": "yes"
+                                }
+                            ],
+                            "publisher_deposit": [
+                                {
+                                    "repository_metadata": {
+                                        "url": "http://www.ncbi.nlm.nih.gov/pmc/",
+                                        "type": "disciplinary",
+                                        "type_phrases": [
+                                            {
+                                                "value": "disciplinary",
+                                                "language": "en",
+                                                "phrase": "Disciplinary"
+                                            }
+                                        ],
+                                        "name": [
+                                            {
+                                                "language_phrases": [
+                                                    {
+                                                        "value": "en",
+                                                        "language": "en",
+                                                        "phrase": "English"
+                                                    }
+                                                ],
+                                                "preferred": "name",
+                                                "preferred_phrases": [
+                                                    {
+                                                        "value": "name",
+                                                        "phrase": "Name",
+                                                        "language": "en"
+                                                    }
+                                                ],
+                                                "language": "en",
+                                                "name": "PubMed Central"
+                                            }
+                                        ]
+                                    },
+                                    "system_metadata": {
+                                        "uri": "https://v2.sherpa.ac.uk/id/repository/267",
+                                        "id": 267
+                                    }
+                                },
+                                {
+                                    "repository_metadata": {
+                                        "type_phrases": [
+                                            {
+                                                "value": "disciplinary",
+                                                "language": "en",
+                                                "phrase": "Disciplinary"
+                                            }
+                                        ],
+                                        "name": [
+                                            {
+                                                "preferred": "name",
+                                                "preferred_phrases": [
+                                                    {
+                                                        "phrase": "Name",
+                                                        "language": "en",
+                                                        "value": "name"
+                                                    }
+                                                ],
+                                                "name": "Europe PMC",
+                                                "language": "en",
+                                                "language_phrases": [
+                                                    {
+                                                        "value": "en",
+                                                        "language": "en",
+                                                        "phrase": "English"
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "url": "http://europepmc.org/",
+                                        "type": "disciplinary",
+                                        "notes": "Launched as UK PubMed Central (UKPMC) in January 2007, changed to Europe PubMed Central in November 2012.\r\nSpecial item types include: Links"
+                                    },
+                                    "system_metadata": {
+                                        "id": 908,
+                                        "uri": "https://v2.sherpa.ac.uk/id/repository/908"
+                                    }
+                                }
+                            ],
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "phrase": "Any Repository",
+                                        "language": "en",
+                                        "value": "any_repository"
+                                    },
+                                    {
+                                        "value": "any_website",
+                                        "phrase": "Any Website",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "phrase": "Named Repository",
+                                        "value": "named_repository"
+                                    },
+                                    {
+                                        "phrase": "Journal Website",
+                                        "language": "en",
+                                        "value": "this_journal"
+                                    }
+                                ],
+                                "location": [
+                                    "any_repository",
+                                    "any_website",
+                                    "named_repository",
+                                    "this_journal"
+                                ],
+                                "named_repository": [
+                                    "PubMed Central"
+                                ]
+                            },
+                            "copyright_owner_phrases": [
+                                {
+                                    "value": "authors",
+                                    "language": "en",
+                                    "phrase": "Authors"
+                                }
+                            ]
+                        },
+                        {
+                            "conditions": [
+                                "Published source must be acknowledged"
+                            ],
+                            "copyright_owner": "authors",
+                            "additional_oa_fee": "yes",
+                            "license": [
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "phrase": "CC BY-NC-ND",
+                                            "language": "en",
+                                            "value": "cc_by_nc_nd"
+                                        }
+                                    ],
+                                    "license": "cc_by_nc_nd"
+                                }
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "value": "published",
+                                    "language": "en",
+                                    "phrase": "Published"
+                                }
+                            ],
+                            "copyright_owner_phrases": [
+                                {
+                                    "phrase": "Authors",
+                                    "language": "en",
+                                    "value": "authors"
+                                }
+                            ],
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "value": "any_repository",
+                                        "phrase": "Any Repository",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "phrase": "Any Website",
+                                        "value": "any_website"
+                                    },
+                                    {
+                                        "value": "named_repository",
+                                        "language": "en",
+                                        "phrase": "Named Repository"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "phrase": "Journal Website",
+                                        "value": "this_journal"
+                                    }
+                                ],
+                                "location": [
+                                    "any_repository",
+                                    "any_website",
+                                    "named_repository",
+                                    "this_journal"
+                                ],
+                                "named_repository": [
+                                    "PubMed Central"
+                                ]
+                            },
+                            "publisher_deposit": [
+                                {
+                                    "system_metadata": {
+                                        "id": 267,
+                                        "uri": "https://v2.sherpa.ac.uk/id/repository/267"
+                                    },
+                                    "repository_metadata": {
+                                        "type": "disciplinary",
+                                        "url": "http://www.ncbi.nlm.nih.gov/pmc/",
+                                        "name": [
+                                            {
+                                                "language_phrases": [
+                                                    {
+                                                        "language": "en",
+                                                        "phrase": "English",
+                                                        "value": "en"
+                                                    }
+                                                ],
+                                                "preferred_phrases": [
+                                                    {
+                                                        "value": "name",
+                                                        "phrase": "Name",
+                                                        "language": "en"
+                                                    }
+                                                ],
+                                                "language": "en",
+                                                "name": "PubMed Central",
+                                                "preferred": "name"
+                                            }
+                                        ],
+                                        "type_phrases": [
+                                            {
+                                                "language": "en",
+                                                "phrase": "Disciplinary",
+                                                "value": "disciplinary"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "system_metadata": {
+                                        "uri": "https://v2.sherpa.ac.uk/id/repository/908",
+                                        "id": 908
+                                    },
+                                    "repository_metadata": {
+                                        "notes": "Launched as UK PubMed Central (UKPMC) in January 2007, changed to Europe PubMed Central in November 2012.\r\nSpecial item types include: Links",
+                                        "url": "http://europepmc.org/",
+                                        "type": "disciplinary",
+                                        "type_phrases": [
+                                            {
+                                                "language": "en",
+                                                "phrase": "Disciplinary",
+                                                "value": "disciplinary"
+                                            }
+                                        ],
+                                        "name": [
+                                            {
+                                                "language_phrases": [
+                                                    {
+                                                        "value": "en",
+                                                        "language": "en",
+                                                        "phrase": "English"
+                                                    }
+                                                ],
+                                                "preferred": "name",
+                                                "name": "Europe PMC",
+                                                "language": "en",
+                                                "preferred_phrases": [
+                                                    {
+                                                        "value": "name",
+                                                        "phrase": "Name",
+                                                        "language": "en"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                }
+                            ],
+                            "article_version": [
+                                "published"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "Yes",
+                                    "value": "yes"
+                                }
+                            ]
+                        },
+                        {
+                            "publisher_deposit": [
+                                {
+                                    "repository_metadata": {
+                                        "type_phrases": [
+                                            {
+                                                "value": "disciplinary",
+                                                "phrase": "Disciplinary",
+                                                "language": "en"
+                                            }
+                                        ],
+                                        "name": [
+                                            {
+                                                "preferred": "name",
+                                                "preferred_phrases": [
+                                                    {
+                                                        "value": "name",
+                                                        "phrase": "Name",
+                                                        "language": "en"
+                                                    }
+                                                ],
+                                                "language": "en",
+                                                "name": "PubMed Central",
+                                                "language_phrases": [
+                                                    {
+                                                        "value": "en",
+                                                        "phrase": "English",
+                                                        "language": "en"
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "url": "http://www.ncbi.nlm.nih.gov/pmc/",
+                                        "type": "disciplinary"
+                                    },
+                                    "system_metadata": {
+                                        "uri": "https://v2.sherpa.ac.uk/id/repository/267",
+                                        "id": 267
+                                    }
+                                },
+                                {
+                                    "repository_metadata": {
+                                        "type_phrases": [
+                                            {
+                                                "value": "disciplinary",
+                                                "language": "en",
+                                                "phrase": "Disciplinary"
+                                            }
+                                        ],
+                                        "name": [
+                                            {
+                                                "language_phrases": [
+                                                    {
+                                                        "value": "en",
+                                                        "phrase": "English",
+                                                        "language": "en"
+                                                    }
+                                                ],
+                                                "preferred": "name",
+                                                "language": "en",
+                                                "name": "Europe PMC",
+                                                "preferred_phrases": [
+                                                    {
+                                                        "value": "name",
+                                                        "language": "en",
+                                                        "phrase": "Name"
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "notes": "Launched as UK PubMed Central (UKPMC) in January 2007, changed to Europe PubMed Central in November 2012.\r\nSpecial item types include: Links",
+                                        "type": "disciplinary",
+                                        "url": "http://europepmc.org/"
+                                    },
+                                    "system_metadata": {
+                                        "uri": "https://v2.sherpa.ac.uk/id/repository/908",
+                                        "id": 908
+                                    }
+                                }
+                            ],
+                            "article_version": [
+                                "published"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "Yes",
+                                    "value": "yes"
+                                }
+                            ],
+                            "copyright_owner_phrases": [
+                                {
+                                    "value": "authors",
+                                    "phrase": "Authors",
+                                    "language": "en"
+                                }
+                            ],
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "phrase": "Any Repository",
+                                        "language": "en",
+                                        "value": "any_repository"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "phrase": "Any Website",
+                                        "value": "any_website"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "phrase": "Named Repository",
+                                        "value": "named_repository"
+                                    },
+                                    {
+                                        "value": "this_journal",
+                                        "language": "en",
+                                        "phrase": "Journal Website"
+                                    }
+                                ],
+                                "named_repository": [
+                                    "PubMed Central"
+                                ],
+                                "location": [
+                                    "any_repository",
+                                    "any_website",
+                                    "named_repository",
+                                    "this_journal"
+                                ]
+                            },
+                            "article_version_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "Published",
+                                    "value": "published"
+                                }
+                            ],
+                            "conditions": [
+                                "Published source must be acknowledged"
+                            ],
+                            "copyright_owner": "authors",
+                            "additional_oa_fee": "yes",
+                            "license": [
+                                {
+                                    "license": "cc_by_nc",
+                                    "license_phrases": [
+                                        {
+                                            "language": "en",
+                                            "phrase": "CC BY-NC",
+                                            "value": "cc_by_nc"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/onlineopen.html",
+                            "description": "Make your article open access in hybrid journals"
+                        },
+                        {
+                            "url": "https://www.wiley.com/network/researchers/researcher/publishing-gold-open-access-with-wiley",
+                            "description": "Publishing Gold Open Access With Wiley"
+                        }
+                    ],
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/3315",
+                    "open_access_prohibited_phrases": [
+                        {
+                            "value": "no",
+                            "language": "en",
+                            "phrase": "No"
+                        }
+                    ],
+                    "id": 3315
+                }
+            ],
+            "type_phrases": [
+                {
+                    "value": "journal",
+                    "language": "en",
+                    "phrase": "Journal"
+                }
+            ],
+            "url": "https://bvajournals.onlinelibrary.wiley.com/journal/20427670",
+            "issns": [
+                {
+                    "type_phrases": [
+                        {
+                            "value": "print",
+                            "language": "en",
+                            "phrase": "Print"
+                        }
+                    ],
+                    "issn": "0042-4900",
+                    "type": "print"
+                },
+                {
+                    "issn": "2042-7670",
+                    "type": "electronic",
+                    "type_phrases": [
+                        {
+                            "value": "electronic",
+                            "language": "en",
+                            "phrase": "Electronic"
+                        }
+                    ]
+                }
+            ],
+            "publishers": [
+                {
+                    "relationship_type_phrases": [
+                        {
+                            "value": "commercial_publisher",
+                            "language": "en",
+                            "phrase": "Commercial Publisher"
+                        }
+                    ],
+                    "publisher": {
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/580",
+                        "id": 580,
+                        "publication_count": 1423,
+                        "url": "https://www.wiley.com/en-gb",
+                        "country": "us",
+                        "name": [
+                            {
+                                "preferred": "name",
+                                "preferred_phrases": [
+                                    {
+                                        "value": "name",
+                                        "language": "en",
+                                        "phrase": "Name"
+                                    }
+                                ],
+                                "language": "en",
+                                "name": "Wiley",
+                                "language_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "English",
+                                        "value": "en"
+                                    }
+                                ]
+                            }
+                        ],
+                        "country_phrases": [
+                            {
+                                "value": "us",
+                                "phrase": "United States of America",
+                                "language": "en"
+                            }
+                        ],
+                        "imprints_id": [
+                            1390,
+                            100,
+                            53370,
+                            1032,
+                            79
+                        ],
+                        "identifiers": [
+                            {
+                                "type": "ror",
+                                "type_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "ROR ID",
+                                        "value": "ror"
+                                    }
+                                ],
+                                "identifier": "https://ror.org/01zm94433"
+                            }
+                        ]
+                    },
+                    "relationship_type": "commercial_publisher"
+                },
+                {
+                    "publisher": {
+                        "country_phrases": [
+                            {
+                                "language": "en",
+                                "phrase": "United Kingdom",
+                                "value": "gb"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "preferred": "name",
+                                "preferred_phrases": [
+                                    {
+                                        "value": "name",
+                                        "language": "en",
+                                        "phrase": "Name"
+                                    }
+                                ],
+                                "language": "en",
+                                "name": "British Veterinary Association",
+                                "language_phrases": [
+                                    {
+                                        "value": "en",
+                                        "language": "en",
+                                        "phrase": "English"
+                                    }
+                                ]
+                            }
+                        ],
+                        "country": "gb",
+                        "identifiers": [
+                            {
+                                "type": "ror",
+                                "identifier": "https://ror.org/04n305y15",
+                                "type_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "ROR ID",
+                                        "value": "ror"
+                                    }
+                                ]
+                            }
+                        ],
+                        "publication_count": 4,
+                        "url": "http://www.bva.co.uk/",
+                        "id": 8323,
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/8323"
+                    },
+                    "relationship_type": "associate_organisation",
+                    "relationship_type_phrases": [
+                        {
+                            "value": "associate_organisation",
+                            "phrase": "Associate Organisation",
+                            "language": "en"
+                        }
+                    ]
+                }
+            ],
+            "system_metadata": {
+                "publicly_visible_phrases": [
+                    {
+                        "language": "en",
+                        "phrase": "Yes",
+                        "value": "yes"
+                    }
+                ],
+                "id": 1963,
+                "date_created": "2010-07-19 13:14:26",
+                "publicly_visible": "yes",
+                "uri": "https://v2.sherpa.ac.uk/id/publication/1963",
+                "date_modified": "2021-03-03 10:04:13"
+            },
+            "listed_in_doaj_phrases": [
+                {
+                    "value": "no",
+                    "phrase": "No",
+                    "language": "en"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,420 @@
+{
+    "items": [
+        {
+            "type_phrases": [
+                {
+                    "value": "journal",
+                    "language": "en",
+                    "phrase": "Journal"
+                }
+            ],
+            "publisher_policy": [
+                {
+                    "id": 2252,
+                    "open_access_prohibited_phrases": [
+                        {
+                            "value": "no",
+                            "phrase": "No",
+                            "language": "en"
+                        }
+                    ],
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/2252",
+                    "urls": [
+                        {
+                            "description": "Copyright",
+                            "url": "https://www.elsevier.com/about/policies/copyright"
+                        },
+                        {
+                            "description": "Open Access",
+                            "url": "https://www.elsevier.com/about/open-science/open-access"
+                        }
+                    ],
+                    "open_access_prohibited": "no",
+                    "permitted_oa": [
+                        {
+                            "location": {
+                                "named_repository": [
+                                    "PubMed Central"
+                                ],
+                                "location": [
+                                    "any_repository",
+                                    "named_repository",
+                                    "this_journal"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "value": "any_repository",
+                                        "phrase": "Any Repository",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "phrase": "Named Repository",
+                                        "language": "en",
+                                        "value": "named_repository"
+                                    },
+                                    {
+                                        "value": "this_journal",
+                                        "phrase": "Journal Website",
+                                        "language": "en"
+                                    }
+                                ]
+                            },
+                            "publisher_deposit": [
+                                {
+                                    "system_metadata": {
+                                        "uri": "https://v2.sherpa.ac.uk/id/repository/267",
+                                        "id": 267
+                                    },
+                                    "repository_metadata": {
+                                        "name": [
+                                            {
+                                                "language_phrases": [
+                                                    {
+                                                        "value": "en",
+                                                        "language": "en",
+                                                        "phrase": "English"
+                                                    }
+                                                ],
+                                                "preferred": "name",
+                                                "language": "en",
+                                                "name": "PubMed Central",
+                                                "preferred_phrases": [
+                                                    {
+                                                        "language": "en",
+                                                        "phrase": "Name",
+                                                        "value": "name"
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "type_phrases": [
+                                            {
+                                                "value": "disciplinary",
+                                                "language": "en",
+                                                "phrase": "Disciplinary"
+                                            }
+                                        ],
+                                        "url": "http://www.ncbi.nlm.nih.gov/pmc/",
+                                        "type": "disciplinary"
+                                    }
+                                }
+                            ],
+                            "article_version": [
+                                "submitted",
+                                "accepted",
+                                "published"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "phrase": "No",
+                                    "language": "en",
+                                    "value": "no"
+                                }
+                            ],
+                            "conditions": [
+                                "Published source must be acknowledged",
+                                "Must link to publisher version with DOI"
+                            ],
+                            "license": [
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "value": "cc_by",
+                                            "language": "en",
+                                            "phrase": "CC BY"
+                                        }
+                                    ],
+                                    "license": "cc_by"
+                                }
+                            ],
+                            "additional_oa_fee": "no",
+                            "article_version_phrases": [
+                                {
+                                    "value": "submitted",
+                                    "language": "en",
+                                    "phrase": "Submitted"
+                                },
+                                {
+                                    "phrase": "Accepted",
+                                    "language": "en",
+                                    "value": "accepted"
+                                },
+                                {
+                                    "phrase": "Published",
+                                    "language": "en",
+                                    "value": "published"
+                                }
+                            ]
+                        },
+                        {
+                            "article_version_phrases": [
+                                {
+                                    "value": "submitted",
+                                    "language": "en",
+                                    "phrase": "Submitted"
+                                },
+                                {
+                                    "phrase": "Accepted",
+                                    "language": "en",
+                                    "value": "accepted"
+                                },
+                                {
+                                    "language": "en",
+                                    "phrase": "Published",
+                                    "value": "published"
+                                }
+                            ],
+                            "license": [
+                                {
+                                    "license": "cc_by_nc_nd",
+                                    "license_phrases": [
+                                        {
+                                            "language": "en",
+                                            "phrase": "CC BY-NC-ND",
+                                            "value": "cc_by_nc_nd"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "additional_oa_fee": "no",
+                            "conditions": [
+                                "Published source must be acknowledged",
+                                "Must link to publisher version with DOI"
+                            ],
+                            "publisher_deposit": [
+                                {
+                                    "repository_metadata": {
+                                        "type_phrases": [
+                                            {
+                                                "value": "disciplinary",
+                                                "language": "en",
+                                                "phrase": "Disciplinary"
+                                            }
+                                        ],
+                                        "name": [
+                                            {
+                                                "preferred": "name",
+                                                "preferred_phrases": [
+                                                    {
+                                                        "value": "name",
+                                                        "language": "en",
+                                                        "phrase": "Name"
+                                                    }
+                                                ],
+                                                "language": "en",
+                                                "name": "PubMed Central",
+                                                "language_phrases": [
+                                                    {
+                                                        "language": "en",
+                                                        "phrase": "English",
+                                                        "value": "en"
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "type": "disciplinary",
+                                        "url": "http://www.ncbi.nlm.nih.gov/pmc/"
+                                    },
+                                    "system_metadata": {
+                                        "uri": "https://v2.sherpa.ac.uk/id/repository/267",
+                                        "id": 267
+                                    }
+                                }
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "phrase": "No",
+                                    "language": "en",
+                                    "value": "no"
+                                }
+                            ],
+                            "article_version": [
+                                "submitted",
+                                "accepted",
+                                "published"
+                            ],
+                            "location": {
+                                "named_repository": [
+                                    "PubMed Central"
+                                ],
+                                "location": [
+                                    "named_repository",
+                                    "non_commercial_repository",
+                                    "this_journal"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "Named Repository",
+                                        "value": "named_repository"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "phrase": "Non-Commercial Repository",
+                                        "value": "non_commercial_repository"
+                                    },
+                                    {
+                                        "phrase": "Journal Website",
+                                        "language": "en",
+                                        "value": "this_journal"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "publication_count": 133,
+                    "internal_moniker": "Creative Commons Licenses"
+                }
+            ],
+            "title": [
+                {
+                    "language_phrases": [
+                        {
+                            "value": "en",
+                            "language": "en",
+                            "phrase": "English"
+                        }
+                    ],
+                    "language": "en",
+                    "title": "Genomics"
+                }
+            ],
+            "id": 11297,
+            "listed_in_doaj": "yes",
+            "type": "journal",
+            "listed_in_doaj_phrases": [
+                {
+                    "phrase": "Yes",
+                    "language": "en",
+                    "value": "yes"
+                }
+            ],
+            "system_metadata": {
+                "publicly_visible_phrases": [
+                    {
+                        "value": "yes",
+                        "language": "en",
+                        "phrase": "Yes"
+                    }
+                ],
+                "id": 11297,
+                "publicly_visible": "yes",
+                "date_created": "2010-08-25 13:16:35",
+                "uri": "https://v2.sherpa.ac.uk/id/publication/11297",
+                "date_modified": "2022-01-25 09:58:11"
+            },
+            "publishers": [
+                {
+                    "relationship_type_phrases": [
+                        {
+                            "value": "commercial_publisher",
+                            "phrase": "Commercial Publisher",
+                            "language": "en"
+                        }
+                    ],
+                    "publisher": {
+                        "url": "http://www.elsevier.com/",
+                        "publication_count": 2321,
+                        "imprints_id": [
+                            7920,
+                            131,
+                            265,
+                            61607
+                        ],
+                        "name": [
+                            {
+                                "language_phrases": [
+                                    {
+                                        "value": "en",
+                                        "language": "en",
+                                        "phrase": "English"
+                                    }
+                                ],
+                                "preferred": "name",
+                                "preferred_phrases": [
+                                    {
+                                        "value": "name",
+                                        "language": "en",
+                                        "phrase": "Name"
+                                    }
+                                ],
+                                "language": "en",
+                                "name": "Elsevier"
+                            }
+                        ],
+                        "country_phrases": [
+                            {
+                                "phrase": "United States of America",
+                                "language": "en",
+                                "value": "us"
+                            }
+                        ],
+                        "country": "us",
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/30",
+                        "id": 30
+                    },
+                    "relationship_type": "commercial_publisher"
+                },
+                {
+                    "relationship_type_phrases": [
+                        {
+                            "phrase": "Associate Organisation",
+                            "language": "en",
+                            "value": "associate_organisation"
+                        }
+                    ],
+                    "publisher": {
+                        "name": [
+                            {
+                                "language_phrases": [
+                                    {
+                                        "value": "en",
+                                        "phrase": "English",
+                                        "language": "en"
+                                    }
+                                ],
+                                "preferred": "name",
+                                "preferred_phrases": [
+                                    {
+                                        "phrase": "Name",
+                                        "language": "en",
+                                        "value": "name"
+                                    }
+                                ],
+                                "name": "Academic Press",
+                                "language": "en"
+                            }
+                        ],
+                        "country_phrases": [
+                            {
+                                "language": "en",
+                                "phrase": "United States of America",
+                                "value": "us"
+                            }
+                        ],
+                        "id": 7920,
+                        "country": "us",
+                        "imprint_of_id": 30,
+                        "publication_count": 94,
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/7920"
+                    },
+                    "relationship_type": "associate_organisation"
+                }
+            ],
+            "issns": [
+                {
+                    "issn": "0888-7543",
+                    "type": "print",
+                    "type_phrases": [
+                        {
+                            "value": "print",
+                            "language": "en",
+                            "phrase": "Print"
+                        }
+                    ]
+                }
+            ],
+            "url": "http://www.journals.elsevier.com/genomics/"
+        }
+    ]
+}

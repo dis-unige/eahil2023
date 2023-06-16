@@ -1,0 +1,491 @@
+{
+    "items": [
+        {
+            "tj_status_phrases": [
+                {
+                    "value": "plan_s_approved",
+                    "language": "en",
+                    "phrase": "Plan S Approved"
+                },
+                {
+                    "phrase": "Jisc Approved",
+                    "value": "jisc_approved",
+                    "language": "en"
+                }
+            ],
+            "title": [
+                {
+                    "title": "Proceedings of the Royal Society B: Biological Sciences",
+                    "language_phrases": [
+                        {
+                            "language": "en",
+                            "value": "en",
+                            "phrase": "English"
+                        }
+                    ],
+                    "language": "en",
+                    "preferred_phrases": [
+                        {
+                            "phrase": "Title",
+                            "value": "name",
+                            "language": "en"
+                        }
+                    ],
+                    "preferred": "name"
+                }
+            ],
+            "publisher_policy": [
+                {
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/62",
+                    "internal_moniker": "Default Policy",
+                    "publication_count": 14,
+                    "id": 62,
+                    "open_access_prohibited": "no",
+                    "permitted_oa": [
+                        {
+                            "id": 477,
+                            "copyright_owner": "authors",
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "value": "no",
+                                    "phrase": "No"
+                                }
+                            ],
+                            "copyright_owner_phrases": [
+                                {
+                                    "phrase": "Authors",
+                                    "value": "authors",
+                                    "language": "en"
+                                }
+                            ],
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "value": "any_repository",
+                                        "language": "en",
+                                        "phrase": "Any Repository"
+                                    },
+                                    {
+                                        "phrase": "Named Repository",
+                                        "value": "named_repository",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "value": "preprint_repository",
+                                        "phrase": "Preprint Repository"
+                                    },
+                                    {
+                                        "phrase": "Subject Repository",
+                                        "value": "subject_repository",
+                                        "language": "en"
+                                    }
+                                ],
+                                "location": [
+                                    "any_repository",
+                                    "named_repository",
+                                    "preprint_repository",
+                                    "subject_repository"
+                                ],
+                                "named_repository": [
+                                    "bioRxiv",
+                                    "arXiv",
+                                    "engrXiv",
+                                    "paleorXiv",
+                                    "EarthArXiv",
+                                    "PeerJ Preprints"
+                                ]
+                            },
+                            "article_version_phrases": [
+                                {
+                                    "value": "submitted",
+                                    "language": "en",
+                                    "phrase": "Submitted"
+                                }
+                            ],
+                            "public_notes": [
+                                "In accordance with our preprint policy, we encourage authors to deposit early versions of articles in appropriate subject repositories or preprint servers.",
+                                "Authors may deposit a preprint of their article in a repository at any time."
+                            ],
+                            "article_version": [
+                                "submitted"
+                            ],
+                            "additional_oa_fee": "no"
+                        },
+                        {
+                            "additional_oa_fee": "no",
+                            "license": [
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "language": "en",
+                                            "value": "cc_by",
+                                            "phrase": "CC BY"
+                                        }
+                                    ],
+                                    "version": "4.0",
+                                    "license": "cc_by"
+                                }
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Accepted",
+                                    "language": "en",
+                                    "value": "accepted"
+                                }
+                            ],
+                            "public_notes": [
+                                "Can be deposited on acceptance"
+                            ],
+                            "article_version": [
+                                "accepted"
+                            ],
+                            "conditions": [
+                                "Published source must be acknowledged"
+                            ],
+                            "id": 478,
+                            "copyright_owner": "authors",
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "phrase": "No",
+                                    "value": "no",
+                                    "language": "en"
+                                }
+                            ],
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "phrase": "Any Repository",
+                                        "language": "en",
+                                        "value": "any_repository"
+                                    },
+                                    {
+                                        "phrase": "Author's Homepage",
+                                        "language": "en",
+                                        "value": "authors_homepage"
+                                    },
+                                    {
+                                        "phrase": "Institutional Repository",
+                                        "value": "institutional_repository",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "value": "institutional_website",
+                                        "language": "en",
+                                        "phrase": "Institutional Website"
+                                    },
+                                    {
+                                        "phrase": "Named Repository",
+                                        "language": "en",
+                                        "value": "named_repository"
+                                    },
+                                    {
+                                        "phrase": "Subject Repository",
+                                        "language": "en",
+                                        "value": "subject_repository"
+                                    }
+                                ],
+                                "location": [
+                                    "any_repository",
+                                    "authors_homepage",
+                                    "institutional_repository",
+                                    "institutional_website",
+                                    "named_repository",
+                                    "subject_repository"
+                                ],
+                                "named_repository": [
+                                    "PubMed Central"
+                                ]
+                            },
+                            "copyright_owner_phrases": [
+                                {
+                                    "phrase": "Authors",
+                                    "language": "en",
+                                    "value": "authors"
+                                }
+                            ]
+                        },
+                        {
+                            "publisher_deposit": [
+                                {
+                                    "repository_metadata": {
+                                        "name": [
+                                            {
+                                                "preferred_phrases": [
+                                                    {
+                                                        "language": "en",
+                                                        "value": "name",
+                                                        "phrase": "Name"
+                                                    }
+                                                ],
+                                                "preferred": "name",
+                                                "language": "en",
+                                                "language_phrases": [
+                                                    {
+                                                        "language": "en",
+                                                        "value": "en",
+                                                        "phrase": "English"
+                                                    }
+                                                ],
+                                                "name": "PubMed Central"
+                                            }
+                                        ],
+                                        "type_phrases": [
+                                            {
+                                                "value": "disciplinary",
+                                                "language": "en",
+                                                "phrase": "Disciplinary"
+                                            }
+                                        ],
+                                        "type": "disciplinary",
+                                        "url": "http://www.ncbi.nlm.nih.gov/pmc/"
+                                    },
+                                    "system_metadata": {
+                                        "uri": "https://v2.sherpa.ac.uk/id/repository/267",
+                                        "id": 267
+                                    }
+                                }
+                            ],
+                            "id": 479,
+                            "copyright_owner": "authors",
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "value": "yes",
+                                    "language": "en",
+                                    "phrase": "Yes"
+                                }
+                            ],
+                            "copyright_owner_phrases": [
+                                {
+                                    "value": "authors",
+                                    "language": "en",
+                                    "phrase": "Authors"
+                                }
+                            ],
+                            "location": {
+                                "named_repository": [
+                                    "PubMed Central"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "phrase": "Any Website",
+                                        "language": "en",
+                                        "value": "any_website"
+                                    },
+                                    {
+                                        "value": "named_repository",
+                                        "language": "en",
+                                        "phrase": "Named Repository"
+                                    },
+                                    {
+                                        "phrase": "Journal Website",
+                                        "language": "en",
+                                        "value": "this_journal"
+                                    }
+                                ],
+                                "location": [
+                                    "any_website",
+                                    "named_repository",
+                                    "this_journal"
+                                ]
+                            },
+                            "conditions": [
+                                "Published source must be acknowledged with citation",
+                                "Must link to publisher version"
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "language": "en",
+                                    "value": "published",
+                                    "phrase": "Published"
+                                }
+                            ],
+                            "article_version": [
+                                "published"
+                            ],
+                            "license": [
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "value": "cc_by",
+                                            "language": "en",
+                                            "phrase": "CC BY"
+                                        }
+                                    ],
+                                    "license": "cc_by",
+                                    "version": "4.0"
+                                }
+                            ],
+                            "additional_oa_fee": "yes"
+                        }
+                    ],
+                    "open_access_prohibited_phrases": [
+                        {
+                            "value": "no",
+                            "language": "en",
+                            "phrase": "No"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "Licence to publish",
+                            "url": "https://royalsociety.org/journals/authors/licence-to-publish/"
+                        },
+                        {
+                            "description": "Open access publishing",
+                            "url": "https://royalsociety.org/journals/authors/open-access/"
+                        },
+                        {
+                            "url": "https://royalsociety.org/journals/ethics-policies/media-embargo/",
+                            "description": "Preprints, accepted author manuscripts"
+                        },
+                        {
+                            "url": "https://royalsociety.org/journals/open-access/?_ga=2.38911587.1945841317.1646386626-421434343.1646386626",
+                            "description": "Compliance with funder open access policies"
+                        }
+                    ]
+                }
+            ],
+            "type_phrases": [
+                {
+                    "value": "journal",
+                    "language": "en",
+                    "phrase": "Journal"
+                }
+            ],
+            "url": "http://rspb.royalsocietypublishing.org/",
+            "listed_in_doaj_phrases": [
+                {
+                    "value": "no",
+                    "language": "en",
+                    "phrase": "No"
+                }
+            ],
+            "tj_status": [
+                "plan_s_approved",
+                "jisc_approved"
+            ],
+            "listed_in_doaj": "no",
+            "type": "journal",
+            "issns": [
+                {
+                    "issn": "0962-8452",
+                    "type_phrases": [
+                        {
+                            "value": "print",
+                            "language": "en",
+                            "phrase": "Print"
+                        }
+                    ],
+                    "type": "print"
+                },
+                {
+                    "type_phrases": [
+                        {
+                            "value": "electronic",
+                            "language": "en",
+                            "phrase": "Electronic"
+                        }
+                    ],
+                    "type": "electronic",
+                    "issn": "1471-2954"
+                }
+            ],
+            "publishers": [
+                {
+                    "publisher": {
+                        "country_phrases": [
+                            {
+                                "phrase": "United Kingdom",
+                                "language": "en",
+                                "value": "gb"
+                            }
+                        ],
+                        "country": "gb",
+                        "name": [
+                            {
+                                "preferred": "name",
+                                "preferred_phrases": [
+                                    {
+                                        "phrase": "Name",
+                                        "value": "name",
+                                        "language": "en"
+                                    }
+                                ],
+                                "language_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "en",
+                                        "phrase": "English"
+                                    }
+                                ],
+                                "name": "The Royal Society",
+                                "language": "en"
+                            },
+                            {
+                                "preferred": "name",
+                                "preferred_phrases": [
+                                    {
+                                        "value": "name",
+                                        "language": "en",
+                                        "phrase": "Name"
+                                    }
+                                ],
+                                "name": "Royal Society",
+                                "language_phrases": [
+                                    {
+                                        "phrase": "English",
+                                        "value": "en",
+                                        "language": "en"
+                                    }
+                                ],
+                                "language": "en"
+                            }
+                        ],
+                        "identifiers": [
+                            {
+                                "type": "ror",
+                                "type_phrases": [
+                                    {
+                                        "phrase": "ROR ID",
+                                        "value": "ror",
+                                        "language": "en"
+                                    }
+                                ],
+                                "identifier": "https://ror.org/03wnrjx87"
+                            }
+                        ],
+                        "url": "https://royalsociety.org/",
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/62",
+                        "id": 62,
+                        "publication_count": 11
+                    },
+                    "relationship_type": "society_publisher",
+                    "relationship_type_phrases": [
+                        {
+                            "phrase": "Society Publisher",
+                            "language": "en",
+                            "value": "society_publisher"
+                        }
+                    ]
+                }
+            ],
+            "system_metadata": {
+                "uri": "https://v2.sherpa.ac.uk/id/publication/11603",
+                "date_created": "2010-08-25 16:56:57",
+                "publicly_visible": "yes",
+                "date_modified": "2022-06-16 13:58:41",
+                "id": 11603,
+                "publicly_visible_phrases": [
+                    {
+                        "value": "yes",
+                        "language": "en",
+                        "phrase": "Yes"
+                    }
+                ]
+            },
+            "id": 11603
+        }
+    ]
+}

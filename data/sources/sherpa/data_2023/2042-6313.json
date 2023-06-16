@@ -1,0 +1,385 @@
+{
+    "items": [
+        {
+            "issns": [
+                {
+                    "type": "print",
+                    "type_phrases": [
+                        {
+                            "phrase": "Print",
+                            "value": "print",
+                            "language": "en"
+                        }
+                    ],
+                    "issn": "2042-6305"
+                },
+                {
+                    "type": "electronic",
+                    "issn": "2042-6313",
+                    "type_phrases": [
+                        {
+                            "language": "en",
+                            "value": "electronic",
+                            "phrase": "Electronic"
+                        }
+                    ]
+                }
+            ],
+            "publishers": [
+                {
+                    "relationship_type_phrases": [
+                        {
+                            "phrase": "Commercial Publisher",
+                            "value": "commercial_publisher",
+                            "language": "en"
+                        }
+                    ],
+                    "publisher": {
+                        "publication_count": 1,
+                        "name": [
+                            {
+                                "preferred_phrases": [
+                                    {
+                                        "phrase": "Name",
+                                        "value": "name",
+                                        "language": "en"
+                                    }
+                                ],
+                                "preferred": "name",
+                                "name": "Becaris Publishing"
+                            }
+                        ],
+                        "country": "gb",
+                        "country_phrases": [
+                            {
+                                "language": "en",
+                                "value": "gb",
+                                "phrase": "United Kingdom"
+                            }
+                        ],
+                        "url": "https://becaris.com/",
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/64313",
+                        "id": 64313
+                    },
+                    "relationship_type": "commercial_publisher"
+                }
+            ],
+            "publisher_policy": [
+                {
+                    "publication_count": 1,
+                    "permitted_oa": [
+                        {
+                            "copyright_owner_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "Authors",
+                                    "value": "authors"
+                                }
+                            ],
+                            "conditions": [
+                                "Published source must be acknowledged with citation"
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "Published",
+                                    "value": "published"
+                                }
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "phrase": "No",
+                                    "value": "no",
+                                    "language": "en"
+                                }
+                            ],
+                            "additional_oa_fee": "no",
+                            "article_version": [
+                                "published"
+                            ],
+                            "id": 9057,
+                            "copyright_owner": "authors",
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "Any Website",
+                                        "value": "any_website"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "value": "institutional_website",
+                                        "phrase": "Institutional Website"
+                                    },
+                                    {
+                                        "phrase": "Non-Commercial Subject Repository",
+                                        "value": "non_commercial_subject_repository",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "value": "non_commercial_website",
+                                        "phrase": "Non-Commercial Website"
+                                    },
+                                    {
+                                        "phrase": "Journal Website",
+                                        "value": "this_journal",
+                                        "language": "en"
+                                    }
+                                ],
+                                "location": [
+                                    "any_website",
+                                    "institutional_website",
+                                    "non_commercial_subject_repository",
+                                    "non_commercial_website",
+                                    "this_journal"
+                                ]
+                            },
+                            "license": [
+                                {
+                                    "version": "2.0",
+                                    "license": "cc_by_nc_nd",
+                                    "license_phrases": [
+                                        {
+                                            "language": "en",
+                                            "phrase": "CC BY-NC-ND",
+                                            "value": "cc_by_nc_nd"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9058,
+                            "article_version": [
+                                "accepted"
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "Accepted",
+                                    "value": "accepted"
+                                }
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "value": "no",
+                                    "phrase": "No",
+                                    "language": "en"
+                                }
+                            ],
+                            "additional_oa_fee": "no",
+                            "conditions": [
+                                "Published source must be acknowledged with citation",
+                                "Must link to published article with DOI",
+                                "Set statement to accompany deposit"
+                            ],
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "authors_homepage",
+                                        "phrase": "Author's Homepage"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "phrase": "Institutional Website",
+                                        "value": "institutional_website"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "value": "non_commercial_subject_repository",
+                                        "phrase": "Non-Commercial Subject Repository"
+                                    }
+                                ],
+                                "location": [
+                                    "authors_homepage",
+                                    "institutional_website",
+                                    "non_commercial_subject_repository"
+                                ]
+                            }
+                        },
+                        {
+                            "id": 9059,
+                            "article_version": [
+                                "submitted"
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Submitted",
+                                    "value": "submitted",
+                                    "language": "en"
+                                }
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "value": "no",
+                                    "phrase": "No",
+                                    "language": "en"
+                                }
+                            ],
+                            "additional_oa_fee": "no",
+                            "location": {
+                                "location": [
+                                    "preprint_repository"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "Preprint Repository",
+                                        "value": "preprint_repository"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "conditions": [
+                                "Published source must be acknowledged with citation"
+                            ],
+                            "additional_oa_fee": "no",
+                            "article_version_phrases": [
+                                {
+                                    "value": "published",
+                                    "phrase": "Published",
+                                    "language": "en"
+                                }
+                            ],
+                            "article_version": [
+                                "published"
+                            ],
+                            "id": 9061,
+                            "license": [
+                                {
+                                    "version": "4.0",
+                                    "license": "cc_by",
+                                    "license_phrases": [
+                                        {
+                                            "language": "en",
+                                            "phrase": "CC BY",
+                                            "value": "cc_by"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "value": "any_website",
+                                        "phrase": "Any Website",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "value": "this_journal",
+                                        "phrase": "Journal Website"
+                                    }
+                                ],
+                                "location": [
+                                    "any_website",
+                                    "this_journal"
+                                ]
+                            },
+                            "prerequisites": {
+                                "prerequisites": [
+                                    "when_required_by_funder"
+                                ],
+                                "prerequisites_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "If Required by Funder",
+                                        "value": "when_required_by_funder"
+                                    }
+                                ]
+                            },
+                            "copyright_owner_phrases": [
+                                {
+                                    "language": "en",
+                                    "value": "authors",
+                                    "phrase": "Authors"
+                                }
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "phrase": "No",
+                                    "value": "no",
+                                    "language": "en"
+                                }
+                            ],
+                            "copyright_owner": "authors"
+                        }
+                    ],
+                    "open_access_prohibited": "no",
+                    "internal_moniker": "Policy #6270 (Becaris Publishing)",
+                    "open_access_prohibited_phrases": [
+                        {
+                            "phrase": "No",
+                            "value": "no",
+                            "language": "en"
+                        }
+                    ],
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/6270",
+                    "urls": [
+                        {
+                            "description": "Editorial Policies",
+                            "url": "https://becarispublishing.com/journal/cer/editorial-policies#Research_ethics_policies"
+                        }
+                    ],
+                    "id": 6270
+                }
+            ],
+            "listed_in_doaj": "no",
+            "system_metadata": {
+                "date_created": "2012-02-29 10:10:40",
+                "publicly_visible_phrases": [
+                    {
+                        "value": "yes",
+                        "phrase": "Yes",
+                        "language": "en"
+                    }
+                ],
+                "date_modified": "2023-02-02 11:27:31",
+                "publicly_visible": "yes",
+                "id": 22234,
+                "uri": "https://v2.sherpa.ac.uk/id/publication/22234"
+            },
+            "type_phrases": [
+                {
+                    "value": "journal",
+                    "phrase": "Journal",
+                    "language": "en"
+                }
+            ],
+            "title": [
+                {
+                    "language_phrases": [
+                        {
+                            "language": "en",
+                            "phrase": "English",
+                            "value": "en"
+                        }
+                    ],
+                    "preferred_phrases": [
+                        {
+                            "phrase": "Title",
+                            "value": "name",
+                            "language": "en"
+                        }
+                    ],
+                    "language": "en",
+                    "preferred": "name",
+                    "title": "Journal of Comparative Effectiveness Research"
+                }
+            ],
+            "url": "https://becarispublishing.com/loi/cer",
+            "listed_in_doaj_phrases": [
+                {
+                    "language": "en",
+                    "phrase": "No",
+                    "value": "no"
+                }
+            ],
+            "id": 22234,
+            "type": "journal"
+        }
+    ]
+}

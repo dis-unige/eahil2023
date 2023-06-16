@@ -1,0 +1,376 @@
+{
+    "items": [
+        {
+            "issns": [
+                {
+                    "type": "print",
+                    "type_phrases": [
+                        {
+                            "value": "print",
+                            "phrase": "Print",
+                            "language": "en"
+                        }
+                    ],
+                    "issn": "1226-3613"
+                },
+                {
+                    "type": "electronic",
+                    "type_phrases": [
+                        {
+                            "value": "electronic",
+                            "phrase": "Electronic",
+                            "language": "en"
+                        }
+                    ],
+                    "issn": "2092-6413"
+                }
+            ],
+            "publishers": [
+                {
+                    "relationship_type": "commercial_publisher",
+                    "publisher": {
+                        "identifiers": [
+                            {
+                                "identifier": "https://ror.org/03dsk4d59",
+                                "type_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "ror",
+                                        "phrase": "ROR ID"
+                                    }
+                                ],
+                                "type": "ror"
+                            }
+                        ],
+                        "url": "https://www.nature.com/",
+                        "country_phrases": [
+                            {
+                                "language": "en",
+                                "phrase": "United Kingdom",
+                                "value": "gb"
+                            }
+                        ],
+                        "id": 3274,
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/3274",
+                        "publication_count": 55,
+                        "name": [
+                            {
+                                "language": "en",
+                                "language_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "en",
+                                        "phrase": "English"
+                                    }
+                                ],
+                                "name": "Springer Nature [academic journals on nature.com]"
+                            }
+                        ],
+                        "imprint_of_id": 62037,
+                        "country": "gb"
+                    },
+                    "relationship_type_phrases": [
+                        {
+                            "value": "commercial_publisher",
+                            "phrase": "Commercial Publisher",
+                            "language": "en"
+                        }
+                    ]
+                }
+            ],
+            "publisher_policy": [
+                {
+                    "permitted_oa": [
+                        {
+                            "location": {
+                                "location": [
+                                    "any_website",
+                                    "this_journal"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "value": "any_website",
+                                        "phrase": "Any Website",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "phrase": "Journal Website",
+                                        "value": "this_journal"
+                                    }
+                                ]
+                            },
+                            "license": [
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "phrase": "CC BY",
+                                            "value": "cc_by",
+                                            "language": "en"
+                                        }
+                                    ],
+                                    "license": "cc_by"
+                                }
+                            ],
+                            "publisher_deposit": [
+                                {
+                                    "repository_metadata": {
+                                        "type_phrases": [
+                                            {
+                                                "phrase": "Disciplinary",
+                                                "value": "disciplinary",
+                                                "language": "en"
+                                            }
+                                        ],
+                                        "url": "http://www.ncbi.nlm.nih.gov/pmc/",
+                                        "name": [
+                                            {
+                                                "preferred": "name",
+                                                "name": "PubMed Central",
+                                                "preferred_phrases": [
+                                                    {
+                                                        "value": "name",
+                                                        "phrase": "Name",
+                                                        "language": "en"
+                                                    }
+                                                ],
+                                                "language_phrases": [
+                                                    {
+                                                        "phrase": "English",
+                                                        "value": "en",
+                                                        "language": "en"
+                                                    }
+                                                ],
+                                                "language": "en"
+                                            }
+                                        ],
+                                        "type": "disciplinary"
+                                    },
+                                    "system_metadata": {
+                                        "id": 267,
+                                        "uri": "https://v2.sherpa.ac.uk/id/repository/267"
+                                    }
+                                },
+                                {
+                                    "repository_metadata": {
+                                        "name": [
+                                            {
+                                                "name": "Europe PMC",
+                                                "preferred": "name",
+                                                "language": "en",
+                                                "language_phrases": [
+                                                    {
+                                                        "phrase": "English",
+                                                        "value": "en",
+                                                        "language": "en"
+                                                    }
+                                                ],
+                                                "preferred_phrases": [
+                                                    {
+                                                        "language": "en",
+                                                        "value": "name",
+                                                        "phrase": "Name"
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "url": "http://europepmc.org/",
+                                        "type_phrases": [
+                                            {
+                                                "phrase": "Disciplinary",
+                                                "value": "disciplinary",
+                                                "language": "en"
+                                            }
+                                        ],
+                                        "notes": "Launched as UK PubMed Central (UKPMC) in January 2007, changed to Europe PubMed Central in November 2012.\r\nSpecial item types include: Links",
+                                        "type": "disciplinary"
+                                    },
+                                    "system_metadata": {
+                                        "id": 908,
+                                        "uri": "https://v2.sherpa.ac.uk/id/repository/908"
+                                    }
+                                }
+                            ],
+                            "prerequisites": {
+                                "prerequisites": [
+                                    "when_research_article"
+                                ],
+                                "prerequisites_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "when_research_article",
+                                        "phrase": "If a Research Article"
+                                    }
+                                ]
+                            },
+                            "copyright_owner_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "Authors",
+                                    "value": "authors"
+                                }
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "value": "no",
+                                    "phrase": "No",
+                                    "language": "en"
+                                }
+                            ],
+                            "copyright_owner": "authors",
+                            "conditions": [
+                                "Published source must be acknowledged",
+                                "Must link to publisher version with DOI"
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "value": "published",
+                                    "phrase": "Published",
+                                    "language": "en"
+                                }
+                            ],
+                            "additional_oa_fee": "no",
+                            "article_version": [
+                                "published"
+                            ],
+                            "id": 145
+                        },
+                        {
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "value": "authors_homepage",
+                                        "phrase": "Author's Homepage",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "value": "institutional_website",
+                                        "phrase": "Institutional Website",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "phrase": "Preprint Repository",
+                                        "value": "preprint_repository",
+                                        "language": "en"
+                                    }
+                                ],
+                                "location": [
+                                    "authors_homepage",
+                                    "institutional_website",
+                                    "preprint_repository"
+                                ]
+                            },
+                            "prerequisites": {
+                                "prerequisites": [
+                                    "when_research_article"
+                                ],
+                                "prerequisites_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "when_research_article",
+                                        "phrase": "If a Research Article"
+                                    }
+                                ]
+                            },
+                            "additional_oa_fee": "no",
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "No",
+                                    "value": "no"
+                                }
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "language": "en",
+                                    "value": "submitted",
+                                    "phrase": "Submitted"
+                                }
+                            ],
+                            "copyright_owner_phrases": [
+                                {
+                                    "language": "en",
+                                    "value": "authors",
+                                    "phrase": "Authors"
+                                }
+                            ],
+                            "id": 8168,
+                            "copyright_owner": "authors",
+                            "article_version": [
+                                "submitted"
+                            ]
+                        }
+                    ],
+                    "publication_count": 17,
+                    "open_access_prohibited": "no",
+                    "open_access_prohibited_phrases": [
+                        {
+                            "language": "en",
+                            "phrase": "No",
+                            "value": "no"
+                        }
+                    ],
+                    "internal_moniker": "Fully Open access journals",
+                    "urls": [
+                        {
+                            "description": "Preprints and Conference Proceedings",
+                            "url": "http://www.nature.com/authors/policies/preprints.html"
+                        },
+                        {
+                            "description": "Open access policies for journals",
+                            "url": "http://www.springernature.com/gp/open-research/policies/journal-policies"
+                        }
+                    ],
+                    "id": 3292,
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/3292"
+                }
+            ],
+            "listed_in_doaj": "yes",
+            "system_metadata": {
+                "uri": "https://v2.sherpa.ac.uk/id/publication/24222",
+                "id": 24222,
+                "publicly_visible": "yes",
+                "date_modified": "2022-04-28 13:43:52",
+                "date_created": "2013-03-06 16:05:02",
+                "publicly_visible_phrases": [
+                    {
+                        "value": "yes",
+                        "phrase": "Yes",
+                        "language": "en"
+                    }
+                ]
+            },
+            "type_phrases": [
+                {
+                    "language": "en",
+                    "value": "journal",
+                    "phrase": "Journal"
+                }
+            ],
+            "url": "https://www.nature.com/emm/",
+            "title": [
+                {
+                    "language": "en",
+                    "language_phrases": [
+                        {
+                            "language": "en",
+                            "value": "en",
+                            "phrase": "English"
+                        }
+                    ],
+                    "acronym": "EMM",
+                    "title": "Experimental & Molecular Medicine"
+                }
+            ],
+            "listed_in_doaj_phrases": [
+                {
+                    "value": "yes",
+                    "phrase": "Yes",
+                    "language": "en"
+                }
+            ],
+            "type": "journal",
+            "id": 24222
+        }
+    ]
+}

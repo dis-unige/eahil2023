@@ -1,0 +1,374 @@
+{
+    "items": [
+        {
+            "issns": [
+                {
+                    "type": "print",
+                    "issn": "0006-2979",
+                    "type_phrases": [
+                        {
+                            "language": "en",
+                            "value": "print",
+                            "phrase": "Print"
+                        }
+                    ]
+                },
+                {
+                    "issn": "1608-3040",
+                    "type_phrases": [
+                        {
+                            "phrase": "Electronic",
+                            "value": "electronic",
+                            "language": "en"
+                        }
+                    ],
+                    "type": "electronic"
+                }
+            ],
+            "publishers": [
+                {
+                    "relationship_type_phrases": [
+                        {
+                            "value": "commercial_publisher",
+                            "phrase": "Commercial Publisher",
+                            "language": "en"
+                        }
+                    ],
+                    "publisher": {
+                        "country": "gb",
+                        "imprint_of_id": 62037,
+                        "publication_count": 2253,
+                        "name": [
+                            {
+                                "name": "Springer",
+                                "language": "en",
+                                "language_phrases": [
+                                    {
+                                        "value": "en",
+                                        "phrase": "English",
+                                        "language": "en"
+                                    }
+                                ]
+                            }
+                        ],
+                        "imprints_id": [
+                            114,
+                            1298,
+                            25349
+                        ],
+                        "id": 3291,
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/3291",
+                        "url": "https://www.springernature.com/gp/products/journals",
+                        "identifiers": [
+                            {
+                                "type_phrases": [
+                                    {
+                                        "phrase": "ROR ID",
+                                        "value": "ror",
+                                        "language": "en"
+                                    }
+                                ],
+                                "identifier": "https://ror.org/03dsk4d59",
+                                "type": "ror"
+                            }
+                        ],
+                        "country_phrases": [
+                            {
+                                "phrase": "United Kingdom",
+                                "value": "gb",
+                                "language": "en"
+                            }
+                        ]
+                    },
+                    "relationship_type": "commercial_publisher"
+                },
+                {
+                    "relationship_type_phrases": [
+                        {
+                            "phrase": "Copyright Holder",
+                            "value": "copyright_holder",
+                            "language": "en"
+                        }
+                    ],
+                    "publisher": {
+                        "id": 62686,
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/62686",
+                        "country_phrases": [
+                            {
+                                "language": "en",
+                                "phrase": "Russian Federation",
+                                "value": "ru"
+                            }
+                        ],
+                        "url": "https://www.pleiades.online/",
+                        "country": "ru",
+                        "publication_count": 134,
+                        "name": [
+                            {
+                                "language": "en",
+                                "language_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "en",
+                                        "phrase": "English"
+                                    }
+                                ],
+                                "name": "Pleiades Publishing"
+                            }
+                        ]
+                    },
+                    "relationship_type": "copyright_holder"
+                }
+            ],
+            "publisher_policy": [
+                {
+                    "id": 3291,
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/3291",
+                    "urls": [
+                        {
+                            "url": "https://www.springer.com/gp/open-access/publication-policies/self-archiving-policy",
+                            "description": "Self-Archiving Policy"
+                        },
+                        {
+                            "description": "Accepted manuscript terms of use",
+                            "url": "https://www.springernature.com/gp/open-research/policies/accepted-manuscript-terms"
+                        }
+                    ],
+                    "internal_moniker": "Default Policy",
+                    "open_access_prohibited_phrases": [
+                        {
+                            "phrase": "No",
+                            "value": "no",
+                            "language": "en"
+                        }
+                    ],
+                    "open_access_prohibited": "no",
+                    "permitted_oa": [
+                        {
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "Author's Homepage",
+                                        "value": "authors_homepage"
+                                    },
+                                    {
+                                        "value": "preprint_repository",
+                                        "phrase": "Preprint Repository",
+                                        "language": "en"
+                                    }
+                                ],
+                                "location": [
+                                    "authors_homepage",
+                                    "preprint_repository"
+                                ]
+                            },
+                            "conditions": [
+                                "Published source must be acknowledged",
+                                "Must link to publisher version with DOI"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "value": "no",
+                                    "phrase": "No",
+                                    "language": "en"
+                                }
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "language": "en",
+                                    "value": "submitted",
+                                    "phrase": "Submitted"
+                                }
+                            ],
+                            "additional_oa_fee": "no",
+                            "article_version": [
+                                "submitted"
+                            ],
+                            "id": 138
+                        },
+                        {
+                            "article_version": [
+                                "accepted"
+                            ],
+                            "id": 139,
+                            "conditions": [
+                                "Published source must be acknowledged",
+                                "Must link to publisher version with DOI",
+                                "Post-prints are subject to Springer Nature re-use terms",
+                                "Set statement to accompany deposit (see policy)"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "value": "no",
+                                    "phrase": "No",
+                                    "language": "en"
+                                }
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "Accepted",
+                                    "value": "accepted"
+                                }
+                            ],
+                            "additional_oa_fee": "no",
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "Author's Homepage",
+                                        "value": "authors_homepage"
+                                    }
+                                ],
+                                "location": [
+                                    "authors_homepage"
+                                ]
+                            }
+                        },
+                        {
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "No",
+                                    "value": "no"
+                                }
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "value": "accepted",
+                                    "phrase": "Accepted",
+                                    "language": "en"
+                                }
+                            ],
+                            "additional_oa_fee": "no",
+                            "conditions": [
+                                "Published source must be acknowledged",
+                                "Must link to publisher version with DOI",
+                                "Post-prints are subject to Springer Nature re-use terms"
+                            ],
+                            "id": 140,
+                            "embargo": {
+                                "units": "months",
+                                "units_phrases": [
+                                    {
+                                        "phrase": "Months",
+                                        "value": "months",
+                                        "language": "en"
+                                    }
+                                ],
+                                "amount": 12
+                            },
+                            "article_version": [
+                                "accepted"
+                            ],
+                            "location": {
+                                "location": [
+                                    "funder_designated_location",
+                                    "institutional_repository"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "funder_designated_location",
+                                        "phrase": "Funder Designated Location"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "value": "institutional_repository",
+                                        "phrase": "Institutional Repository"
+                                    }
+                                ]
+                            },
+                            "license": [
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "value": "bespoke_license",
+                                            "phrase": "Publisher's Bespoke License",
+                                            "language": "en"
+                                        }
+                                    ],
+                                    "license": "bespoke_license"
+                                }
+                            ]
+                        }
+                    ],
+                    "publication_count": 2237
+                }
+            ],
+            "listed_in_doaj": "no",
+            "system_metadata": {
+                "publicly_visible": "yes",
+                "date_modified": "2022-11-25 13:48:09",
+                "id": 6361,
+                "uri": "https://v2.sherpa.ac.uk/id/publication/6361",
+                "date_created": "2010-08-02 16:35:51",
+                "publicly_visible_phrases": [
+                    {
+                        "language": "en",
+                        "value": "yes",
+                        "phrase": "Yes"
+                    }
+                ]
+            },
+            "type_phrases": [
+                {
+                    "phrase": "Journal",
+                    "value": "journal",
+                    "language": "en"
+                }
+            ],
+            "listed_in_doaj_phrases": [
+                {
+                    "phrase": "No",
+                    "value": "no",
+                    "language": "en"
+                }
+            ],
+            "title": [
+                {
+                    "language": "en",
+                    "preferred_phrases": [
+                        {
+                            "value": "name",
+                            "phrase": "Title",
+                            "language": "en"
+                        }
+                    ],
+                    "language_phrases": [
+                        {
+                            "value": "en",
+                            "phrase": "English",
+                            "language": "en"
+                        }
+                    ],
+                    "title": "Biochemistry (Moscow)",
+                    "preferred": "name"
+                },
+                {
+                    "language": "ru",
+                    "language_phrases": [
+                        {
+                            "phrase": "Russian",
+                            "value": "ru",
+                            "language": "en"
+                        }
+                    ],
+                    "preferred_phrases": [
+                        {
+                            "language": "en",
+                            "value": "name",
+                            "phrase": "Title"
+                        }
+                    ],
+                    "title": "Biokhimiya",
+                    "preferred": "name"
+                }
+            ],
+            "url": "https://www.pleiades.online/en/journal/biochmsc/",
+            "type": "journal",
+            "id": 6361
+        }
+    ]
+}

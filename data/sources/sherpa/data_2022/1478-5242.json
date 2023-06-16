@@ -1,0 +1,401 @@
+{
+    "items": [
+        {
+            "type_phrases": [
+                {
+                    "phrase": "Journal",
+                    "language": "en",
+                    "value": "journal"
+                }
+            ],
+            "publisher_policy": [
+                {
+                    "open_access_prohibited_phrases": [
+                        {
+                            "value": "no",
+                            "language": "en",
+                            "phrase": "No"
+                        }
+                    ],
+                    "permitted_oa": [
+                        {
+                            "publisher_deposit": [
+                                {
+                                    "repository_metadata": {
+                                        "type_phrases": [
+                                            {
+                                                "value": "disciplinary",
+                                                "language": "en",
+                                                "phrase": "Disciplinary"
+                                            }
+                                        ],
+                                        "name": [
+                                            {
+                                                "language_phrases": [
+                                                    {
+                                                        "language": "en",
+                                                        "value": "en",
+                                                        "phrase": "English"
+                                                    }
+                                                ],
+                                                "language": "en",
+                                                "preferred_phrases": [
+                                                    {
+                                                        "language": "en",
+                                                        "value": "name",
+                                                        "phrase": "Name"
+                                                    }
+                                                ],
+                                                "preferred": "name",
+                                                "name": "PubMed Central"
+                                            }
+                                        ],
+                                        "url": "http://www.ncbi.nlm.nih.gov/pmc/",
+                                        "type": "disciplinary"
+                                    },
+                                    "system_metadata": {
+                                        "uri": "https://v2.sherpa.ac.uk/id/repository/267",
+                                        "id": 267
+                                    }
+                                }
+                            ],
+                            "copyright_owner": "authors",
+                            "prerequisites": {
+                                "prerequisites": [
+                                    "when_research_article"
+                                ],
+                                "prerequisites_phrases": [
+                                    {
+                                        "phrase": "If a Research Article",
+                                        "value": "when_research_article",
+                                        "language": "en"
+                                    }
+                                ]
+                            },
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Published",
+                                    "language": "en",
+                                    "value": "published"
+                                }
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "phrase": "No",
+                                    "language": "en",
+                                    "value": "no"
+                                }
+                            ],
+                            "conditions": [
+                                "Must acknowledge published source with citation",
+                                "Self-archived published version must be labelled CC BY 4.0"
+                            ],
+                            "location": {
+                                "named_repository": [
+                                    "PubMed Central"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "authors_homepage",
+                                        "phrase": "Author's Homepage"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "value": "named_repository",
+                                        "phrase": "Named Repository"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "value": "this_journal",
+                                        "phrase": "Journal Website"
+                                    }
+                                ],
+                                "location": [
+                                    "authors_homepage",
+                                    "named_repository",
+                                    "this_journal"
+                                ]
+                            },
+                            "article_version": [
+                                "published"
+                            ],
+                            "additional_oa_fee": "no",
+                            "license": [
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "value": "cc_by",
+                                            "language": "en",
+                                            "phrase": "CC BY"
+                                        }
+                                    ],
+                                    "license": "cc_by",
+                                    "version": "4.0"
+                                }
+                            ],
+                            "copyright_owner_phrases": [
+                                {
+                                    "phrase": "Authors",
+                                    "value": "authors",
+                                    "language": "en"
+                                }
+                            ]
+                        },
+                        {
+                            "copyright_owner_phrases": [
+                                {
+                                    "value": "authors",
+                                    "language": "en",
+                                    "phrase": "Authors"
+                                }
+                            ],
+                            "license": [
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "language": "en",
+                                            "value": "cc_by",
+                                            "phrase": "CC BY"
+                                        }
+                                    ],
+                                    "license": "cc_by",
+                                    "version": "4.0"
+                                }
+                            ],
+                            "additional_oa_fee": "no",
+                            "article_version": [
+                                "accepted"
+                            ],
+                            "location": {
+                                "location": [
+                                    "this_journal"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "phrase": "Journal Website",
+                                        "language": "en",
+                                        "value": "this_journal"
+                                    }
+                                ]
+                            },
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "value": "no",
+                                    "language": "en",
+                                    "phrase": "No"
+                                }
+                            ],
+                            "copyright_owner": "authors",
+                            "article_version_phrases": [
+                                {
+                                    "language": "en",
+                                    "value": "accepted",
+                                    "phrase": "Accepted"
+                                }
+                            ]
+                        },
+                        {
+                            "conditions": [
+                                "Upon publication, must link to published article with DOI"
+                            ],
+                            "article_version": [
+                                "submitted"
+                            ],
+                            "location": {
+                                "location": [
+                                    "named_repository",
+                                    "preprint_repository"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "phrase": "Named Repository",
+                                        "language": "en",
+                                        "value": "named_repository"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "value": "preprint_repository",
+                                        "phrase": "Preprint Repository"
+                                    }
+                                ],
+                                "named_repository": [
+                                    "bioRxiv",
+                                    "medRxiv"
+                                ]
+                            },
+                            "additional_oa_fee": "no",
+                            "copyright_owner_phrases": [
+                                {
+                                    "value": "authors",
+                                    "language": "en",
+                                    "phrase": "Authors"
+                                }
+                            ],
+                            "copyright_owner": "authors",
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Submitted",
+                                    "value": "submitted",
+                                    "language": "en"
+                                }
+                            ],
+                            "public_notes": [
+                                "Author must inform publisher of deposit and provide include a link or DOI to the deposit"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "value": "no",
+                                    "phrase": "No"
+                                }
+                            ]
+                        }
+                    ],
+                    "publication_count": 1,
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/60",
+                    "open_access_prohibited": "no",
+                    "urls": [
+                        {
+                            "description": "BJGP editorial process & policies",
+                            "url": "http://bjgp.org/authors/bjgp-editorial-process-and-policies"
+                        }
+                    ],
+                    "internal_moniker": "Default Policy",
+                    "id": 60
+                }
+            ],
+            "system_metadata": {
+                "date_created": "2012-07-20 10:07:24",
+                "publicly_visible_phrases": [
+                    {
+                        "phrase": "Yes",
+                        "language": "en",
+                        "value": "yes"
+                    }
+                ],
+                "date_modified": "2021-01-05 08:29:11",
+                "id": 23130,
+                "publicly_visible": "yes",
+                "uri": "https://v2.sherpa.ac.uk/id/publication/23130"
+            },
+            "listed_in_doaj": "no",
+            "title": [
+                {
+                    "acronym": "BJGP",
+                    "preferred_phrases": [
+                        {
+                            "phrase": "Title",
+                            "language": "en",
+                            "value": "name"
+                        }
+                    ],
+                    "language": "en",
+                    "language_phrases": [
+                        {
+                            "phrase": "English",
+                            "language": "en",
+                            "value": "en"
+                        }
+                    ],
+                    "preferred": "name",
+                    "title": "British Journal of General Practice"
+                }
+            ],
+            "id": 23130,
+            "listed_in_doaj_phrases": [
+                {
+                    "value": "no",
+                    "language": "en",
+                    "phrase": "No"
+                }
+            ],
+            "url": "http://bjgp.org/",
+            "publishers": [
+                {
+                    "relationship_type": "society_publisher",
+                    "publisher": {
+                        "country_phrases": [
+                            {
+                                "language": "en",
+                                "value": "gb",
+                                "phrase": "United Kingdom"
+                            }
+                        ],
+                        "identifiers": [
+                            {
+                                "type": "ror",
+                                "type_phrases": [
+                                    {
+                                        "value": "ror",
+                                        "language": "en",
+                                        "phrase": "ROR ID"
+                                    }
+                                ],
+                                "identifier": "https://ror.org/01gdbf303"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "preferred": "name",
+                                "name": "Royal College of General Practitioners",
+                                "preferred_phrases": [
+                                    {
+                                        "phrase": "Name",
+                                        "language": "en",
+                                        "value": "name"
+                                    }
+                                ],
+                                "language": "en",
+                                "language_phrases": [
+                                    {
+                                        "phrase": "English",
+                                        "language": "en",
+                                        "value": "en"
+                                    }
+                                ]
+                            }
+                        ],
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/60",
+                        "publication_count": 3,
+                        "url": "http://www.rcgp.org.uk/",
+                        "id": 60,
+                        "country": "gb"
+                    },
+                    "relationship_type_phrases": [
+                        {
+                            "value": "society_publisher",
+                            "language": "en",
+                            "phrase": "Society Publisher"
+                        }
+                    ]
+                }
+            ],
+            "issns": [
+                {
+                    "type_phrases": [
+                        {
+                            "value": "print",
+                            "language": "en",
+                            "phrase": "Print"
+                        }
+                    ],
+                    "issn": "0960-1643",
+                    "type": "print"
+                },
+                {
+                    "type": "electronic",
+                    "type_phrases": [
+                        {
+                            "value": "electronic",
+                            "language": "en",
+                            "phrase": "Electronic"
+                        }
+                    ],
+                    "issn": "1478-5242"
+                }
+            ],
+            "type": "journal"
+        }
+    ]
+}

@@ -1,0 +1,342 @@
+{
+    "items": [
+        {
+            "publishers": [
+                {
+                    "relationship_type_phrases": [
+                        {
+                            "language": "en",
+                            "phrase": "Society Publisher",
+                            "value": "society_publisher"
+                        }
+                    ],
+                    "relationship_type": "society_publisher",
+                    "publisher": {
+                        "id": 497,
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/497",
+                        "country_phrases": [
+                            {
+                                "value": "us",
+                                "phrase": "United States of America",
+                                "language": "en"
+                            }
+                        ],
+                        "url": "https://aasm.org/",
+                        "identifiers": [
+                            {
+                                "type": "ror",
+                                "type_phrases": [
+                                    {
+                                        "value": "ror",
+                                        "phrase": "ROR ID",
+                                        "language": "en"
+                                    }
+                                ],
+                                "identifier": "https://ror.org/0090hd978"
+                            }
+                        ],
+                        "country": "us",
+                        "publication_count": 1,
+                        "name": [
+                            {
+                                "preferred": "name",
+                                "name": "American Academy of Sleep Medicine",
+                                "preferred_phrases": [
+                                    {
+                                        "value": "name",
+                                        "phrase": "Name",
+                                        "language": "en"
+                                    }
+                                ],
+                                "language_phrases": [
+                                    {
+                                        "value": "en",
+                                        "phrase": "English",
+                                        "language": "en"
+                                    }
+                                ],
+                                "language": "en"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "issns": [
+                {
+                    "type": "print",
+                    "issn": "1550-9389",
+                    "type_phrases": [
+                        {
+                            "language": "en",
+                            "value": "print",
+                            "phrase": "Print"
+                        }
+                    ]
+                },
+                {
+                    "issn": "1550-9397",
+                    "type_phrases": [
+                        {
+                            "phrase": "Electronic",
+                            "value": "electronic",
+                            "language": "en"
+                        }
+                    ],
+                    "type": "electronic"
+                }
+            ],
+            "publisher_policy": [
+                {
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/497",
+                    "urls": [
+                        {
+                            "description": "Open Access Policy",
+                            "url": "http://jcsm.aasm.org/openaccess.aspx"
+                        },
+                        {
+                            "url": "http://jcsm.aasm.org/selfarchivingpolicy.aspx",
+                            "description": "Self-archiving Policy"
+                        }
+                    ],
+                    "id": 497,
+                    "open_access_prohibited_phrases": [
+                        {
+                            "phrase": "No",
+                            "value": "no",
+                            "language": "en"
+                        }
+                    ],
+                    "open_access_prohibited": "no",
+                    "internal_moniker": "Default policy",
+                    "permitted_oa": [
+                        {
+                            "id": 1636,
+                            "article_version": [
+                                "accepted"
+                            ],
+                            "embargo": {
+                                "units": "months",
+                                "units_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "months",
+                                        "phrase": "Months"
+                                    }
+                                ],
+                                "amount": 12
+                            },
+                            "additional_oa_fee": "no",
+                            "article_version_phrases": [
+                                {
+                                    "language": "en",
+                                    "value": "accepted",
+                                    "phrase": "Accepted"
+                                }
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "No",
+                                    "value": "no"
+                                }
+                            ],
+                            "conditions": [
+                                "Published source must be acknowledged with set statement"
+                            ],
+                            "prerequisites": {
+                                "prerequisite_funders": [
+                                    {
+                                        "funder_metadata": {
+                                            "identifiers": [
+                                                {
+                                                    "identifier": "http://dx.doi.org/10.13039/100000002",
+                                                    "type_phrases": [
+                                                        {
+                                                            "phrase": "FundRef DOI",
+                                                            "value": "fundref",
+                                                            "language": "en"
+                                                        }
+                                                    ],
+                                                    "type": "fundref"
+                                                },
+                                                {
+                                                    "type": "ror",
+                                                    "type_phrases": [
+                                                        {
+                                                            "language": "en",
+                                                            "phrase": "ROR ID",
+                                                            "value": "ror"
+                                                        }
+                                                    ],
+                                                    "identifier": "https://ror.org/01cwqze88"
+                                                }
+                                            ],
+                                            "name": [
+                                                {
+                                                    "preferred_phrases": [
+                                                        {
+                                                            "language": "en",
+                                                            "phrase": "Name",
+                                                            "value": "name"
+                                                        }
+                                                    ],
+                                                    "name": "National Institutes of Health",
+                                                    "acronym": "NIH",
+                                                    "language_phrases": [
+                                                        {
+                                                            "phrase": "English",
+                                                            "value": "en",
+                                                            "language": "en"
+                                                        }
+                                                    ],
+                                                    "language": "en",
+                                                    "preferred": "name"
+                                                }
+                                            ],
+                                            "url": [
+                                                {
+                                                    "language": "en",
+                                                    "language_phrases": [
+                                                        {
+                                                            "language": "en",
+                                                            "phrase": "English",
+                                                            "value": "en"
+                                                        }
+                                                    ],
+                                                    "url": "https://www.nih.gov/"
+                                                }
+                                            ],
+                                            "country_phrases": [
+                                                {
+                                                    "language": "en",
+                                                    "phrase": "United States of America",
+                                                    "value": "us"
+                                                }
+                                            ],
+                                            "id": 9,
+                                            "country": "us"
+                                        },
+                                        "system_metadata": {
+                                            "id": 9,
+                                            "uri": "https://v2.sherpa.ac.uk/id/funder/9"
+                                        }
+                                    }
+                                ]
+                            },
+                            "location": {
+                                "named_repository": [
+                                    "PubMed Central"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "named_repository",
+                                        "phrase": "Named Repository"
+                                    }
+                                ],
+                                "location": [
+                                    "named_repository"
+                                ]
+                            }
+                        },
+                        {
+                            "additional_oa_fee": "no",
+                            "article_version_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "Accepted",
+                                    "value": "accepted"
+                                }
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "phrase": "No",
+                                    "value": "no",
+                                    "language": "en"
+                                }
+                            ],
+                            "conditions": [
+                                "Published source must be acknowledged with set statement",
+                                "Must link to publisher version"
+                            ],
+                            "id": 1638,
+                            "embargo": {
+                                "units": "months",
+                                "amount": 6,
+                                "units_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "months",
+                                        "phrase": "Months"
+                                    }
+                                ]
+                            },
+                            "article_version": [
+                                "accepted"
+                            ],
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "institutional_repository",
+                                        "phrase": "Institutional Repository"
+                                    }
+                                ],
+                                "location": [
+                                    "institutional_repository"
+                                ]
+                            }
+                        }
+                    ],
+                    "publication_count": 1
+                }
+            ],
+            "listed_in_doaj": "no",
+            "system_metadata": {
+                "date_modified": "2022-08-12 09:40:55",
+                "publicly_visible": "yes",
+                "id": 10335,
+                "uri": "https://v2.sherpa.ac.uk/id/publication/10335",
+                "date_created": "2010-08-18 14:05:17",
+                "publicly_visible_phrases": [
+                    {
+                        "language": "en",
+                        "value": "yes",
+                        "phrase": "Yes"
+                    }
+                ]
+            },
+            "type_phrases": [
+                {
+                    "phrase": "Journal",
+                    "value": "journal",
+                    "language": "en"
+                }
+            ],
+            "url": "https://jcsm.aasm.org/journal/jcsm",
+            "listed_in_doaj_phrases": [
+                {
+                    "language": "en",
+                    "value": "no",
+                    "phrase": "No"
+                }
+            ],
+            "title": [
+                {
+                    "language_phrases": [
+                        {
+                            "value": "en",
+                            "phrase": "English",
+                            "language": "en"
+                        }
+                    ],
+                    "acronym": "JCSM",
+                    "language": "en",
+                    "title": "Journal of Clinical Sleep Medicine"
+                }
+            ],
+            "type": "journal",
+            "id": 10335
+        }
+    ]
+}

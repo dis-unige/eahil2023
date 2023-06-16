@@ -1,0 +1,452 @@
+{
+    "items": [
+        {
+            "type_phrases": [
+                {
+                    "language": "en",
+                    "value": "journal",
+                    "phrase": "Journal"
+                }
+            ],
+            "publisher_policy": [
+                {
+                    "open_access_prohibited_phrases": [
+                        {
+                            "phrase": "No",
+                            "value": "no",
+                            "language": "en"
+                        }
+                    ],
+                    "permitted_oa": [
+                        {
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "value": "no",
+                                    "language": "en",
+                                    "phrase": "No"
+                                }
+                            ],
+                            "additional_oa_fee": "no",
+                            "article_version_phrases": [
+                                {
+                                    "language": "en",
+                                    "value": "submitted",
+                                    "phrase": "Submitted"
+                                }
+                            ],
+                            "location": {
+                                "location": [
+                                    "authors_homepage"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "phrase": "Author's Homepage",
+                                        "language": "en",
+                                        "value": "authors_homepage"
+                                    }
+                                ]
+                            },
+                            "article_version": [
+                                "submitted"
+                            ]
+                        },
+                        {
+                            "conditions": [
+                                "Published source must be acknowledged",
+                                "Must link to publisher version with DOI"
+                            ],
+                            "additional_oa_fee": "no",
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "phrase": "Named Repository",
+                                        "language": "en",
+                                        "value": "named_repository"
+                                    }
+                                ],
+                                "location": [
+                                    "named_repository"
+                                ],
+                                "named_repository": [
+                                    "PubMed Central"
+                                ]
+                            },
+                            "article_version": [
+                                "accepted"
+                            ],
+                            "prerequisites": {
+                                "prerequisites_phrases": [
+                                    {
+                                        "phrase": "If Required by Funder",
+                                        "language": "en",
+                                        "value": "when_required_by_funder"
+                                    },
+                                    {
+                                        "phrase": "If Required by Law",
+                                        "value": "when_required_by_law",
+                                        "language": "en"
+                                    }
+                                ],
+                                "prerequisites": [
+                                    "when_required_by_funder",
+                                    "when_required_by_law"
+                                ]
+                            },
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Accepted",
+                                    "language": "en",
+                                    "value": "accepted"
+                                }
+                            ],
+                            "embargo": {
+                                "units_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "months",
+                                        "phrase": "Months"
+                                    }
+                                ],
+                                "units": "months",
+                                "amount": 12
+                            },
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "phrase": "No",
+                                    "value": "no",
+                                    "language": "en"
+                                }
+                            ]
+                        },
+                        {
+                            "article_version": [
+                                "published"
+                            ],
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "phrase": "Author's Homepage",
+                                        "language": "en",
+                                        "value": "authors_homepage"
+                                    },
+                                    {
+                                        "value": "non_commercial_institutional_repository",
+                                        "language": "en",
+                                        "phrase": "Non-Commercial Institutional Repository"
+                                    }
+                                ],
+                                "location": [
+                                    "authors_homepage",
+                                    "non_commercial_institutional_repository"
+                                ]
+                            },
+                            "article_version_phrases": [
+                                {
+                                    "language": "en",
+                                    "value": "published",
+                                    "phrase": "Published"
+                                }
+                            ],
+                            "additional_oa_fee": "no",
+                            "conditions": [
+                                "Published source must be acknowledged",
+                                "Must link to publisher version and article's DOI"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "value": "no",
+                                    "language": "en",
+                                    "phrase": "No"
+                                }
+                            ],
+                            "embargo": {
+                                "amount": 12,
+                                "units_phrases": [
+                                    {
+                                        "phrase": "Months",
+                                        "language": "en",
+                                        "value": "months"
+                                    }
+                                ],
+                                "units": "months"
+                            }
+                        },
+                        {
+                            "copyright_owner": "authors",
+                            "prerequisites": {
+                                "prerequisites": [
+                                    "when_required_by_funder"
+                                ],
+                                "prerequisites_phrases": [
+                                    {
+                                        "value": "when_required_by_funder",
+                                        "language": "en",
+                                        "phrase": "If Required by Funder"
+                                    }
+                                ]
+                            },
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Published",
+                                    "language": "en",
+                                    "value": "published"
+                                }
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "value": "yes",
+                                    "language": "en",
+                                    "phrase": "Yes"
+                                }
+                            ],
+                            "conditions": [
+                                "Published source must be acknowledged",
+                                "Must link to publisher version and article's DOI"
+                            ],
+                            "article_version": [
+                                "published"
+                            ],
+                            "location": {
+                                "location": [
+                                    "any_repository",
+                                    "this_journal"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "any_repository",
+                                        "phrase": "Any Repository"
+                                    },
+                                    {
+                                        "phrase": "Journal Website",
+                                        "language": "en",
+                                        "value": "this_journal"
+                                    }
+                                ]
+                            },
+                            "additional_oa_fee": "yes",
+                            "license": [
+                                {
+                                    "version": "4.0",
+                                    "license": "cc_by",
+                                    "license_phrases": [
+                                        {
+                                            "phrase": "CC BY",
+                                            "value": "cc_by",
+                                            "language": "en"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "copyright_owner_phrases": [
+                                {
+                                    "language": "en",
+                                    "value": "authors",
+                                    "phrase": "Authors"
+                                }
+                            ]
+                        },
+                        {
+                            "copyright_owner_phrases": [
+                                {
+                                    "phrase": "Authors",
+                                    "value": "authors",
+                                    "language": "en"
+                                }
+                            ],
+                            "license": [
+                                {
+                                    "license": "cc_by_nc_nd",
+                                    "license_phrases": [
+                                        {
+                                            "value": "cc_by_nc_nd",
+                                            "language": "en",
+                                            "phrase": "CC BY-NC-ND"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "additional_oa_fee": "yes",
+                            "article_version": [
+                                "published"
+                            ],
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "value": "non_commercial_repository",
+                                        "language": "en",
+                                        "phrase": "Non-Commercial Repository"
+                                    },
+                                    {
+                                        "value": "this_journal",
+                                        "language": "en",
+                                        "phrase": "Journal Website"
+                                    }
+                                ],
+                                "location": [
+                                    "non_commercial_repository",
+                                    "this_journal"
+                                ]
+                            },
+                            "conditions": [
+                                "Published source must be acknowledged",
+                                "Must link to publisher version and article's DOI"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "phrase": "Yes",
+                                    "language": "en",
+                                    "value": "yes"
+                                }
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Published",
+                                    "language": "en",
+                                    "value": "published"
+                                }
+                            ],
+                            "copyright_owner": "authors"
+                        }
+                    ],
+                    "publication_count": 367,
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/414",
+                    "open_access_prohibited": "no",
+                    "urls": [
+                        {
+                            "url": "https://www.degruyter.com/page/repository-policy",
+                            "description": "Repository Policy"
+                        },
+                        {
+                            "url": "http://www.degruyter.com/dg/page/308/copyright-agreement",
+                            "description": "Journal Copyright Agreement"
+                        },
+                        {
+                            "url": "https://www.degruyter.com/publishing/publications/openaccess/open-access-articles",
+                            "description": "Open Access Articles"
+                        }
+                    ],
+                    "id": 414,
+                    "internal_moniker": "Default Policy"
+                }
+            ],
+            "listed_in_doaj": "no",
+            "system_metadata": {
+                "id": 13142,
+                "publicly_visible": "yes",
+                "uri": "https://v2.sherpa.ac.uk/id/publication/13142",
+                "date_created": "2010-09-02 14:03:24",
+                "publicly_visible_phrases": [
+                    {
+                        "phrase": "Yes",
+                        "value": "yes",
+                        "language": "en"
+                    }
+                ],
+                "date_modified": "2022-03-21 14:08:48"
+            },
+            "title": [
+                {
+                    "acronym": "JBCPP",
+                    "language_phrases": [
+                        {
+                            "phrase": "English",
+                            "language": "en",
+                            "value": "en"
+                        }
+                    ],
+                    "language": "en",
+                    "title": "Journal of Basic and Clinical Physiology and Pharmacology"
+                }
+            ],
+            "id": 13142,
+            "listed_in_doaj_phrases": [
+                {
+                    "language": "en",
+                    "value": "no",
+                    "phrase": "No"
+                }
+            ],
+            "publishers": [
+                {
+                    "publisher": {
+                        "url": "http://www.degruyter.com/",
+                        "id": 414,
+                        "country": "de",
+                        "imprints_id": [
+                            1851,
+                            62066,
+                            5381
+                        ],
+                        "country_phrases": [
+                            {
+                                "language": "en",
+                                "value": "de",
+                                "phrase": "Germany"
+                            }
+                        ],
+                        "identifiers": [
+                            {
+                                "identifier": "https://ror.org/026xdv168",
+                                "type_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "ror",
+                                        "phrase": "ROR ID"
+                                    }
+                                ],
+                                "type": "ror"
+                            }
+                        ],
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/414",
+                        "name": [
+                            {
+                                "language": "en",
+                                "language_phrases": [
+                                    {
+                                        "value": "en",
+                                        "language": "en",
+                                        "phrase": "English"
+                                    }
+                                ],
+                                "preferred_phrases": [
+                                    {
+                                        "value": "name",
+                                        "language": "en",
+                                        "phrase": "Name"
+                                    }
+                                ],
+                                "name": "De Gruyter",
+                                "preferred": "name"
+                            }
+                        ],
+                        "publication_count": 447
+                    },
+                    "relationship_type_phrases": [
+                        {
+                            "phrase": "Commercial Publisher",
+                            "value": "commercial_publisher",
+                            "language": "en"
+                        }
+                    ],
+                    "relationship_type": "commercial_publisher"
+                }
+            ],
+            "url": "https://www.degruyter.com/view/journals/jbcpp/jbcpp-overview.xml",
+            "type": "journal",
+            "issns": [
+                {
+                    "type": "electronic",
+                    "issn": "2191-0286",
+                    "type_phrases": [
+                        {
+                            "phrase": "Electronic",
+                            "language": "en",
+                            "value": "electronic"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,738 @@
+{
+    "items": [
+        {
+            "type": "journal",
+            "type_phrases": [
+                {
+                    "phrase": "Journal",
+                    "language": "en",
+                    "value": "journal"
+                }
+            ],
+            "publisher_policy": [
+                {
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/2127",
+                    "open_access_prohibited_phrases": [
+                        {
+                            "language": "en",
+                            "phrase": "No",
+                            "value": "no"
+                        }
+                    ],
+                    "id": 2127,
+                    "publication_count": 16,
+                    "internal_moniker": "STM",
+                    "urls": [
+                        {
+                            "url": "https://www.cambridge.org/core/services/open-access-policies",
+                            "description": "Services for open access policies"
+                        }
+                    ],
+                    "open_access_prohibited": "no",
+                    "permitted_oa": [
+                        {
+                            "copyright_owner_phrases": [
+                                {
+                                    "phrase": "Authors",
+                                    "language": "en",
+                                    "value": "authors"
+                                }
+                            ],
+                            "location": {
+                                "named_repository": [
+                                    "PubMed Central",
+                                    "arXiv",
+                                    "Europe PMC"
+                                ],
+                                "location": [
+                                    "academic_social_network",
+                                    "authors_homepage",
+                                    "institutional_repository",
+                                    "named_academic_social_network",
+                                    "non_commercial_subject_repository"
+                                ],
+                                "named_academic_social_network": [
+                                    "ResearchGate",
+                                    "Academia.edu",
+                                    "SSRN"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "value": "academic_social_network",
+                                        "phrase": "Academic Social Network",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "value": "authors_homepage",
+                                        "phrase": "Author's Homepage",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "value": "institutional_repository",
+                                        "phrase": "Institutional Repository",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "value": "named_academic_social_network",
+                                        "language": "en",
+                                        "phrase": "Named Academic Social Network"
+                                    },
+                                    {
+                                        "value": "non_commercial_subject_repository",
+                                        "phrase": "Non-Commercial Subject Repository",
+                                        "language": "en"
+                                    }
+                                ]
+                            },
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "phrase": "No",
+                                    "language": "en",
+                                    "value": "no"
+                                }
+                            ],
+                            "article_version": [
+                                "submitted"
+                            ],
+                            "copyright_owner": "authors",
+                            "conditions": [
+                                "Must record acceptance for publication",
+                                "Must link to publisher version or journal website",
+                                "Published source must be acknowledged with citation"
+                            ],
+                            "additional_oa_fee": "no",
+                            "article_version_phrases": [
+                                {
+                                    "value": "submitted",
+                                    "language": "en",
+                                    "phrase": "Submitted"
+                                }
+                            ]
+                        },
+                        {
+                            "conditions": [
+                                "Upon acceptance for publication",
+                                "Must link to journal website",
+                                "Published source must be acknowledged with citation",
+                                "Must state accepted for publication"
+                            ],
+                            "location": {
+                                "location": [
+                                    "authors_homepage"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "value": "authors_homepage",
+                                        "phrase": "Author's Homepage",
+                                        "language": "en"
+                                    }
+                                ]
+                            },
+                            "additional_oa_fee": "no",
+                            "license": [
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "value": "cc_by_nc_nd",
+                                            "phrase": "CC BY-NC-ND",
+                                            "language": "en"
+                                        }
+                                    ],
+                                    "license": "cc_by_nc_nd"
+                                }
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "value": "accepted",
+                                    "phrase": "Accepted",
+                                    "language": "en"
+                                }
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "No",
+                                    "value": "no"
+                                }
+                            ],
+                            "article_version": [
+                                "accepted"
+                            ]
+                        },
+                        {
+                            "license": [
+                                {
+                                    "license": "cc_by_nc_nd",
+                                    "license_phrases": [
+                                        {
+                                            "value": "cc_by_nc_nd",
+                                            "phrase": "CC BY-NC-ND",
+                                            "language": "en"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "additional_oa_fee": "no",
+                            "conditions": [
+                                "Published source must be acknowledged with citation",
+                                "Must link to published article with DOI"
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "value": "accepted",
+                                    "phrase": "Accepted",
+                                    "language": "en"
+                                }
+                            ],
+                            "location": {
+                                "location": [
+                                    "institutional_repository",
+                                    "named_repository",
+                                    "non_commercial_subject_repository"
+                                ],
+                                "named_repository": [
+                                    "PubMed Central",
+                                    "Europe PMC",
+                                    "arXiv"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "phrase": "Institutional Repository",
+                                        "language": "en",
+                                        "value": "institutional_repository"
+                                    },
+                                    {
+                                        "value": "named_repository",
+                                        "language": "en",
+                                        "phrase": "Named Repository"
+                                    },
+                                    {
+                                        "phrase": "Non-Commercial Subject Repository",
+                                        "language": "en",
+                                        "value": "non_commercial_subject_repository"
+                                    }
+                                ]
+                            },
+                            "embargo": {
+                                "units": "months",
+                                "units_phrases": [
+                                    {
+                                        "phrase": "Months",
+                                        "language": "en",
+                                        "value": "months"
+                                    }
+                                ],
+                                "amount": 6
+                            },
+                            "article_version": [
+                                "accepted"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "value": "no",
+                                    "phrase": "No",
+                                    "language": "en"
+                                }
+                            ]
+                        },
+                        {
+                            "publisher_deposit": [
+                                {
+                                    "repository_metadata": {
+                                        "name": [
+                                            {
+                                                "language_phrases": [
+                                                    {
+                                                        "language": "en",
+                                                        "phrase": "English",
+                                                        "value": "en"
+                                                    }
+                                                ],
+                                                "preferred_phrases": [
+                                                    {
+                                                        "value": "name",
+                                                        "language": "en",
+                                                        "phrase": "Name"
+                                                    }
+                                                ],
+                                                "name": "PubMed Central",
+                                                "language": "en",
+                                                "preferred": "name"
+                                            }
+                                        ],
+                                        "type_phrases": [
+                                            {
+                                                "value": "disciplinary",
+                                                "language": "en",
+                                                "phrase": "Disciplinary"
+                                            }
+                                        ],
+                                        "url": "http://www.ncbi.nlm.nih.gov/pmc/",
+                                        "type": "disciplinary"
+                                    },
+                                    "system_metadata": {
+                                        "uri": "https://v2.sherpa.ac.uk/id/repository/267",
+                                        "id": 267
+                                    }
+                                },
+                                {
+                                    "system_metadata": {
+                                        "uri": "https://v2.sherpa.ac.uk/id/repository/908",
+                                        "id": 908
+                                    },
+                                    "repository_metadata": {
+                                        "name": [
+                                            {
+                                                "language_phrases": [
+                                                    {
+                                                        "value": "en",
+                                                        "phrase": "English",
+                                                        "language": "en"
+                                                    }
+                                                ],
+                                                "preferred": "name",
+                                                "preferred_phrases": [
+                                                    {
+                                                        "value": "name",
+                                                        "phrase": "Name",
+                                                        "language": "en"
+                                                    }
+                                                ],
+                                                "language": "en",
+                                                "name": "Europe PMC"
+                                            }
+                                        ],
+                                        "type_phrases": [
+                                            {
+                                                "language": "en",
+                                                "phrase": "Disciplinary",
+                                                "value": "disciplinary"
+                                            }
+                                        ],
+                                        "url": "http://europepmc.org/",
+                                        "type": "disciplinary",
+                                        "notes": "Launched as UK PubMed Central (UKPMC) in January 2007, changed to Europe PubMed Central in November 2012.\r\nSpecial item types include: Links"
+                                    }
+                                }
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "value": "yes",
+                                    "language": "en",
+                                    "phrase": "Yes"
+                                }
+                            ],
+                            "article_version": [
+                                "published"
+                            ],
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "phrase": "Any Website",
+                                        "language": "en",
+                                        "value": "any_website"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "phrase": "Named Repository",
+                                        "value": "named_repository"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "phrase": "Journal Website",
+                                        "value": "this_journal"
+                                    }
+                                ],
+                                "location": [
+                                    "any_website",
+                                    "named_repository",
+                                    "this_journal"
+                                ],
+                                "named_repository": [
+                                    "PubMed Central"
+                                ]
+                            },
+                            "article_version_phrases": [
+                                {
+                                    "value": "published",
+                                    "language": "en",
+                                    "phrase": "Published"
+                                }
+                            ],
+                            "conditions": [
+                                "Published source must be acknowledged with citation",
+                                "Must link to published article with DOI"
+                            ],
+                            "additional_oa_fee": "yes",
+                            "license": [
+                                {
+                                    "license": "cc_by",
+                                    "license_phrases": [
+                                        {
+                                            "value": "cc_by",
+                                            "language": "en",
+                                            "phrase": "CC BY"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "license": "cc_by_nc_nd",
+                                    "license_phrases": [
+                                        {
+                                            "value": "cc_by_nc_nd",
+                                            "language": "en",
+                                            "phrase": "CC BY-NC-ND"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "permitted_oa": [
+                        {
+                            "article_version_phrases": [
+                                {
+                                    "value": "published",
+                                    "phrase": "Published",
+                                    "language": "en"
+                                }
+                            ],
+                            "article_version": [
+                                "published"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "value": "yes",
+                                    "language": "en",
+                                    "phrase": "Yes"
+                                }
+                            ],
+                            "publisher_deposit": [
+                                {
+                                    "repository_metadata": {
+                                        "type_phrases": [
+                                            {
+                                                "value": "disciplinary",
+                                                "language": "en",
+                                                "phrase": "Disciplinary"
+                                            }
+                                        ],
+                                        "name": [
+                                            {
+                                                "language_phrases": [
+                                                    {
+                                                        "value": "en",
+                                                        "phrase": "English",
+                                                        "language": "en"
+                                                    }
+                                                ],
+                                                "preferred_phrases": [
+                                                    {
+                                                        "value": "name",
+                                                        "phrase": "Name",
+                                                        "language": "en"
+                                                    }
+                                                ],
+                                                "name": "PubMed Central",
+                                                "language": "en",
+                                                "preferred": "name"
+                                            }
+                                        ],
+                                        "type": "disciplinary",
+                                        "url": "http://www.ncbi.nlm.nih.gov/pmc/"
+                                    },
+                                    "system_metadata": {
+                                        "uri": "https://v2.sherpa.ac.uk/id/repository/267",
+                                        "id": 267
+                                    }
+                                }
+                            ],
+                            "license": [
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "phrase": "CC BY",
+                                            "language": "en",
+                                            "value": "cc_by"
+                                        }
+                                    ],
+                                    "version": "4.0",
+                                    "license": "cc_by"
+                                },
+                                {
+                                    "license": "cc_by_sa",
+                                    "version": "4.0",
+                                    "license_phrases": [
+                                        {
+                                            "language": "en",
+                                            "phrase": "CC BY-SA",
+                                            "value": "cc_by_sa"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "version": "4.0",
+                                    "license": "cc_by_nc_nd",
+                                    "license_phrases": [
+                                        {
+                                            "phrase": "CC BY-NC-ND",
+                                            "language": "en",
+                                            "value": "cc_by_nc_nd"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "location": {
+                                "location": [
+                                    "any_website",
+                                    "named_repository",
+                                    "this_journal"
+                                ],
+                                "named_repository": [
+                                    "PubMed Central"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "Any Website",
+                                        "value": "any_website"
+                                    },
+                                    {
+                                        "value": "named_repository",
+                                        "language": "en",
+                                        "phrase": "Named Repository"
+                                    },
+                                    {
+                                        "value": "this_journal",
+                                        "language": "en",
+                                        "phrase": "Journal Website"
+                                    }
+                                ]
+                            },
+                            "additional_oa_fee": "yes"
+                        }
+                    ],
+                    "open_access_prohibited": "no",
+                    "urls": [
+                        {
+                            "url": "https://www.cambridge.org/core/services/open-access-policies",
+                            "description": "Services for open access policies"
+                        },
+                        {
+                            "description": "Creative commons licenses",
+                            "url": "https://www.cambridge.org/core/services/open-access-policies/open-access-resources/creative-commons-licenses"
+                        },
+                        {
+                            "url": "https://www.cambridge.org/core/services/open-access-policies/open-access-journals/hybrid-open-access-faqs",
+                            "description": "Hybrid Open Access FAQs"
+                        }
+                    ],
+                    "internal_moniker": "Cambridge Open",
+                    "publication_count": 31,
+                    "open_access_prohibited_phrases": [
+                        {
+                            "language": "en",
+                            "phrase": "No",
+                            "value": "no"
+                        }
+                    ],
+                    "id": 3319,
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/3319"
+                }
+            ],
+            "title": [
+                {
+                    "preferred": "name",
+                    "preferred_phrases": [
+                        {
+                            "value": "name",
+                            "phrase": "Title",
+                            "language": "en"
+                        }
+                    ],
+                    "title": "Journal of Law, Medicine and Ethics",
+                    "language": "en",
+                    "language_phrases": [
+                        {
+                            "value": "en",
+                            "phrase": "English",
+                            "language": "en"
+                        }
+                    ]
+                }
+            ],
+            "id": 868,
+            "listed_in_doaj": "no",
+            "tj_status_phrases": [
+                {
+                    "phrase": "Plan S Approved",
+                    "language": "en",
+                    "value": "plan_s_approved"
+                },
+                {
+                    "phrase": "Jisc Approved",
+                    "language": "en",
+                    "value": "jisc_approved"
+                }
+            ],
+            "issns": [
+                {
+                    "type_phrases": [
+                        {
+                            "value": "print",
+                            "phrase": "Print",
+                            "language": "en"
+                        }
+                    ],
+                    "type": "print",
+                    "issn": "1073-1105"
+                },
+                {
+                    "type_phrases": [
+                        {
+                            "value": "electronic",
+                            "phrase": "Electronic",
+                            "language": "en"
+                        }
+                    ],
+                    "type": "electronic",
+                    "issn": "1748-720X"
+                }
+            ],
+            "url": "https://www.cambridge.org/core/journals/journal-of-law-medicine-and-ethics",
+            "tj_status": [
+                "plan_s_approved",
+                "jisc_approved"
+            ],
+            "listed_in_doaj_phrases": [
+                {
+                    "value": "no",
+                    "phrase": "No",
+                    "language": "en"
+                }
+            ],
+            "system_metadata": {
+                "id": 868,
+                "publicly_visible_phrases": [
+                    {
+                        "phrase": "Yes",
+                        "language": "en",
+                        "value": "yes"
+                    }
+                ],
+                "date_modified": "2022-06-16 13:57:58",
+                "uri": "https://v2.sherpa.ac.uk/id/publication/868",
+                "publicly_visible": "yes",
+                "date_created": "2010-07-14 15:47:38"
+            },
+            "publishers": [
+                {
+                    "relationship_type": "university_publisher",
+                    "publisher": {
+                        "url": "http://www.cambridge.org/uk/",
+                        "publication_count": 393,
+                        "country": "gb",
+                        "name": [
+                            {
+                                "name": "Cambridge University Press",
+                                "language": "en",
+                                "preferred_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "Name",
+                                        "value": "name"
+                                    }
+                                ],
+                                "preferred": "name",
+                                "acronym": "CUP",
+                                "language_phrases": [
+                                    {
+                                        "value": "en",
+                                        "language": "en",
+                                        "phrase": "English"
+                                    }
+                                ]
+                            }
+                        ],
+                        "country_phrases": [
+                            {
+                                "value": "gb",
+                                "language": "en",
+                                "phrase": "United Kingdom"
+                            }
+                        ],
+                        "identifiers": [
+                            {
+                                "type_phrases": [
+                                    {
+                                        "value": "ror",
+                                        "phrase": "ROR ID",
+                                        "language": "en"
+                                    }
+                                ],
+                                "identifier": "https://ror.org/03jsdjx34",
+                                "type": "ror"
+                            }
+                        ],
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/27",
+                        "id": 27
+                    },
+                    "relationship_type_phrases": [
+                        {
+                            "value": "university_publisher",
+                            "phrase": "University Publisher",
+                            "language": "en"
+                        }
+                    ]
+                },
+                {
+                    "relationship_type": "associate_organisation",
+                    "publisher": {
+                        "name": [
+                            {
+                                "language": "en",
+                                "name": "American Society of Law, Medicine and Ethics",
+                                "preferred_phrases": [
+                                    {
+                                        "value": "name",
+                                        "language": "en",
+                                        "phrase": "Name"
+                                    }
+                                ],
+                                "preferred": "name",
+                                "language_phrases": [
+                                    {
+                                        "phrase": "English",
+                                        "language": "en",
+                                        "value": "en"
+                                    }
+                                ]
+                            }
+                        ],
+                        "country_phrases": [
+                            {
+                                "phrase": "United States of America",
+                                "language": "en",
+                                "value": "us"
+                            }
+                        ],
+                        "country": "us",
+                        "id": 6299,
+                        "url": "https://aslme.org/",
+                        "publication_count": 1,
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/6299"
+                    },
+                    "relationship_type_phrases": [
+                        {
+                            "value": "associate_organisation",
+                            "phrase": "Associate Organisation",
+                            "language": "en"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,351 @@
+{
+    "items": [
+        {
+            "issns": [
+                {
+                    "type": "print",
+                    "type_phrases": [
+                        {
+                            "value": "print",
+                            "phrase": "Print",
+                            "language": "en"
+                        }
+                    ],
+                    "issn": "1080-6040"
+                },
+                {
+                    "type_phrases": [
+                        {
+                            "language": "en",
+                            "value": "electronic",
+                            "phrase": "Electronic"
+                        }
+                    ],
+                    "issn": "1080-6059",
+                    "type": "electronic"
+                }
+            ],
+            "publishers": [
+                {
+                    "relationship_type_phrases": [
+                        {
+                            "language": "en",
+                            "phrase": "Governmental Publisher",
+                            "value": "governmental_publisher"
+                        }
+                    ],
+                    "relationship_type": "governmental_publisher",
+                    "publisher": {
+                        "country": "us",
+                        "name": [
+                            {
+                                "name": "Centers for Disease Control and Prevention",
+                                "language_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "en",
+                                        "phrase": "English"
+                                    }
+                                ],
+                                "language": "en"
+                            }
+                        ],
+                        "publication_count": 1,
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/3051",
+                        "id": 3051,
+                        "country_phrases": [
+                            {
+                                "value": "us",
+                                "phrase": "United States of America",
+                                "language": "en"
+                            }
+                        ],
+                        "url": "https://www.cdc.gov/",
+                        "identifiers": [
+                            {
+                                "identifier": "https://ror.org/042twtr12",
+                                "type_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "ror",
+                                        "phrase": "ROR ID"
+                                    }
+                                ],
+                                "type": "ror"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "publisher_policy": [
+                {
+                    "internal_moniker": "Default Policy",
+                    "open_access_prohibited": "no",
+                    "open_access_prohibited_phrases": [
+                        {
+                            "language": "en",
+                            "phrase": "No",
+                            "value": "no"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "Copyright, Usage, and Disclaimer",
+                            "url": "https://wwwnc.cdc.gov/eid/page/copyright-and-disclaimers"
+                        },
+                        {
+                            "description": "Policy on Preprint Publication",
+                            "url": "https://wwwnc.cdc.gov/eid/page/preprint-policy"
+                        },
+                        {
+                            "url": "https://wwwnc.cdc.gov/eid/about/general",
+                            "description": "Open Access and Copyright"
+                        }
+                    ],
+                    "id": 3051,
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/3051",
+                    "permitted_oa": [
+                        {
+                            "location": {
+                                "location": [
+                                    "named_repository",
+                                    "preprint_repository"
+                                ],
+                                "named_repository": [
+                                    "bioRxiv"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "named_repository",
+                                        "phrase": "Named Repository"
+                                    },
+                                    {
+                                        "value": "preprint_repository",
+                                        "phrase": "Preprint Repository",
+                                        "language": "en"
+                                    }
+                                ]
+                            },
+                            "id": 4660,
+                            "article_version": [
+                                "submitted"
+                            ],
+                            "additional_oa_fee": "no",
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Submitted",
+                                    "value": "submitted",
+                                    "language": "en"
+                                }
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "No",
+                                    "value": "no"
+                                }
+                            ],
+                            "conditions": [
+                                "Author must indicate on submission where article has been posted",
+                                "Must update deposit with link to published article with DOI",
+                                "Must update deposit with citation"
+                            ]
+                        },
+                        {
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "institutional_repository",
+                                        "phrase": "Institutional Repository"
+                                    }
+                                ],
+                                "location": [
+                                    "institutional_repository"
+                                ]
+                            },
+                            "article_version": [
+                                "accepted"
+                            ],
+                            "id": 1217,
+                            "conditions": [
+                                "Published source must be acknowledged with citation"
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Accepted",
+                                    "value": "accepted",
+                                    "language": "en"
+                                }
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "No",
+                                    "value": "no"
+                                }
+                            ],
+                            "additional_oa_fee": "no"
+                        },
+                        {
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "Any Website",
+                                        "value": "any_website"
+                                    },
+                                    {
+                                        "phrase": "Institutional Repository",
+                                        "value": "institutional_repository",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "phrase": "Journal Website",
+                                        "value": "this_journal",
+                                        "language": "en"
+                                    }
+                                ],
+                                "location": [
+                                    "any_website",
+                                    "institutional_repository",
+                                    "this_journal"
+                                ]
+                            },
+                            "license": [
+                                {
+                                    "version": "4.0",
+                                    "license": "cc_by",
+                                    "license_phrases": [
+                                        {
+                                            "phrase": "CC BY",
+                                            "value": "cc_by",
+                                            "language": "en"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "publisher_deposit": [
+                                {
+                                    "system_metadata": {
+                                        "uri": "https://v2.sherpa.ac.uk/id/repository/267",
+                                        "id": 267
+                                    },
+                                    "repository_metadata": {
+                                        "type": "disciplinary",
+                                        "name": [
+                                            {
+                                                "language": "en",
+                                                "language_phrases": [
+                                                    {
+                                                        "phrase": "English",
+                                                        "value": "en",
+                                                        "language": "en"
+                                                    }
+                                                ],
+                                                "preferred_phrases": [
+                                                    {
+                                                        "value": "name",
+                                                        "phrase": "Name",
+                                                        "language": "en"
+                                                    }
+                                                ],
+                                                "name": "PubMed Central",
+                                                "preferred": "name"
+                                            }
+                                        ],
+                                        "url": "http://www.ncbi.nlm.nih.gov/pmc/",
+                                        "type_phrases": [
+                                            {
+                                                "phrase": "Disciplinary",
+                                                "value": "disciplinary",
+                                                "language": "en"
+                                            }
+                                        ]
+                                    }
+                                }
+                            ],
+                            "conditions": [
+                                "Published source must be acknowledged with citation"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "phrase": "No",
+                                    "value": "no",
+                                    "language": "en"
+                                }
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "Published",
+                                    "value": "published"
+                                }
+                            ],
+                            "additional_oa_fee": "no",
+                            "article_version": [
+                                "published"
+                            ],
+                            "id": 1218
+                        }
+                    ],
+                    "publication_count": 1
+                }
+            ],
+            "listed_in_doaj": "yes",
+            "system_metadata": {
+                "uri": "https://v2.sherpa.ac.uk/id/publication/33021",
+                "id": 33021,
+                "date_modified": "2022-11-25 15:34:19",
+                "publicly_visible": "yes",
+                "date_created": "2017-07-31 13:11:02",
+                "publicly_visible_phrases": [
+                    {
+                        "language": "en",
+                        "value": "yes",
+                        "phrase": "Yes"
+                    }
+                ]
+            },
+            "type_phrases": [
+                {
+                    "value": "journal",
+                    "phrase": "Journal",
+                    "language": "en"
+                }
+            ],
+            "title": [
+                {
+                    "title": "Emerging Infectious Diseases",
+                    "preferred": "name",
+                    "language": "en",
+                    "preferred_phrases": [
+                        {
+                            "language": "en",
+                            "value": "name",
+                            "phrase": "Title"
+                        }
+                    ],
+                    "language_phrases": [
+                        {
+                            "language": "en",
+                            "value": "en",
+                            "phrase": "English"
+                        }
+                    ]
+                }
+            ],
+            "url": "https://wwwnc.cdc.gov/eid/",
+            "listed_in_doaj_phrases": [
+                {
+                    "phrase": "Yes",
+                    "value": "yes",
+                    "language": "en"
+                }
+            ],
+            "id": 33021,
+            "type": "journal"
+        }
+    ]
+}

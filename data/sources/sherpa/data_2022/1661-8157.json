@@ -1,0 +1,433 @@
+{
+    "items": [
+        {
+            "type_phrases": [
+                {
+                    "value": "journal",
+                    "phrase": "Journal",
+                    "language": "en"
+                }
+            ],
+            "publisher_policy": [
+                {
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/165",
+                    "id": 165,
+                    "open_access_prohibited_phrases": [
+                        {
+                            "phrase": "No",
+                            "language": "en",
+                            "value": "no"
+                        }
+                    ],
+                    "internal_moniker": "Default Policy",
+                    "publication_count": 31,
+                    "open_access_prohibited": "no",
+                    "permitted_oa": [
+                        {
+                            "additional_oa_fee": "no",
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "Any Website",
+                                        "value": "any_website"
+                                    },
+                                    {
+                                        "value": "authors_homepage",
+                                        "language": "en",
+                                        "phrase": "Author's Homepage"
+                                    },
+                                    {
+                                        "value": "institutional_repository",
+                                        "language": "en",
+                                        "phrase": "Institutional Repository"
+                                    },
+                                    {
+                                        "phrase": "Subject Repository",
+                                        "language": "en",
+                                        "value": "subject_repository"
+                                    }
+                                ],
+                                "location": [
+                                    "any_website",
+                                    "authors_homepage",
+                                    "institutional_repository",
+                                    "subject_repository"
+                                ]
+                            },
+                            "license": [
+                                {
+                                    "license": "cc_by",
+                                    "version": "4.0",
+                                    "license_phrases": [
+                                        {
+                                            "language": "en",
+                                            "phrase": "CC BY",
+                                            "value": "cc_by"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "conditions": [
+                                "Must include date of preparation",
+                                "Must include statement that this manuscript has not yet been accepted for publication"
+                            ],
+                            "article_version": [
+                                "submitted"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "value": "no",
+                                    "phrase": "No",
+                                    "language": "en"
+                                }
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Submitted",
+                                    "language": "en",
+                                    "value": "submitted"
+                                }
+                            ]
+                        },
+                        {
+                            "additional_oa_fee": "no",
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "Academic Social Network",
+                                        "value": "academic_social_network"
+                                    },
+                                    {
+                                        "phrase": "Any Website",
+                                        "language": "en",
+                                        "value": "any_website"
+                                    },
+                                    {
+                                        "value": "authors_homepage",
+                                        "phrase": "Author's Homepage",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "value": "institutional_repository",
+                                        "phrase": "Institutional Repository",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "phrase": "Named Academic Social Network",
+                                        "language": "en",
+                                        "value": "named_academic_social_network"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "phrase": "Non-Commercial Subject Repository",
+                                        "value": "non_commercial_subject_repository"
+                                    }
+                                ],
+                                "location": [
+                                    "academic_social_network",
+                                    "any_website",
+                                    "authors_homepage",
+                                    "institutional_repository",
+                                    "named_academic_social_network",
+                                    "non_commercial_subject_repository"
+                                ],
+                                "named_academic_social_network": [
+                                    "ResearchGate",
+                                    "Academia.edu",
+                                    "Mendeley"
+                                ]
+                            },
+                            "license": [
+                                {
+                                    "license": "cc_by",
+                                    "version": "4.0",
+                                    "license_phrases": [
+                                        {
+                                            "language": "en",
+                                            "phrase": "CC BY",
+                                            "value": "cc_by"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "conditions": [
+                                "Must acknowledge published version with citation",
+                                "Must include link to published article with DOI",
+                                "Set statement to accompany deposit (see policy)"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "value": "no",
+                                    "phrase": "No",
+                                    "language": "en"
+                                }
+                            ],
+                            "article_version": [
+                                "accepted"
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "Accepted",
+                                    "value": "accepted"
+                                }
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "For journal authors",
+                            "url": "https://www.hogrefe.com/eu/service/for-journal-authors"
+                        }
+                    ]
+                },
+                {
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/3494",
+                    "id": 3494,
+                    "open_access_prohibited_phrases": [
+                        {
+                            "value": "no",
+                            "language": "en",
+                            "phrase": "No"
+                        }
+                    ],
+                    "publication_count": 34,
+                    "internal_moniker": "OpenMind",
+                    "urls": [
+                        {
+                            "description": "Hogrefe OpenMind – Our Open Access Program",
+                            "url": "https://www.hogrefe.com/eu/service/for-journal-authors/openmind"
+                        }
+                    ],
+                    "permitted_oa": [
+                        {
+                            "article_version_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "Published",
+                                    "value": "published"
+                                }
+                            ],
+                            "article_version": [
+                                "published"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "Yes",
+                                    "value": "yes"
+                                }
+                            ],
+                            "conditions": [
+                                "Published source must be acknowledged with citation"
+                            ],
+                            "location": {
+                                "named_repository": [
+                                    "PubMed Central"
+                                ],
+                                "location": [
+                                    "any_website",
+                                    "named_repository",
+                                    "subject_repository",
+                                    "this_journal"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "Any Website",
+                                        "value": "any_website"
+                                    },
+                                    {
+                                        "phrase": "Named Repository",
+                                        "language": "en",
+                                        "value": "named_repository"
+                                    },
+                                    {
+                                        "value": "subject_repository",
+                                        "language": "en",
+                                        "phrase": "Subject Repository"
+                                    },
+                                    {
+                                        "value": "this_journal",
+                                        "phrase": "Journal Website",
+                                        "language": "en"
+                                    }
+                                ]
+                            },
+                            "license": [
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "value": "cc_by",
+                                            "phrase": "CC BY",
+                                            "language": "en"
+                                        }
+                                    ],
+                                    "license": "cc_by",
+                                    "version": "4.0"
+                                },
+                                {
+                                    "license": "cc_by_nc",
+                                    "version": "4.0",
+                                    "license_phrases": [
+                                        {
+                                            "phrase": "CC BY-NC",
+                                            "language": "en",
+                                            "value": "cc_by_nc"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "license": "cc_by_nd",
+                                    "version": "4.0",
+                                    "license_phrases": [
+                                        {
+                                            "language": "en",
+                                            "phrase": "CC BY-ND",
+                                            "value": "cc_by_nd"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "license": "cc_by_nc_nd",
+                                    "version": "4.0",
+                                    "license_phrases": [
+                                        {
+                                            "language": "en",
+                                            "phrase": "CC BY-NC-ND",
+                                            "value": "cc_by_nc_nd"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "additional_oa_fee": "yes"
+                        }
+                    ],
+                    "open_access_prohibited": "no"
+                }
+            ],
+            "title": [
+                {
+                    "language_phrases": [
+                        {
+                            "language": "en",
+                            "phrase": "German",
+                            "value": "de"
+                        }
+                    ],
+                    "title": "Praxis: Schweizerische Rundschau für Medizin",
+                    "language": "de"
+                },
+                {
+                    "title": "Praxis: Revue suisse de la médecine",
+                    "language": "fr",
+                    "language_phrases": [
+                        {
+                            "value": "fr",
+                            "language": "en",
+                            "phrase": "French"
+                        }
+                    ]
+                }
+            ],
+            "listed_in_doaj": "no",
+            "id": 8459,
+            "type": "journal",
+            "listed_in_doaj_phrases": [
+                {
+                    "value": "no",
+                    "language": "en",
+                    "phrase": "No"
+                }
+            ],
+            "system_metadata": {
+                "date_modified": "2022-08-10 13:51:18",
+                "uri": "https://v2.sherpa.ac.uk/id/publication/8459",
+                "publicly_visible": "yes",
+                "date_created": "2010-08-10 13:07:05",
+                "id": 8459,
+                "publicly_visible_phrases": [
+                    {
+                        "phrase": "Yes",
+                        "language": "en",
+                        "value": "yes"
+                    }
+                ]
+            },
+            "publishers": [
+                {
+                    "relationship_type": "commercial_publisher",
+                    "publisher": {
+                        "url": "http://www.hogrefe.com/",
+                        "publication_count": 38,
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/165",
+                        "country_phrases": [
+                            {
+                                "phrase": "Germany",
+                                "language": "en",
+                                "value": "de"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "preferred": "name",
+                                "preferred_phrases": [
+                                    {
+                                        "value": "name",
+                                        "language": "en",
+                                        "phrase": "Name"
+                                    }
+                                ],
+                                "name": "Hogrefe",
+                                "language": "en",
+                                "language_phrases": [
+                                    {
+                                        "phrase": "English",
+                                        "language": "en",
+                                        "value": "en"
+                                    }
+                                ]
+                            }
+                        ],
+                        "country": "de",
+                        "id": 165
+                    },
+                    "relationship_type_phrases": [
+                        {
+                            "language": "en",
+                            "phrase": "Commercial Publisher",
+                            "value": "commercial_publisher"
+                        }
+                    ]
+                }
+            ],
+            "issns": [
+                {
+                    "type": "print",
+                    "issn": "1661-8157",
+                    "type_phrases": [
+                        {
+                            "phrase": "Print",
+                            "language": "en",
+                            "value": "print"
+                        }
+                    ]
+                },
+                {
+                    "type": "electronic",
+                    "issn": "1661-8165",
+                    "type_phrases": [
+                        {
+                            "phrase": "Electronic",
+                            "language": "en",
+                            "value": "electronic"
+                        }
+                    ]
+                }
+            ],
+            "url": "https://www.hogrefe.com/ch/zeitschrift/praxis"
+        }
+    ]
+}

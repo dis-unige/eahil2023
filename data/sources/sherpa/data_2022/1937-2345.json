@@ -1,0 +1,343 @@
+{
+    "items": [
+        {
+            "type_phrases": [
+                {
+                    "value": "journal",
+                    "language": "en",
+                    "phrase": "Journal"
+                }
+            ],
+            "publisher_policy": [
+                {
+                    "urls": [
+                        {
+                            "description": "Skip Nav Destination Author Information",
+                            "url": "http://www.journalofparasitology.org/page/author_instructions"
+                        },
+                        {
+                            "url": "http://www.journalofparasitology.org/page/open-access",
+                            "description": "Open Access"
+                        }
+                    ],
+                    "open_access_prohibited": "no",
+                    "internal_moniker": "Default Policy",
+                    "id": 835,
+                    "permitted_oa": [
+                        {
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Accepted",
+                                    "language": "en",
+                                    "value": "accepted"
+                                }
+                            ],
+                            "prerequisites": {
+                                "prerequisite_funders": [
+                                    {
+                                        "funder_metadata": {
+                                            "country": "us",
+                                            "id": 9,
+                                            "name": [
+                                                {
+                                                    "preferred": "name",
+                                                    "name": "National Institutes of Health",
+                                                    "preferred_phrases": [
+                                                        {
+                                                            "value": "name",
+                                                            "language": "en",
+                                                            "phrase": "Name"
+                                                        }
+                                                    ],
+                                                    "acronym": "NIH",
+                                                    "language_phrases": [
+                                                        {
+                                                            "phrase": "English",
+                                                            "language": "en",
+                                                            "value": "en"
+                                                        }
+                                                    ],
+                                                    "language": "en"
+                                                }
+                                            ],
+                                            "url": [
+                                                {
+                                                    "language": "en",
+                                                    "url": "http://www.nih.gov/",
+                                                    "language_phrases": [
+                                                        {
+                                                            "phrase": "English",
+                                                            "language": "en",
+                                                            "value": "en"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "identifiers": [
+                                                {
+                                                    "identifier": "http://dx.doi.org/10.13039/100000002",
+                                                    "type_phrases": [
+                                                        {
+                                                            "phrase": "FundRef DOI",
+                                                            "language": "en",
+                                                            "value": "fundref"
+                                                        }
+                                                    ],
+                                                    "type": "fundref"
+                                                },
+                                                {
+                                                    "type": "ror",
+                                                    "type_phrases": [
+                                                        {
+                                                            "language": "en",
+                                                            "value": "ror",
+                                                            "phrase": "ROR ID"
+                                                        }
+                                                    ],
+                                                    "identifier": "https://ror.org/01cwqze88"
+                                                }
+                                            ],
+                                            "country_phrases": [
+                                                {
+                                                    "language": "en",
+                                                    "value": "us",
+                                                    "phrase": "United States of America"
+                                                }
+                                            ]
+                                        },
+                                        "system_metadata": {
+                                            "id": 9,
+                                            "uri": "https://v2.sherpa.ac.uk/id/funder/9"
+                                        }
+                                    }
+                                ]
+                            },
+                            "copyright_owner": "publishers",
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "phrase": "No",
+                                    "language": "en",
+                                    "value": "no"
+                                }
+                            ],
+                            "public_notes": [
+                                "All authors encouraged to comply with NIH policy"
+                            ],
+                            "embargo": {
+                                "amount": 12,
+                                "units": "months",
+                                "units_phrases": [
+                                    {
+                                        "phrase": "Months",
+                                        "value": "months",
+                                        "language": "en"
+                                    }
+                                ]
+                            },
+                            "location": {
+                                "named_repository": [
+                                    "PubMed Central"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "named_repository",
+                                        "phrase": "Named Repository"
+                                    }
+                                ],
+                                "location": [
+                                    "named_repository"
+                                ]
+                            },
+                            "article_version": [
+                                "accepted"
+                            ],
+                            "additional_oa_fee": "no",
+                            "conditions": [
+                                "Publisher copyright and source must be acknowledged"
+                            ],
+                            "copyright_owner_phrases": [
+                                {
+                                    "value": "publishers",
+                                    "language": "en",
+                                    "phrase": "Publishers"
+                                }
+                            ]
+                        },
+                        {
+                            "article_version": [
+                                "published"
+                            ],
+                            "location": {
+                                "named_repository": [
+                                    "BioOne"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "phrase": "Named Repository",
+                                        "value": "named_repository",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "phrase": "Journal Website",
+                                        "language": "en",
+                                        "value": "this_journal"
+                                    }
+                                ],
+                                "location": [
+                                    "named_repository",
+                                    "this_journal"
+                                ]
+                            },
+                            "additional_oa_fee": "yes",
+                            "license": [
+                                {
+                                    "version": "4.0",
+                                    "license_phrases": [
+                                        {
+                                            "phrase": "CC BY-NC-ND",
+                                            "value": "cc_by_nc_nd",
+                                            "language": "en"
+                                        }
+                                    ],
+                                    "license": "cc_by_nc_nd"
+                                }
+                            ],
+                            "copyright_owner_phrases": [
+                                {
+                                    "phrase": "Publishers",
+                                    "language": "en",
+                                    "value": "publishers"
+                                }
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Published",
+                                    "value": "published",
+                                    "language": "en"
+                                }
+                            ],
+                            "copyright_owner": "publishers",
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "phrase": "Yes",
+                                    "language": "en",
+                                    "value": "yes"
+                                }
+                            ]
+                        }
+                    ],
+                    "open_access_prohibited_phrases": [
+                        {
+                            "phrase": "No",
+                            "value": "no",
+                            "language": "en"
+                        }
+                    ],
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/835",
+                    "publication_count": 1
+                }
+            ],
+            "system_metadata": {
+                "date_created": "2010-11-15 14:18:15",
+                "date_modified": "2022-08-08 09:16:42",
+                "publicly_visible_phrases": [
+                    {
+                        "language": "en",
+                        "value": "yes",
+                        "phrase": "Yes"
+                    }
+                ],
+                "id": 17882,
+                "publicly_visible": "yes",
+                "uri": "https://v2.sherpa.ac.uk/id/publication/17882"
+            },
+            "listed_in_doaj": "no",
+            "title": [
+                {
+                    "language": "en",
+                    "language_phrases": [
+                        {
+                            "value": "en",
+                            "language": "en",
+                            "phrase": "English"
+                        }
+                    ],
+                    "title": "The Journal of Parasitology"
+                }
+            ],
+            "listed_in_doaj_phrases": [
+                {
+                    "phrase": "No",
+                    "language": "en",
+                    "value": "no"
+                }
+            ],
+            "id": 17882,
+            "url": "https://meridian.allenpress.com/journal-of-parasitology",
+            "publishers": [
+                {
+                    "publisher": {
+                        "publication_count": 1,
+                        "id": 34988,
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/34988",
+                        "name": [
+                            {
+                                "name": "Allen Press",
+                                "preferred": "name",
+                                "preferred_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "name",
+                                        "phrase": "Name"
+                                    }
+                                ],
+                                "language_phrases": [
+                                    {
+                                        "phrase": "English",
+                                        "language": "en",
+                                        "value": "en"
+                                    }
+                                ],
+                                "language": "en"
+                            }
+                        ]
+                    },
+                    "relationship_type_phrases": [
+                        {
+                            "value": "associate_organisation",
+                            "language": "en",
+                            "phrase": "Associate Organisation"
+                        }
+                    ],
+                    "relationship_type": "associate_organisation"
+                }
+            ],
+            "type": "journal",
+            "issns": [
+                {
+                    "issn": "0022-3395",
+                    "type_phrases": [
+                        {
+                            "phrase": "Print",
+                            "value": "print",
+                            "language": "en"
+                        }
+                    ],
+                    "type": "print"
+                },
+                {
+                    "type": "electronic",
+                    "type_phrases": [
+                        {
+                            "language": "en",
+                            "value": "electronic",
+                            "phrase": "Electronic"
+                        }
+                    ],
+                    "issn": "1937-2345"
+                }
+            ]
+        }
+    ]
+}

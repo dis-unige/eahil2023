@@ -1,0 +1,305 @@
+{
+    "items": [
+        {
+            "system_metadata": {
+                "publicly_visible": "yes",
+                "date_created": "2010-09-06 09:42:29",
+                "date_modified": "2022-10-03 09:59:00",
+                "uri": "https://v2.sherpa.ac.uk/id/publication/13640",
+                "publicly_visible_phrases": [
+                    {
+                        "phrase": "Yes",
+                        "language": "en",
+                        "value": "yes"
+                    }
+                ],
+                "id": 13640
+            },
+            "publishers": [
+                {
+                    "relationship_type_phrases": [
+                        {
+                            "language": "en",
+                            "value": "society_publisher",
+                            "phrase": "Society Publisher"
+                        }
+                    ],
+                    "publisher": {
+                        "identifiers": [
+                            {
+                                "identifier": "https://ror.org/05j8hg602",
+                                "type": "ror",
+                                "type_phrases": [
+                                    {
+                                        "phrase": "ROR ID",
+                                        "value": "ror",
+                                        "language": "en"
+                                    }
+                                ]
+                            }
+                        ],
+                        "url": "https://www.aps.org/",
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/10",
+                        "id": 10,
+                        "publication_count": 24,
+                        "country_phrases": [
+                            {
+                                "value": "us",
+                                "language": "en",
+                                "phrase": "United States of America"
+                            }
+                        ],
+                        "country": "us",
+                        "name": [
+                            {
+                                "preferred_phrases": [
+                                    {
+                                        "value": "name",
+                                        "language": "en",
+                                        "phrase": "Name"
+                                    }
+                                ],
+                                "preferred": "name",
+                                "name": "American Physical Society",
+                                "language": "en",
+                                "language_phrases": [
+                                    {
+                                        "value": "en",
+                                        "language": "en",
+                                        "phrase": "English"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "relationship_type": "society_publisher"
+                }
+            ],
+            "listed_in_doaj_phrases": [
+                {
+                    "language": "en",
+                    "value": "no",
+                    "phrase": "No"
+                }
+            ],
+            "url": "https://journals.aps.org/prl/",
+            "id": 13640,
+            "listed_in_doaj": "no",
+            "publisher_policy": [
+                {
+                    "internal_moniker": "SCOAP3 Titles",
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/3456",
+                    "id": 3456,
+                    "publication_count": 3,
+                    "open_access_prohibited_phrases": [
+                        {
+                            "phrase": "No",
+                            "language": "en",
+                            "value": "no"
+                        }
+                    ],
+                    "permitted_oa": [
+                        {
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "phrase": "No",
+                                    "language": "en",
+                                    "value": "no"
+                                }
+                            ],
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "value": "authors_homepage",
+                                        "language": "en",
+                                        "phrase": "Author's Homepage"
+                                    },
+                                    {
+                                        "value": "institutional_repository",
+                                        "language": "en",
+                                        "phrase": "Institutional Repository"
+                                    },
+                                    {
+                                        "value": "institutional_website",
+                                        "language": "en",
+                                        "phrase": "Institutional Website"
+                                    }
+                                ],
+                                "location": [
+                                    "authors_homepage",
+                                    "institutional_repository",
+                                    "institutional_website"
+                                ]
+                            },
+                            "id": 4113,
+                            "conditions": [
+                                "Must link to published article",
+                                "Published source must be acknowledged with citation"
+                            ],
+                            "article_version": [
+                                "submitted",
+                                "accepted",
+                                "published"
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "language": "en",
+                                    "value": "submitted",
+                                    "phrase": "Submitted"
+                                },
+                                {
+                                    "value": "accepted",
+                                    "language": "en",
+                                    "phrase": "Accepted"
+                                },
+                                {
+                                    "language": "en",
+                                    "value": "published",
+                                    "phrase": "Published"
+                                }
+                            ],
+                            "additional_oa_fee": "no"
+                        },
+                        {
+                            "id": 4114,
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "value": "yes",
+                                    "phrase": "Yes"
+                                }
+                            ],
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "phrase": "Any Repository",
+                                        "language": "en",
+                                        "value": "any_repository"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "value": "any_website",
+                                        "phrase": "Any Website"
+                                    },
+                                    {
+                                        "value": "this_journal",
+                                        "language": "en",
+                                        "phrase": "Journal Website"
+                                    }
+                                ],
+                                "location": [
+                                    "any_repository",
+                                    "any_website",
+                                    "this_journal"
+                                ]
+                            },
+                            "article_version_phrases": [
+                                {
+                                    "language": "en",
+                                    "value": "published",
+                                    "phrase": "Published"
+                                }
+                            ],
+                            "public_notes": [
+                                "Applies to High Energy Physics (HEP) papers published after January 1, 2018",
+                                "SCOAP3 will pay any associated fees"
+                            ],
+                            "article_version": [
+                                "published"
+                            ],
+                            "additional_oa_fee": "yes",
+                            "license": [
+                                {
+                                    "version": "3.0",
+                                    "license": "cc_by",
+                                    "license_phrases": [
+                                        {
+                                            "phrase": "CC BY",
+                                            "value": "cc_by",
+                                            "language": "en"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "language": "en",
+                                            "value": "cc_by",
+                                            "phrase": "CC BY"
+                                        }
+                                    ],
+                                    "version": "4.0",
+                                    "license": "cc_by"
+                                }
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "http://journals.aps.org/authors/transfer-of-copyright-agreement",
+                            "description": "Copyright Agreement"
+                        },
+                        {
+                            "url": "http://journals.aps.org/copyrightFAQ.html#post",
+                            "description": "APS Copyright Policies and Frequently Asked Questions"
+                        },
+                        {
+                            "url": "https://journals.aps.org/open_access.html",
+                            "description": "Open Access"
+                        },
+                        {
+                            "description": "Information about SCOAP3 and Physical Review journals",
+                            "url": "https://journals.aps.org/authors/scoap3"
+                        }
+                    ],
+                    "open_access_prohibited": "no"
+                }
+            ],
+            "title": [
+                {
+                    "language_phrases": [
+                        {
+                            "phrase": "English",
+                            "value": "en",
+                            "language": "en"
+                        }
+                    ],
+                    "language": "en",
+                    "title": "Physical Review Letters"
+                }
+            ],
+            "issns": [
+                {
+                    "issn": "0031-9007",
+                    "type": "print",
+                    "type_phrases": [
+                        {
+                            "phrase": "Print",
+                            "value": "print",
+                            "language": "en"
+                        }
+                    ]
+                },
+                {
+                    "issn": "1079-7114",
+                    "type": "electronic",
+                    "type_phrases": [
+                        {
+                            "language": "en",
+                            "value": "electronic",
+                            "phrase": "Electronic"
+                        }
+                    ]
+                }
+            ],
+            "type": "journal",
+            "type_phrases": [
+                {
+                    "value": "journal",
+                    "language": "en",
+                    "phrase": "Journal"
+                }
+            ]
+        }
+    ]
+}

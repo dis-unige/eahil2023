@@ -1,0 +1,251 @@
+{
+    "items": [
+        {
+            "type_phrases": [
+                {
+                    "phrase": "Journal",
+                    "language": "en",
+                    "value": "journal"
+                }
+            ],
+            "publisher_policy": [
+                {
+                    "publication_count": 24,
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/6019",
+                    "open_access_prohibited_phrases": [
+                        {
+                            "phrase": "No",
+                            "value": "no",
+                            "language": "en"
+                        }
+                    ],
+                    "permitted_oa": [
+                        {
+                            "location": {
+                                "location": [
+                                    "authors_homepage",
+                                    "institutional_repository",
+                                    "this_journal"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "authors_homepage",
+                                        "phrase": "Author's Homepage"
+                                    },
+                                    {
+                                        "phrase": "Institutional Repository",
+                                        "language": "en",
+                                        "value": "institutional_repository"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "value": "this_journal",
+                                        "phrase": "Journal Website"
+                                    }
+                                ]
+                            },
+                            "article_version_phrases": [
+                                {
+                                    "value": "published",
+                                    "language": "en",
+                                    "phrase": "Published"
+                                }
+                            ],
+                            "article_version": [
+                                "published"
+                            ],
+                            "conditions": [
+                                "Published source must be acknowledged",
+                                "Must link to publisher version with DOI"
+                            ],
+                            "license": [
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "phrase": "CC BY-SA",
+                                            "value": "cc_by_sa",
+                                            "language": "en"
+                                        }
+                                    ],
+                                    "license": "cc_by_sa"
+                                },
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "language": "en",
+                                            "value": "cc_by_nd",
+                                            "phrase": "CC BY-ND"
+                                        }
+                                    ],
+                                    "license": "cc_by_nd"
+                                },
+                                {
+                                    "license": "cc_by_nc_nd",
+                                    "license_phrases": [
+                                        {
+                                            "language": "en",
+                                            "value": "cc_by_nc_nd",
+                                            "phrase": "CC BY-NC-ND"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "location": {
+                                "location": [
+                                    "authors_homepage",
+                                    "institutional_repository"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "authors_homepage",
+                                        "phrase": "Author's Homepage"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "value": "institutional_repository",
+                                        "phrase": "Institutional Repository"
+                                    }
+                                ]
+                            },
+                            "article_version": [
+                                "submitted",
+                                "accepted"
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "value": "submitted",
+                                    "language": "en",
+                                    "phrase": "Submitted"
+                                },
+                                {
+                                    "phrase": "Accepted",
+                                    "language": "en",
+                                    "value": "accepted"
+                                }
+                            ],
+                            "conditions": [
+                                "Published source must be acknowledged",
+                                "Must link to publisher version with DOI"
+                            ]
+                        }
+                    ],
+                    "id": 6019,
+                    "internal_moniker": "Policy #6019 (John Libbey Eurotext)",
+                    "open_access_prohibited": "no",
+                    "urls": [
+                        {
+                            "url": "https://www.jle.com/en/politique_editoriale",
+                            "description": "Open Access Policy and Licensing"
+                        }
+                    ]
+                }
+            ],
+            "system_metadata": {
+                "date_modified": "2022-07-14 02:24:25",
+                "publicly_visible_phrases": [
+                    {
+                        "language": "en",
+                        "value": "yes",
+                        "phrase": "Yes"
+                    }
+                ],
+                "date_created": "2022-07-13 08:11:56",
+                "publicly_visible": "yes",
+                "id": 41821,
+                "uri": "https://v2.sherpa.ac.uk/id/publication/41821"
+            },
+            "listed_in_doaj": "no",
+            "title": [
+                {
+                    "language_phrases": [
+                        {
+                            "language": "en",
+                            "value": "en",
+                            "phrase": "English"
+                        }
+                    ],
+                    "language": "en",
+                    "title": "Epileptic Disorders"
+                }
+            ],
+            "id": 41821,
+            "listed_in_doaj_phrases": [
+                {
+                    "phrase": "No",
+                    "value": "no",
+                    "language": "en"
+                }
+            ],
+            "url": "https://www.jle.com/en/revues/epd/revue.phtml",
+            "publishers": [
+                {
+                    "relationship_type_phrases": [
+                        {
+                            "phrase": "Commercial Publisher",
+                            "language": "en",
+                            "value": "commercial_publisher"
+                        }
+                    ],
+                    "publisher": {
+                        "id": 64120,
+                        "name": [
+                            {
+                                "language": "en",
+                                "language_phrases": [
+                                    {
+                                        "phrase": "English",
+                                        "value": "en",
+                                        "language": "en"
+                                    }
+                                ],
+                                "acronym": "JLE",
+                                "name": "John Libbey Eurotext"
+                            }
+                        ],
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/64120",
+                        "country": "fr",
+                        "publication_count": 24,
+                        "country_phrases": [
+                            {
+                                "phrase": "France",
+                                "language": "en",
+                                "value": "fr"
+                            }
+                        ],
+                        "url": "https://www.jle.com/fr/index.phtml"
+                    },
+                    "relationship_type": "commercial_publisher"
+                }
+            ],
+            "type": "journal",
+            "issns": [
+                {
+                    "issn": "1294-9361",
+                    "type_phrases": [
+                        {
+                            "phrase": "Print",
+                            "language": "en",
+                            "value": "print"
+                        }
+                    ],
+                    "type": "print"
+                },
+                {
+                    "type": "electronic",
+                    "issn": "1950-6945",
+                    "type_phrases": [
+                        {
+                            "phrase": "Electronic",
+                            "language": "en",
+                            "value": "electronic"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

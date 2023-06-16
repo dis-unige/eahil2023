@@ -1,0 +1,316 @@
+{
+    "items": [
+        {
+            "issns": [
+                {
+                    "type_phrases": [
+                        {
+                            "phrase": "Print",
+                            "language": "en",
+                            "value": "print"
+                        }
+                    ],
+                    "type": "print",
+                    "issn": "1083-3668"
+                },
+                {
+                    "issn": "1560-2281",
+                    "type_phrases": [
+                        {
+                            "value": "electronic",
+                            "language": "en",
+                            "phrase": "Electronic"
+                        }
+                    ],
+                    "type": "electronic"
+                }
+            ],
+            "type": "journal",
+            "listed_in_doaj": "yes",
+            "id": 12747,
+            "publishers": [
+                {
+                    "relationship_type_phrases": [
+                        {
+                            "phrase": "Society Publisher",
+                            "value": "society_publisher",
+                            "language": "en"
+                        }
+                    ],
+                    "publisher": {
+                        "identifiers": [
+                            {
+                                "type": "ror",
+                                "type_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "ror",
+                                        "phrase": "ROR ID"
+                                    }
+                                ],
+                                "identifier": "https://ror.org/045k5vt03"
+                            }
+                        ],
+                        "url": "https://spie.org/",
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/127",
+                        "id": 127,
+                        "publication_count": 11,
+                        "country_phrases": [
+                            {
+                                "language": "en",
+                                "value": "us",
+                                "phrase": "United States of America"
+                            }
+                        ],
+                        "country": "us",
+                        "name": [
+                            {
+                                "language_phrases": [
+                                    {
+                                        "phrase": "English",
+                                        "value": "en",
+                                        "language": "en"
+                                    }
+                                ],
+                                "language": "en",
+                                "name": "Society of Photo-optical Instrumentation Engineers",
+                                "preferred": "name",
+                                "preferred_phrases": [
+                                    {
+                                        "phrase": "Name",
+                                        "value": "name",
+                                        "language": "en"
+                                    }
+                                ],
+                                "acronym": "SPIE"
+                            }
+                        ]
+                    },
+                    "relationship_type": "society_publisher"
+                }
+            ],
+            "system_metadata": {
+                "id": 12747,
+                "publicly_visible_phrases": [
+                    {
+                        "language": "en",
+                        "value": "yes",
+                        "phrase": "Yes"
+                    }
+                ],
+                "date_modified": "2022-11-03 14:53:28",
+                "publicly_visible": "yes",
+                "date_created": "2010-09-01 13:13:52",
+                "uri": "https://v2.sherpa.ac.uk/id/publication/12747"
+            },
+            "type_phrases": [
+                {
+                    "language": "en",
+                    "value": "journal",
+                    "phrase": "Journal"
+                }
+            ],
+            "publisher_policy": [
+                {
+                    "open_access_prohibited": "no",
+                    "open_access_prohibited_phrases": [
+                        {
+                            "value": "no",
+                            "language": "en",
+                            "phrase": "No"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://www.spiedigitallibrary.org/journals/open-access?SSO=1",
+                            "description": "SPIE Journals Open Access"
+                        },
+                        {
+                            "url": "https://www.spiedigitallibrary.org/article-sharing-policies",
+                            "description": "Web Posting Policy—Green Open Access"
+                        }
+                    ],
+                    "permitted_oa": [
+                        {
+                            "copyright_owner": "authors",
+                            "id": 422,
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "phrase": "No",
+                                    "value": "no",
+                                    "language": "en"
+                                }
+                            ],
+                            "copyright_owner_phrases": [
+                                {
+                                    "language": "en",
+                                    "value": "authors",
+                                    "phrase": "Authors"
+                                }
+                            ],
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "phrase": "Any Website",
+                                        "value": "any_website",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "value": "funder_designated_location",
+                                        "phrase": "Funder Designated Location"
+                                    },
+                                    {
+                                        "phrase": "Journal Website",
+                                        "language": "en",
+                                        "value": "this_journal"
+                                    }
+                                ],
+                                "location": [
+                                    "any_website",
+                                    "funder_designated_location",
+                                    "this_journal"
+                                ]
+                            },
+                            "license": [
+                                {
+                                    "version": "4.0",
+                                    "license": "cc_by",
+                                    "license_phrases": [
+                                        {
+                                            "value": "cc_by",
+                                            "language": "en",
+                                            "phrase": "CC BY"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "additional_oa_fee": "no",
+                            "article_version_phrases": [
+                                {
+                                    "language": "en",
+                                    "value": "published",
+                                    "phrase": "Published"
+                                }
+                            ],
+                            "article_version": [
+                                "published"
+                            ]
+                        },
+                        {
+                            "location": {
+                                "named_repository": [
+                                    "arXiv",
+                                    "bioRxiv",
+                                    "medRxiv"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "named_repository",
+                                        "phrase": "Named Repository"
+                                    },
+                                    {
+                                        "phrase": "Preprint Repository",
+                                        "value": "preprint_repository",
+                                        "language": "en"
+                                    }
+                                ],
+                                "location": [
+                                    "named_repository",
+                                    "preprint_repository"
+                                ]
+                            },
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "phrase": "No",
+                                    "value": "no",
+                                    "language": "en"
+                                }
+                            ],
+                            "id": 5603,
+                            "conditions": [
+                                "Upon publication, published source must be acknowledged with citation",
+                                "Upon publication, must link to publisher version with DOI"
+                            ],
+                            "article_version": [
+                                "submitted"
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "value": "submitted",
+                                    "language": "en",
+                                    "phrase": "Submitted"
+                                }
+                            ],
+                            "additional_oa_fee": "no"
+                        },
+                        {
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Accepted",
+                                    "value": "accepted",
+                                    "language": "en"
+                                }
+                            ],
+                            "id": 7180,
+                            "article_version": [
+                                "accepted"
+                            ],
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "phrase": "Funder Designated Location",
+                                        "value": "funder_designated_location",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "value": "institutional_repository",
+                                        "language": "en",
+                                        "phrase": "Institutional Repository"
+                                    },
+                                    {
+                                        "phrase": "Institutional Website",
+                                        "language": "en",
+                                        "value": "institutional_website"
+                                    }
+                                ],
+                                "location": [
+                                    "funder_designated_location",
+                                    "institutional_repository",
+                                    "institutional_website"
+                                ]
+                            }
+                        }
+                    ],
+                    "internal_moniker": "Open Access",
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/3325",
+                    "id": 3325,
+                    "publication_count": 2
+                }
+            ],
+            "title": [
+                {
+                    "title": "Journal of Biomedical Optics",
+                    "acronym": "JBO",
+                    "language_phrases": [
+                        {
+                            "language": "en",
+                            "value": "en",
+                            "phrase": "English"
+                        }
+                    ],
+                    "language": "en"
+                }
+            ],
+            "listed_in_doaj_phrases": [
+                {
+                    "language": "en",
+                    "value": "yes",
+                    "phrase": "Yes"
+                }
+            ],
+            "url": "https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics?SSO=1"
+        }
+    ]
+}

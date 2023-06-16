@@ -1,0 +1,258 @@
+{
+    "items": [
+        {
+            "type": "journal",
+            "issns": [
+                {
+                    "type_phrases": [
+                        {
+                            "value": "print",
+                            "language": "en",
+                            "phrase": "Print"
+                        }
+                    ],
+                    "issn": "0014-6722",
+                    "type": "print"
+                },
+                {
+                    "issn": "1853-0605",
+                    "type_phrases": [
+                        {
+                            "phrase": "Electronic",
+                            "language": "en",
+                            "value": "electronic"
+                        }
+                    ],
+                    "type": "electronic"
+                }
+            ],
+            "publishers": [
+                {
+                    "relationship_type": "university_publisher",
+                    "publisher": {
+                        "country": "ar",
+                        "id": 62296,
+                        "url": "http://www.unc.edu.ar/",
+                        "publication_count": 53,
+                        "name": [
+                            {
+                                "preferred": "name",
+                                "name": "Universidad Nacional de Córdoba",
+                                "language": "es",
+                                "language_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "es",
+                                        "phrase": "Spanish"
+                                    }
+                                ],
+                                "preferred_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "name",
+                                        "phrase": "Name"
+                                    }
+                                ]
+                            }
+                        ],
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/62296",
+                        "country_phrases": [
+                            {
+                                "value": "ar",
+                                "language": "en",
+                                "phrase": "Argentina"
+                            }
+                        ],
+                        "imprints_id": [
+                            754,
+                            63674,
+                            63441,
+                            63677,
+                            63678,
+                            63680,
+                            63681,
+                            63676,
+                            63454
+                        ],
+                        "identifiers": [
+                            {
+                                "type": "ror",
+                                "type_phrases": [
+                                    {
+                                        "phrase": "ROR ID",
+                                        "language": "en",
+                                        "value": "ror"
+                                    }
+                                ],
+                                "identifier": "https://ror.org/056tb7j80"
+                            }
+                        ]
+                    },
+                    "relationship_type_phrases": [
+                        {
+                            "phrase": "University Publisher",
+                            "value": "university_publisher",
+                            "language": "en"
+                        }
+                    ]
+                },
+                {
+                    "relationship_type": "imprint",
+                    "publisher": {
+                        "country_phrases": [
+                            {
+                                "phrase": "Argentina",
+                                "value": "ar",
+                                "language": "en"
+                            }
+                        ],
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/63454",
+                        "imprint_of_id": 62296,
+                        "name": [
+                            {
+                                "name": "Facultad de Ciencias Médicas",
+                                "language": "es",
+                                "language_phrases": [
+                                    {
+                                        "value": "es",
+                                        "language": "en",
+                                        "phrase": "Spanish"
+                                    }
+                                ]
+                            }
+                        ],
+                        "publication_count": 2,
+                        "url": "https://revistas.unc.edu.ar/index.php/med/index",
+                        "id": 63454,
+                        "country": "ar"
+                    },
+                    "relationship_type_phrases": [
+                        {
+                            "phrase": "Imprint",
+                            "language": "en",
+                            "value": "imprint"
+                        }
+                    ]
+                }
+            ],
+            "url": "https://revistas.unc.edu.ar/index.php/med/",
+            "listed_in_doaj_phrases": [
+                {
+                    "phrase": "Yes",
+                    "value": "yes",
+                    "language": "en"
+                }
+            ],
+            "id": 39681,
+            "title": [
+                {
+                    "title": "Revista de la Facultad de Ciencias Médicas de Córdoba",
+                    "language": "es",
+                    "language_phrases": [
+                        {
+                            "phrase": "Spanish",
+                            "value": "es",
+                            "language": "en"
+                        }
+                    ]
+                }
+            ],
+            "listed_in_doaj": "yes",
+            "system_metadata": {
+                "uri": "https://v2.sherpa.ac.uk/id/publication/39681",
+                "id": 39681,
+                "publicly_visible": "yes",
+                "date_created": "2021-08-27 12:42:27",
+                "date_modified": "2021-08-28 02:25:36",
+                "publicly_visible_phrases": [
+                    {
+                        "language": "en",
+                        "value": "yes",
+                        "phrase": "Yes"
+                    }
+                ]
+            },
+            "publisher_policy": [
+                {
+                    "publication_count": 4,
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/5226",
+                    "open_access_prohibited_phrases": [
+                        {
+                            "language": "en",
+                            "value": "no",
+                            "phrase": "No"
+                        }
+                    ],
+                    "permitted_oa": [
+                        {
+                            "license": [
+                                {
+                                    "license": "cc_by_nc",
+                                    "license_phrases": [
+                                        {
+                                            "language": "en",
+                                            "value": "cc_by_nc",
+                                            "phrase": "CC BY-NC"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "copyright_owner_phrases": [
+                                {
+                                    "phrase": "Publishers",
+                                    "language": "en",
+                                    "value": "publishers"
+                                }
+                            ],
+                            "copyright_owner": "publishers",
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Published",
+                                    "value": "published",
+                                    "language": "en"
+                                }
+                            ],
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "phrase": "Non-Commercial Website",
+                                        "value": "non_commercial_website",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "value": "this_journal",
+                                        "language": "en",
+                                        "phrase": "Journal Website"
+                                    }
+                                ],
+                                "location": [
+                                    "non_commercial_website",
+                                    "this_journal"
+                                ]
+                            },
+                            "article_version": [
+                                "published"
+                            ]
+                        }
+                    ],
+                    "internal_moniker": "CC BY NC",
+                    "id": 5226,
+                    "open_access_prohibited": "no",
+                    "urls": [
+                        {
+                            "url": "https://revistas.unc.edu.ar/index.php/med/editorialPolicies/openAccessPolicy",
+                            "description": "Open Access Policies and Copyright Licence"
+                        }
+                    ]
+                }
+            ],
+            "type_phrases": [
+                {
+                    "value": "journal",
+                    "language": "en",
+                    "phrase": "Journal"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,508 @@
+{
+    "items": [
+        {
+            "type_phrases": [
+                {
+                    "phrase": "Journal",
+                    "value": "journal",
+                    "language": "en"
+                }
+            ],
+            "publisher_policy": [
+                {
+                    "permitted_oa": [
+                        {
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "phrase": "No",
+                                    "value": "no",
+                                    "language": "en"
+                                }
+                            ],
+                            "conditions": [
+                                "Must be replaced with accepted version",
+                                "When submitted, set statement to accompany deposit (see policy)",
+                                "When accepted for publication, must either replace the submitted work with a full citation OR the accepted version with a DOI",
+                                "When accepted for publication, must be removed if not on the permitted locations for accepted article",
+                                "IEEE must be informed as to the electronic address of the pre-print",
+                                "Publisher copyright and source must be acknowledged"
+                            ],
+                            "additional_oa_fee": "no",
+                            "article_version": [
+                                "submitted"
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Submitted",
+                                    "value": "submitted",
+                                    "language": "en"
+                                }
+                            ],
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "value": "authors_homepage",
+                                        "language": "en",
+                                        "phrase": "Author's Homepage"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "value": "funder_designated_location",
+                                        "phrase": "Funder Designated Location"
+                                    },
+                                    {
+                                        "phrase": "Institutional Repository",
+                                        "language": "en",
+                                        "value": "institutional_repository"
+                                    },
+                                    {
+                                        "phrase": "Institutional Website",
+                                        "value": "institutional_website",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "value": "named_repository",
+                                        "phrase": "Named Repository"
+                                    },
+                                    {
+                                        "phrase": "Preprint Repository",
+                                        "value": "preprint_repository",
+                                        "language": "en"
+                                    }
+                                ],
+                                "location": [
+                                    "authors_homepage",
+                                    "funder_designated_location",
+                                    "institutional_repository",
+                                    "institutional_website",
+                                    "named_repository",
+                                    "preprint_repository"
+                                ],
+                                "named_repository": [
+                                    "arXiv",
+                                    "TechRxiv"
+                                ]
+                            }
+                        },
+                        {
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "phrase": "No",
+                                    "language": "en",
+                                    "value": "no"
+                                }
+                            ],
+                            "public_notes": [
+                                "Academic Social Network must be a signatory of STM Sharing Principles"
+                            ],
+                            "article_version": [
+                                "submitted"
+                            ],
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "phrase": "Academic Social Network",
+                                        "value": "academic_social_network",
+                                        "language": "en"
+                                    }
+                                ],
+                                "location": [
+                                    "academic_social_network"
+                                ]
+                            },
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Submitted",
+                                    "value": "submitted",
+                                    "language": "en"
+                                }
+                            ],
+                            "additional_oa_fee": "no",
+                            "conditions": [
+                                "When accepted for publication, must either replace the submitted work with a full citation OR the accepted version with a DOI"
+                            ]
+                        },
+                        {
+                            "article_version": [
+                                "accepted"
+                            ],
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "authors_homepage",
+                                        "phrase": "Author's Homepage"
+                                    },
+                                    {
+                                        "phrase": "Institutional Repository",
+                                        "language": "en",
+                                        "value": "institutional_repository"
+                                    },
+                                    {
+                                        "phrase": "Institutional Website",
+                                        "value": "institutional_website",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "value": "named_repository",
+                                        "language": "en",
+                                        "phrase": "Named Repository"
+                                    }
+                                ],
+                                "location": [
+                                    "authors_homepage",
+                                    "institutional_repository",
+                                    "institutional_website",
+                                    "named_repository"
+                                ],
+                                "named_repository": [
+                                    "arXiv",
+                                    "TechRxiv"
+                                ]
+                            },
+                            "additional_oa_fee": "no",
+                            "conditions": [
+                                "When accepted for publication, set statement to accompany deposit (see policy)",
+                                "Must link to publisher version with DOI",
+                                "Publisher copyright and source must be acknowledged"
+                            ],
+                            "copyright_owner_phrases": [
+                                {
+                                    "phrase": "Publishers",
+                                    "language": "en",
+                                    "value": "publishers"
+                                }
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Accepted",
+                                    "value": "accepted",
+                                    "language": "en"
+                                }
+                            ],
+                            "copyright_owner": "publishers",
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "phrase": "No",
+                                    "value": "no",
+                                    "language": "en"
+                                }
+                            ]
+                        },
+                        {
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Accepted",
+                                    "value": "accepted",
+                                    "language": "en"
+                                }
+                            ],
+                            "embargo": {
+                                "units_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "months",
+                                        "phrase": "Months"
+                                    }
+                                ],
+                                "units": "months",
+                                "amount": 24
+                            },
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "value": "no",
+                                    "phrase": "No"
+                                }
+                            ],
+                            "public_notes": [
+                                "IEEE recognizes that posting requirements and embargo periods vary by funder, and IEEE authors may comply   with requirements to deposit their accepted articles in funding repositories where the embargo is less than 24 months"
+                            ],
+                            "conditions": [
+                                "When accepted for publication, set statement to accompany deposit (see policy)",
+                                "Publisher copyright and source must be acknowledged"
+                            ],
+                            "article_version": [
+                                "accepted"
+                            ],
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "phrase": "Funder Designated Location",
+                                        "language": "en",
+                                        "value": "funder_designated_location"
+                                    }
+                                ],
+                                "location": [
+                                    "funder_designated_location"
+                                ]
+                            },
+                            "additional_oa_fee": "no"
+                        },
+                        {
+                            "public_notes": [
+                                "Authors must contact publisher stating Creative Commons Attribution requirement"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "value": "yes",
+                                    "language": "en",
+                                    "phrase": "Yes"
+                                }
+                            ],
+                            "copyright_owner": "authors",
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Published",
+                                    "value": "published",
+                                    "language": "en"
+                                }
+                            ],
+                            "copyright_owner_phrases": [
+                                {
+                                    "phrase": "Authors",
+                                    "value": "authors",
+                                    "language": "en"
+                                }
+                            ],
+                            "license": [
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "phrase": "CC BY",
+                                            "language": "en",
+                                            "value": "cc_by"
+                                        }
+                                    ],
+                                    "license": "cc_by"
+                                },
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "value": "cc_by_nc_nd",
+                                            "language": "en",
+                                            "phrase": "CC BY-NC-ND"
+                                        }
+                                    ],
+                                    "license": "cc_by_nc_nd"
+                                }
+                            ],
+                            "additional_oa_fee": "yes",
+                            "article_version": [
+                                "published"
+                            ],
+                            "location": {
+                                "location": [
+                                    "any_website",
+                                    "this_journal"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "phrase": "Any Website",
+                                        "value": "any_website",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "value": "this_journal",
+                                        "phrase": "Journal Website"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "open_access_prohibited_phrases": [
+                        {
+                            "value": "no",
+                            "language": "en",
+                            "phrase": "No"
+                        }
+                    ],
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/38",
+                    "publication_count": 209,
+                    "urls": [
+                        {
+                            "url": "http://www.ieee.org/publications_standards/publications/rights/rights_policies.html",
+                            "description": "Section 8.1.9 of the PSPB Operations Manual"
+                        },
+                        {
+                            "url": "https://www.ieee.org/publications/rights/copyright-main.html",
+                            "description": "Electronic IEEE Copyright Form"
+                        },
+                        {
+                            "url": "http://www.ieee.org/publications_standards/publications/rights/copyrightpolicy.html",
+                            "description": "IEEE Copyright Policy"
+                        },
+                        {
+                            "url": "https://open.ieee.org/",
+                            "description": "IEEE Open"
+                        },
+                        {
+                            "url": "https://www.ieee.org/publications/rights/author-posting-policy.html",
+                            "description": "Author Posting of IEEE Copyrighted Papers Online"
+                        },
+                        {
+                            "description": "Policy: Posting Your Article",
+                            "url": "https://ieeeauthorcenter.ieee.org/publishing-ethics/guidelines-and-policies/policy-posting-your-article/"
+                        },
+                        {
+                            "url": "https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/post-publication-policies/",
+                            "description": "Post-Publication Policies"
+                        }
+                    ],
+                    "open_access_prohibited": "no",
+                    "id": 38,
+                    "internal_moniker": "Default Policy"
+                }
+            ],
+            "system_metadata": {
+                "uri": "https://v2.sherpa.ac.uk/id/publication/3419",
+                "publicly_visible": "yes",
+                "id": 3419,
+                "date_created": "2010-07-22 12:00:39",
+                "date_modified": "2020-11-04 16:23:55",
+                "publicly_visible_phrases": [
+                    {
+                        "value": "yes",
+                        "language": "en",
+                        "phrase": "Yes"
+                    }
+                ]
+            },
+            "listed_in_doaj": "no",
+            "title": [
+                {
+                    "title": "IEEE Transactions on Biomedical Circuits and Systems",
+                    "language_phrases": [
+                        {
+                            "value": "en",
+                            "language": "en",
+                            "phrase": "English"
+                        }
+                    ],
+                    "language": "en"
+                }
+            ],
+            "listed_in_doaj_phrases": [
+                {
+                    "language": "en",
+                    "value": "no",
+                    "phrase": "No"
+                }
+            ],
+            "id": 3419,
+            "url": "http://ieeexplore.ieee.org/xpl/RecentIssue.jsp/?punumber=4156126",
+            "publishers": [
+                {
+                    "publisher": {
+                        "url": "http://www.ieee.org/index.html",
+                        "country": "us",
+                        "id": 38,
+                        "country_phrases": [
+                            {
+                                "phrase": "United States of America",
+                                "language": "en",
+                                "value": "us"
+                            }
+                        ],
+                        "imprints_id": [
+                            43756,
+                            43779,
+                            23376,
+                            23357,
+                            23377,
+                            43759,
+                            23358,
+                            43770,
+                            43797,
+                            10702,
+                            35765,
+                            23359,
+                            10526,
+                            10701,
+                            43773,
+                            43775,
+                            43791,
+                            35771,
+                            43806,
+                            10699,
+                            54326,
+                            43784
+                        ],
+                        "identifiers": [
+                            {
+                                "type": "ror",
+                                "identifier": "https://ror.org/01n002310",
+                                "type_phrases": [
+                                    {
+                                        "phrase": "ROR ID",
+                                        "value": "ror",
+                                        "language": "en"
+                                    }
+                                ]
+                            }
+                        ],
+                        "publication_count": 232,
+                        "name": [
+                            {
+                                "name": "Institute of Electrical and Electronics Engineers",
+                                "preferred": "name",
+                                "acronym": "IEEE",
+                                "preferred_phrases": [
+                                    {
+                                        "phrase": "Name",
+                                        "value": "name",
+                                        "language": "en"
+                                    }
+                                ],
+                                "language": "en",
+                                "language_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "en",
+                                        "phrase": "English"
+                                    }
+                                ]
+                            }
+                        ],
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/38"
+                    },
+                    "relationship_type_phrases": [
+                        {
+                            "phrase": "Society Publisher",
+                            "language": "en",
+                            "value": "society_publisher"
+                        }
+                    ],
+                    "relationship_type": "society_publisher"
+                }
+            ],
+            "type": "journal",
+            "issns": [
+                {
+                    "type": "print",
+                    "issn": "1932-4545",
+                    "type_phrases": [
+                        {
+                            "phrase": "Print",
+                            "value": "print",
+                            "language": "en"
+                        }
+                    ]
+                },
+                {
+                    "issn": "1940-9990",
+                    "type_phrases": [
+                        {
+                            "language": "en",
+                            "value": "electronic",
+                            "phrase": "Electronic"
+                        }
+                    ],
+                    "type": "electronic"
+                }
+            ]
+        }
+    ]
+}

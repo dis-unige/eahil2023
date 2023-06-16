@@ -1,0 +1,352 @@
+{
+    "items": [
+        {
+            "listed_in_doaj": "yes",
+            "system_metadata": {
+                "date_modified": "2022-11-22 10:01:37",
+                "publicly_visible": "yes",
+                "id": 7020,
+                "uri": "https://v2.sherpa.ac.uk/id/publication/7020",
+                "publicly_visible_phrases": [
+                    {
+                        "value": "yes",
+                        "phrase": "Yes",
+                        "language": "en"
+                    }
+                ],
+                "date_created": "2010-08-04 10:52:49"
+            },
+            "publishers": [
+                {
+                    "relationship_type_phrases": [
+                        {
+                            "value": "copublisher",
+                            "phrase": "Co-Publisher",
+                            "language": "en"
+                        }
+                    ],
+                    "relationship_type": "copublisher",
+                    "publisher": {
+                        "id": 580,
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/580",
+                        "country_phrases": [
+                            {
+                                "language": "en",
+                                "phrase": "United States of America",
+                                "value": "us"
+                            }
+                        ],
+                        "url": "https://www.wiley.com/en-gb",
+                        "identifiers": [
+                            {
+                                "identifier": "https://ror.org/01zm94433",
+                                "type_phrases": [
+                                    {
+                                        "value": "ror",
+                                        "phrase": "ROR ID",
+                                        "language": "en"
+                                    }
+                                ],
+                                "type": "ror"
+                            }
+                        ],
+                        "country": "us",
+                        "name": [
+                            {
+                                "name": "Wiley",
+                                "language": "en",
+                                "language_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "en",
+                                        "phrase": "English"
+                                    }
+                                ]
+                            }
+                        ],
+                        "publication_count": 1388,
+                        "imprints_id": [
+                            1390,
+                            100,
+                            1032,
+                            79
+                        ]
+                    }
+                },
+                {
+                    "publisher": {
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/100",
+                        "id": 100,
+                        "url": "https://www.hindawi.com/",
+                        "identifiers": [
+                            {
+                                "type_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "ROR ID",
+                                        "value": "ror"
+                                    }
+                                ],
+                                "identifier": "https://ror.org/02rt9z237",
+                                "type": "ror"
+                            }
+                        ],
+                        "country_phrases": [
+                            {
+                                "language": "en",
+                                "phrase": "United Kingdom",
+                                "value": "gb"
+                            }
+                        ],
+                        "country": "gb",
+                        "imprint_of_id": 580,
+                        "publication_count": 236,
+                        "name": [
+                            {
+                                "preferred_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "name",
+                                        "phrase": "Name"
+                                    }
+                                ],
+                                "language_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "en",
+                                        "phrase": "English"
+                                    }
+                                ],
+                                "language": "en",
+                                "preferred": "name",
+                                "name": "Hindawi"
+                            }
+                        ]
+                    },
+                    "relationship_type": "primary_copublisher",
+                    "relationship_type_phrases": [
+                        {
+                            "value": "primary_copublisher",
+                            "phrase": "Primary Co-Publisher",
+                            "language": "en"
+                        }
+                    ]
+                }
+            ],
+            "issns": [
+                {
+                    "type_phrases": [
+                        {
+                            "phrase": "Print",
+                            "value": "print",
+                            "language": "en"
+                        }
+                    ],
+                    "issn": "1368-5031",
+                    "type": "print"
+                },
+                {
+                    "type": "electronic",
+                    "issn": "1742-1241",
+                    "type_phrases": [
+                        {
+                            "phrase": "Electronic",
+                            "value": "electronic",
+                            "language": "en"
+                        }
+                    ]
+                }
+            ],
+            "publisher_policy": [
+                {
+                    "open_access_prohibited": "no",
+                    "open_access_prohibited_phrases": [
+                        {
+                            "language": "en",
+                            "phrase": "No",
+                            "value": "no"
+                        }
+                    ],
+                    "internal_moniker": "Wiley Hindawi Partnership",
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/3105",
+                    "id": 3105,
+                    "urls": [
+                        {
+                            "description": "Example For authors",
+                            "url": "https://www.hindawi.com/journals/jat/guidelines/"
+                        }
+                    ],
+                    "publication_count": 11,
+                    "permitted_oa": [
+                        {
+                            "article_version": [
+                                "submitted",
+                                "accepted"
+                            ],
+                            "embargo": {
+                                "amount": 0,
+                                "units_phrases": [
+                                    {
+                                        "phrase": "Days",
+                                        "value": "days",
+                                        "language": "en"
+                                    }
+                                ],
+                                "units": "days"
+                            },
+                            "copyright_owner": "authors",
+                            "id": 6054,
+                            "copyright_owner_phrases": [
+                                {
+                                    "phrase": "Authors",
+                                    "value": "authors",
+                                    "language": "en"
+                                }
+                            ],
+                            "conditions": [
+                                "Published source must be acknowledged with citation"
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "language": "en",
+                                    "value": "submitted",
+                                    "phrase": "Submitted"
+                                },
+                                {
+                                    "value": "accepted",
+                                    "phrase": "Accepted",
+                                    "language": "en"
+                                }
+                            ],
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "any_repository",
+                                        "phrase": "Any Repository"
+                                    }
+                                ],
+                                "location": [
+                                    "any_repository"
+                                ]
+                            },
+                            "license": [
+                                {
+                                    "license": "cc_by",
+                                    "license_phrases": [
+                                        {
+                                            "phrase": "CC BY",
+                                            "value": "cc_by",
+                                            "language": "en"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "article_version_phrases": [
+                                {
+                                    "value": "published",
+                                    "phrase": "Published",
+                                    "language": "en"
+                                }
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "value": "no",
+                                    "phrase": "No",
+                                    "language": "en"
+                                }
+                            ],
+                            "additional_oa_fee": "no",
+                            "copyright_owner_phrases": [
+                                {
+                                    "phrase": "Authors",
+                                    "value": "authors",
+                                    "language": "en"
+                                }
+                            ],
+                            "conditions": [
+                                "Published source must be acknowledged with citation"
+                            ],
+                            "id": 4329,
+                            "copyright_owner": "authors",
+                            "article_version": [
+                                "published"
+                            ],
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "value": "any_repository",
+                                        "phrase": "Any Repository",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "phrase": "Journal Website",
+                                        "value": "this_journal",
+                                        "language": "en"
+                                    }
+                                ],
+                                "location": [
+                                    "any_repository",
+                                    "this_journal"
+                                ]
+                            },
+                            "license": [
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "phrase": "CC BY",
+                                            "value": "cc_by",
+                                            "language": "en"
+                                        }
+                                    ],
+                                    "version": "4.0",
+                                    "license": "cc_by"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "id": 7020,
+            "type": "journal",
+            "type_phrases": [
+                {
+                    "language": "en",
+                    "phrase": "Journal",
+                    "value": "journal"
+                }
+            ],
+            "listed_in_doaj_phrases": [
+                {
+                    "language": "en",
+                    "phrase": "Yes",
+                    "value": "yes"
+                }
+            ],
+            "url": "https://www.hindawi.com/journals/ijclp/",
+            "title": [
+                {
+                    "title": "International Journal of Clinical Practice",
+                    "preferred": "name",
+                    "language": "en",
+                    "language_phrases": [
+                        {
+                            "phrase": "English",
+                            "value": "en",
+                            "language": "en"
+                        }
+                    ],
+                    "preferred_phrases": [
+                        {
+                            "language": "en",
+                            "phrase": "Title",
+                            "value": "name"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

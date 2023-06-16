@@ -1,0 +1,370 @@
+{
+    "items": [
+        {
+            "publisher_policy": [
+                {
+                    "urls": [
+                        {
+                            "description": "Authors' rights and Green Open Access",
+                            "url": "https://www.thieme.de/statics/dokumente/thieme/final/de/dokumente/sw_%20autorenlounge/Authors_Rights_and_Green_Open_Access_2016.pdf"
+                        },
+                        {
+                            "url": "https://www.thieme.de/de/autorenlounge/86396.htm",
+                            "description": "Grün Open Access"
+                        },
+                        {
+                            "description": "Permission to Publish and Copyright Transfer Agreement",
+                            "url": "https://www.thieme.de/statics/dokumente/thieme/final/de/dokumente/sw_%20autorenlounge/Thieme_CTA_Copyright_Transfer_english.pdf"
+                        },
+                        {
+                            "description": "Autorenrechter und Hinweise zum Green Open Access",
+                            "url": "https://www.thieme.de/statics/dokumente/thieme/final/de/dokumente/sw_%20autorenlounge/2017_Thieme_Hinweise_Autorenrechte_Open_Access.pdf"
+                        },
+                        {
+                            "description": "Thieme Open und Open Access (OA)",
+                            "url": "https://www.thieme.de/de/autorenlounge/86392.htm"
+                        },
+                        {
+                            "description": "Autorenrechte",
+                            "url": "https://www.thieme.de/de/autorenlounge/86404.htm"
+                        },
+                        {
+                            "url": "https://www.thieme.de/de/autorenlounge/86412.htm",
+                            "description": "Die Lizenz CC-BY-NC-ND"
+                        },
+                        {
+                            "url": "https://www.thieme.de/de/autorenlounge/86422.htm",
+                            "description": "FAQ about Open Access"
+                        }
+                    ],
+                    "open_access_prohibited": "no",
+                    "internal_moniker": "Default Policy",
+                    "id": 366,
+                    "open_access_prohibited_phrases": [
+                        {
+                            "phrase": "No",
+                            "language": "en",
+                            "value": "no"
+                        }
+                    ],
+                    "permitted_oa": [
+                        {
+                            "embargo": {
+                                "amount": 12,
+                                "units_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "months",
+                                        "phrase": "Months"
+                                    }
+                                ],
+                                "units": "months"
+                            },
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "phrase": "No",
+                                    "value": "no",
+                                    "language": "en"
+                                }
+                            ],
+                            "conditions": [
+                                "Must acknowledge published source and copyright",
+                                "Must link to published article"
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Accepted",
+                                    "value": "accepted",
+                                    "language": "en"
+                                }
+                            ],
+                            "location": {
+                                "location": [
+                                    "non_commercial_institutional_repository",
+                                    "subject_repository"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "value": "non_commercial_institutional_repository",
+                                        "language": "en",
+                                        "phrase": "Non-Commercial Institutional Repository"
+                                    },
+                                    {
+                                        "phrase": "Subject Repository",
+                                        "value": "subject_repository",
+                                        "language": "en"
+                                    }
+                                ]
+                            },
+                            "article_version": [
+                                "accepted"
+                            ],
+                            "additional_oa_fee": "no"
+                        },
+                        {
+                            "additional_oa_fee": "no",
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "value": "authors_homepage",
+                                        "language": "en",
+                                        "phrase": "Author's Homepage"
+                                    }
+                                ],
+                                "location": [
+                                    "authors_homepage"
+                                ]
+                            },
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Published",
+                                    "language": "en",
+                                    "value": "published"
+                                }
+                            ],
+                            "article_version": [
+                                "published"
+                            ],
+                            "conditions": [
+                                "Must acknowledge published source and copyright",
+                                "Must link to published article",
+                                "Non-commercial use only"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "value": "no",
+                                    "phrase": "No"
+                                }
+                            ]
+                        },
+                        {
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Published",
+                                    "language": "en",
+                                    "value": "published"
+                                }
+                            ],
+                            "publisher_deposit": [
+                                {
+                                    "repository_metadata": {
+                                        "url": "http://www.ncbi.nlm.nih.gov/pmc/",
+                                        "type": "disciplinary",
+                                        "type_phrases": [
+                                            {
+                                                "phrase": "Disciplinary",
+                                                "value": "disciplinary",
+                                                "language": "en"
+                                            }
+                                        ],
+                                        "name": [
+                                            {
+                                                "preferred_phrases": [
+                                                    {
+                                                        "language": "en",
+                                                        "value": "name",
+                                                        "phrase": "Name"
+                                                    }
+                                                ],
+                                                "language_phrases": [
+                                                    {
+                                                        "value": "en",
+                                                        "language": "en",
+                                                        "phrase": "English"
+                                                    }
+                                                ],
+                                                "language": "en",
+                                                "preferred": "name",
+                                                "name": "PubMed Central"
+                                            }
+                                        ]
+                                    },
+                                    "system_metadata": {
+                                        "uri": "https://v2.sherpa.ac.uk/id/repository/267",
+                                        "id": 267
+                                    }
+                                }
+                            ],
+                            "copyright_owner": "authors",
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "value": "yes",
+                                    "phrase": "Yes"
+                                }
+                            ],
+                            "additional_oa_fee": "yes",
+                            "location": {
+                                "location": [
+                                    "named_repository",
+                                    "this_journal"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "value": "named_repository",
+                                        "language": "en",
+                                        "phrase": "Named Repository"
+                                    },
+                                    {
+                                        "phrase": "Journal Website",
+                                        "value": "this_journal",
+                                        "language": "en"
+                                    }
+                                ],
+                                "named_repository": [
+                                    "PubMed Central"
+                                ]
+                            },
+                            "article_version": [
+                                "published"
+                            ],
+                            "copyright_owner_phrases": [
+                                {
+                                    "phrase": "Authors",
+                                    "language": "en",
+                                    "value": "authors"
+                                }
+                            ],
+                            "license": [
+                                {
+                                    "version": "3.0",
+                                    "license": "cc_by_nc_nd",
+                                    "license_phrases": [
+                                        {
+                                            "language": "en",
+                                            "value": "cc_by_nc_nd",
+                                            "phrase": "CC BY-NC-ND"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "publication_count": 115,
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/366"
+                }
+            ],
+            "listed_in_doaj": "no",
+            "system_metadata": {
+                "uri": "https://v2.sherpa.ac.uk/id/publication/10795",
+                "id": 10795,
+                "publicly_visible": "yes",
+                "date_created": "2010-08-24 09:34:21",
+                "publicly_visible_phrases": [
+                    {
+                        "language": "en",
+                        "value": "yes",
+                        "phrase": "Yes"
+                    }
+                ],
+                "date_modified": "2022-03-31 10:34:32"
+            },
+            "type_phrases": [
+                {
+                    "phrase": "Journal",
+                    "language": "en",
+                    "value": "journal"
+                }
+            ],
+            "publishers": [
+                {
+                    "relationship_type": "commercial_publisher",
+                    "relationship_type_phrases": [
+                        {
+                            "phrase": "Commercial Publisher",
+                            "language": "en",
+                            "value": "commercial_publisher"
+                        }
+                    ],
+                    "publisher": {
+                        "id": 366,
+                        "country": "de",
+                        "url": "http://www.thieme.com/",
+                        "name": [
+                            {
+                                "language": "de",
+                                "language_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "de",
+                                        "phrase": "German"
+                                    }
+                                ],
+                                "preferred_phrases": [
+                                    {
+                                        "phrase": "Name",
+                                        "language": "en",
+                                        "value": "name"
+                                    }
+                                ],
+                                "preferred": "name",
+                                "name": "Thieme Gruppe"
+                            }
+                        ],
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/366",
+                        "publication_count": 123,
+                        "imprints_id": [
+                            257,
+                            2107
+                        ],
+                        "country_phrases": [
+                            {
+                                "phrase": "Germany",
+                                "value": "de",
+                                "language": "en"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "url": "https://www.thieme-connect.com/products/ejournals/journal/10.1055/s-00000017",
+            "type": "journal",
+            "issns": [
+                {
+                    "type_phrases": [
+                        {
+                            "phrase": "Print",
+                            "language": "en",
+                            "value": "print"
+                        }
+                    ],
+                    "issn": "0947-7349",
+                    "type": "print"
+                },
+                {
+                    "issn": "1439-3646",
+                    "type_phrases": [
+                        {
+                            "value": "electronic",
+                            "language": "en",
+                            "phrase": "Electronic"
+                        }
+                    ],
+                    "type": "electronic"
+                }
+            ],
+            "title": [
+                {
+                    "title": "Experimental and Clinical Endocrinology and Diabetes",
+                    "language_phrases": [
+                        {
+                            "phrase": "English",
+                            "language": "en",
+                            "value": "en"
+                        }
+                    ],
+                    "language": "en"
+                }
+            ],
+            "listed_in_doaj_phrases": [
+                {
+                    "phrase": "No",
+                    "value": "no",
+                    "language": "en"
+                }
+            ],
+            "id": 10795
+        }
+    ]
+}

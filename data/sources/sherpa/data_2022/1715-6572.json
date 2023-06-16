@@ -1,0 +1,227 @@
+{
+    "items": [
+        {
+            "type": "journal",
+            "type_phrases": [
+                {
+                    "phrase": "Journal",
+                    "language": "en",
+                    "value": "journal"
+                }
+            ],
+            "publisher_policy": [
+                {
+                    "open_access_prohibited_phrases": [
+                        {
+                            "value": "no",
+                            "language": "en",
+                            "phrase": "No"
+                        }
+                    ],
+                    "id": 404,
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/404",
+                    "open_access_prohibited": "no",
+                    "permitted_oa": [
+                        {
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "phrase": "Yes",
+                                    "language": "en",
+                                    "value": "yes"
+                                }
+                            ],
+                            "article_version": [
+                                "accepted",
+                                "published"
+                            ],
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "value": "any_repository",
+                                        "language": "en",
+                                        "phrase": "Any Repository"
+                                    },
+                                    {
+                                        "value": "institutional_repository",
+                                        "phrase": "Institutional Repository",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "value": "subject_repository",
+                                        "phrase": "Subject Repository",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "value": "this_journal",
+                                        "language": "en",
+                                        "phrase": "Journal Website"
+                                    }
+                                ],
+                                "location": [
+                                    "any_repository",
+                                    "institutional_repository",
+                                    "subject_repository",
+                                    "this_journal"
+                                ]
+                            },
+                            "copyright_owner_phrases": [
+                                {
+                                    "value": "authors",
+                                    "phrase": "Authors",
+                                    "language": "en"
+                                }
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "value": "accepted",
+                                    "language": "en",
+                                    "phrase": "Accepted"
+                                },
+                                {
+                                    "language": "en",
+                                    "phrase": "Published",
+                                    "value": "published"
+                                }
+                            ],
+                            "additional_oa_fee": "yes",
+                            "license": [
+                                {
+                                    "version": "4.0",
+                                    "license": "cc_by_nc",
+                                    "license_phrases": [
+                                        {
+                                            "language": "en",
+                                            "phrase": "CC BY-NC",
+                                            "value": "cc_by_nc"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "conditions": [
+                                "Must acknowledge published article with citation",
+                                "Must link to publisher version"
+                            ],
+                            "copyright_owner": "authors"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "Open Access Policy",
+                            "url": "http://www.longwoods.com/pages/open-access-policy"
+                        }
+                    ],
+                    "internal_moniker": "Default Policy",
+                    "publication_count": 7
+                }
+            ],
+            "id": 14687,
+            "title": [
+                {
+                    "title": "Healthcare Policy",
+                    "language": "en",
+                    "language_phrases": [
+                        {
+                            "value": "en",
+                            "language": "en",
+                            "phrase": "English"
+                        }
+                    ]
+                },
+                {
+                    "language_phrases": [
+                        {
+                            "language": "en",
+                            "phrase": "French",
+                            "value": "fr"
+                        }
+                    ],
+                    "language": "fr",
+                    "title": "Politiques de Santé"
+                }
+            ],
+            "listed_in_doaj": "no",
+            "issns": [
+                {
+                    "issn": "1715-6572",
+                    "type": "print",
+                    "type_phrases": [
+                        {
+                            "value": "print",
+                            "language": "en",
+                            "phrase": "Print"
+                        }
+                    ]
+                }
+            ],
+            "url": "https://www.longwoods.com/publications/healthcare-policy",
+            "listed_in_doaj_phrases": [
+                {
+                    "phrase": "No",
+                    "language": "en",
+                    "value": "no"
+                }
+            ],
+            "system_metadata": {
+                "date_modified": "2022-10-03 10:28:24",
+                "publicly_visible": "yes",
+                "date_created": "2010-09-08 11:05:10",
+                "uri": "https://v2.sherpa.ac.uk/id/publication/14687",
+                "id": 14687,
+                "publicly_visible_phrases": [
+                    {
+                        "language": "en",
+                        "phrase": "Yes",
+                        "value": "yes"
+                    }
+                ]
+            },
+            "publishers": [
+                {
+                    "relationship_type": "commercial_publisher",
+                    "publisher": {
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/404",
+                        "url": "https://www.longwoods.com/",
+                        "publication_count": 4,
+                        "country_phrases": [
+                            {
+                                "value": "ca",
+                                "phrase": "Canada",
+                                "language": "en"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "language_phrases": [
+                                    {
+                                        "value": "en",
+                                        "phrase": "English",
+                                        "language": "en"
+                                    }
+                                ],
+                                "preferred_phrases": [
+                                    {
+                                        "value": "name",
+                                        "language": "en",
+                                        "phrase": "Name"
+                                    }
+                                ],
+                                "name": "Longwoods Publishing",
+                                "language": "en",
+                                "preferred": "name"
+                            }
+                        ],
+                        "country": "ca",
+                        "id": 404
+                    },
+                    "relationship_type_phrases": [
+                        {
+                            "phrase": "Commercial Publisher",
+                            "language": "en",
+                            "value": "commercial_publisher"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

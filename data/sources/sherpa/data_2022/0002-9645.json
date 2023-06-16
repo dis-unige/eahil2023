@@ -1,0 +1,210 @@
+{
+    "items": [
+        {
+            "type": "journal",
+            "type_phrases": [
+                {
+                    "value": "journal",
+                    "phrase": "Journal",
+                    "language": "en"
+                }
+            ],
+            "publisher_policy": [
+                {
+                    "internal_moniker": "Default Policy",
+                    "publication_count": 2,
+                    "permitted_oa": [
+                        {
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Published",
+                                    "language": "en",
+                                    "value": "published"
+                                }
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "phrase": "Yes",
+                                    "language": "en",
+                                    "value": "yes"
+                                }
+                            ],
+                            "article_version": [
+                                "published"
+                            ],
+                            "license": [
+                                {
+                                    "license": "cc_by_nc",
+                                    "version": "4.0",
+                                    "license_phrases": [
+                                        {
+                                            "phrase": "CC BY-NC",
+                                            "language": "en",
+                                            "value": "cc_by_nc"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "location": {
+                                "location": [
+                                    "this_journal"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "phrase": "Journal Website",
+                                        "language": "en",
+                                        "value": "this_journal"
+                                    }
+                                ]
+                            },
+                            "additional_oa_fee": "yes"
+                        }
+                    ],
+                    "open_access_prohibited": "no",
+                    "urls": [
+                        {
+                            "description": "Copyright",
+                            "url": "https://avmajournals.avma.org/page/JAVMA-instructions-for-authors#copyright"
+                        },
+                        {
+                            "url": "https://avmajournals.avma.org/page/AJVR-instructions-for-authors",
+                            "description": "Instructions for Authors"
+                        }
+                    ],
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/585",
+                    "id": 585,
+                    "open_access_prohibited_phrases": [
+                        {
+                            "value": "no",
+                            "language": "en",
+                            "phrase": "No"
+                        }
+                    ]
+                }
+            ],
+            "listed_in_doaj": "no",
+            "id": 15055,
+            "title": [
+                {
+                    "language": "en",
+                    "title": "American Journal of Veterinary Research",
+                    "acronym": "AJVR",
+                    "language_phrases": [
+                        {
+                            "value": "en",
+                            "language": "en",
+                            "phrase": "English"
+                        }
+                    ]
+                }
+            ],
+            "issns": [
+                {
+                    "type_phrases": [
+                        {
+                            "value": "print",
+                            "phrase": "Print",
+                            "language": "en"
+                        }
+                    ],
+                    "issn": "0002-9645",
+                    "type": "print"
+                },
+                {
+                    "issn": "1943-5681",
+                    "type": "electronic",
+                    "type_phrases": [
+                        {
+                            "phrase": "Electronic",
+                            "language": "en",
+                            "value": "electronic"
+                        }
+                    ]
+                }
+            ],
+            "url": "https://avmajournals.avma.org/view/journals/ajvr/ajvr-overview.xml",
+            "listed_in_doaj_phrases": [
+                {
+                    "value": "no",
+                    "phrase": "No",
+                    "language": "en"
+                }
+            ],
+            "system_metadata": {
+                "date_modified": "2022-09-23 13:13:09",
+                "uri": "https://v2.sherpa.ac.uk/id/publication/15055",
+                "date_created": "2010-09-09 11:39:29",
+                "publicly_visible": "yes",
+                "id": 15055,
+                "publicly_visible_phrases": [
+                    {
+                        "phrase": "Yes",
+                        "language": "en",
+                        "value": "yes"
+                    }
+                ]
+            },
+            "publishers": [
+                {
+                    "relationship_type": "society_publisher",
+                    "publisher": {
+                        "url": "http://www.avma.org/",
+                        "publication_count": 2,
+                        "name": [
+                            {
+                                "language_phrases": [
+                                    {
+                                        "phrase": "English",
+                                        "language": "en",
+                                        "value": "en"
+                                    }
+                                ],
+                                "preferred_phrases": [
+                                    {
+                                        "value": "name",
+                                        "language": "en",
+                                        "phrase": "Name"
+                                    }
+                                ],
+                                "language": "en",
+                                "name": "American Veterinary Medical Association",
+                                "acronym": "AVMA",
+                                "preferred": "name"
+                            }
+                        ],
+                        "country_phrases": [
+                            {
+                                "language": "en",
+                                "phrase": "United States of America",
+                                "value": "us"
+                            }
+                        ],
+                        "country": "us",
+                        "identifiers": [
+                            {
+                                "identifier": "https://ror.org/053pbpj30",
+                                "type_phrases": [
+                                    {
+                                        "value": "ror",
+                                        "language": "en",
+                                        "phrase": "ROR ID"
+                                    }
+                                ],
+                                "type": "ror"
+                            }
+                        ],
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/585",
+                        "id": 585
+                    },
+                    "relationship_type_phrases": [
+                        {
+                            "value": "society_publisher",
+                            "language": "en",
+                            "phrase": "Society Publisher"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,586 @@
+{
+    "items": [
+        {
+            "publishers": [
+                {
+                    "relationship_type_phrases": [
+                        {
+                            "value": "university_publisher",
+                            "language": "en",
+                            "phrase": "University Publisher"
+                        }
+                    ],
+                    "relationship_type": "university_publisher",
+                    "publisher": {
+                        "id": 27,
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/27",
+                        "identifiers": [
+                            {
+                                "type_phrases": [
+                                    {
+                                        "value": "ror",
+                                        "phrase": "ROR ID",
+                                        "language": "en"
+                                    }
+                                ],
+                                "identifier": "https://ror.org/03jsdjx34",
+                                "type": "ror"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "language_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "English",
+                                        "value": "en"
+                                    }
+                                ],
+                                "preferred": "name",
+                                "acronym": "CUP",
+                                "name": "Cambridge University Press",
+                                "language": "en",
+                                "preferred_phrases": [
+                                    {
+                                        "phrase": "Name",
+                                        "language": "en",
+                                        "value": "name"
+                                    }
+                                ]
+                            }
+                        ],
+                        "country_phrases": [
+                            {
+                                "language": "en",
+                                "phrase": "United Kingdom",
+                                "value": "gb"
+                            }
+                        ],
+                        "country": "gb",
+                        "publication_count": 393,
+                        "url": "http://www.cambridge.org/uk/"
+                    }
+                }
+            ],
+            "system_metadata": {
+                "date_created": "2010-07-19 14:40:12",
+                "publicly_visible": "yes",
+                "uri": "https://v2.sherpa.ac.uk/id/publication/2152",
+                "date_modified": "2022-06-16 13:58:03",
+                "publicly_visible_phrases": [
+                    {
+                        "language": "en",
+                        "phrase": "Yes",
+                        "value": "yes"
+                    }
+                ],
+                "id": 2152
+            },
+            "listed_in_doaj_phrases": [
+                {
+                    "value": "no",
+                    "language": "en",
+                    "phrase": "No"
+                }
+            ],
+            "tj_status": [
+                "plan_s_approved",
+                "jisc_approved"
+            ],
+            "url": "http://journals.cambridge.org/action/displayJournal?jid=PAX",
+            "tj_status_phrases": [
+                {
+                    "phrase": "Plan S Approved",
+                    "language": "en",
+                    "value": "plan_s_approved"
+                },
+                {
+                    "value": "jisc_approved",
+                    "phrase": "Jisc Approved",
+                    "language": "en"
+                }
+            ],
+            "issns": [
+                {
+                    "type_phrases": [
+                        {
+                            "language": "en",
+                            "phrase": "Print",
+                            "value": "print"
+                        }
+                    ],
+                    "issn": "1478-9515",
+                    "type": "print"
+                },
+                {
+                    "type": "electronic",
+                    "issn": "1478-9523",
+                    "type_phrases": [
+                        {
+                            "value": "electronic",
+                            "language": "en",
+                            "phrase": "Electronic"
+                        }
+                    ]
+                }
+            ],
+            "listed_in_doaj": "no",
+            "id": 2152,
+            "title": [
+                {
+                    "title": "Palliative and Supportive Care",
+                    "language": "en",
+                    "language_phrases": [
+                        {
+                            "value": "en",
+                            "phrase": "English",
+                            "language": "en"
+                        }
+                    ]
+                }
+            ],
+            "publisher_policy": [
+                {
+                    "publication_count": 320,
+                    "internal_moniker": "Cambridge Open preprint policy",
+                    "urls": [
+                        {
+                            "description": "Green open access policy for journals",
+                            "url": "https://www.cambridge.org/core/services/open-access-policies/open-access-journals/green-open-access-policy-for-journals"
+                        },
+                        {
+                            "url": "https://www.cambridge.org/core/services/open-access-policies/open-access-journals/preprint-policy",
+                            "description": "Preprint policy"
+                        }
+                    ],
+                    "open_access_prohibited": "no",
+                    "permitted_oa": [
+                        {
+                            "conditions": [
+                                "Must state accepted for publication (if applicable)",
+                                "Should link to publisher version or journal website",
+                                "Copyright must be acknowledged",
+                                "Published source must be acknowledged with citation"
+                            ],
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "value": "any_website",
+                                        "phrase": "Any Website",
+                                        "language": "en"
+                                    }
+                                ],
+                                "location": [
+                                    "any_website"
+                                ]
+                            },
+                            "additional_oa_fee": "no",
+                            "license": [
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "phrase": "CC BY",
+                                            "language": "en",
+                                            "value": "cc_by"
+                                        }
+                                    ],
+                                    "license": "cc_by"
+                                },
+                                {
+                                    "license": "cc_by_nc_sa",
+                                    "license_phrases": [
+                                        {
+                                            "value": "cc_by_nc_sa",
+                                            "language": "en",
+                                            "phrase": "CC BY-NC-SA"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "license": "cc_by_nc_nd",
+                                    "license_phrases": [
+                                        {
+                                            "phrase": "CC BY-NC-ND",
+                                            "language": "en",
+                                            "value": "cc_by_nc_nd"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "value": "cc_by_nc",
+                                            "phrase": "CC BY-NC",
+                                            "language": "en"
+                                        }
+                                    ],
+                                    "license": "cc_by_nc"
+                                },
+                                {
+                                    "license": "cc0",
+                                    "license_phrases": [
+                                        {
+                                            "phrase": "CC0",
+                                            "language": "en",
+                                            "value": "cc0"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "license": "all_rights_reserved",
+                                    "license_phrases": [
+                                        {
+                                            "phrase": "All Rights Reserved",
+                                            "language": "en",
+                                            "value": "all_rights_reserved"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "phrase": "CC BY-SA",
+                                            "language": "en",
+                                            "value": "cc_by_sa"
+                                        }
+                                    ],
+                                    "license": "cc_by_sa"
+                                }
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "value": "submitted",
+                                    "phrase": "Submitted",
+                                    "language": "en"
+                                }
+                            ],
+                            "article_version": [
+                                "submitted"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "No",
+                                    "value": "no"
+                                }
+                            ]
+                        }
+                    ],
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/5000",
+                    "id": 5000,
+                    "open_access_prohibited_phrases": [
+                        {
+                            "language": "en",
+                            "phrase": "No",
+                            "value": "no"
+                        }
+                    ]
+                },
+                {
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/5001",
+                    "open_access_prohibited_phrases": [
+                        {
+                            "value": "no",
+                            "language": "en",
+                            "phrase": "No"
+                        }
+                    ],
+                    "id": 5001,
+                    "publication_count": 302,
+                    "internal_moniker": "Cambridge Open - standard Gold OA policy",
+                    "urls": [
+                        {
+                            "url": "https://www.cambridge.org/core/services/open-access-policies",
+                            "description": "Services for open access policies"
+                        },
+                        {
+                            "description": "Gold open access journals",
+                            "url": "https://www.cambridge.org/core/services/open-access-policies/open-access-journals/gold-open-access-journals"
+                        }
+                    ],
+                    "permitted_oa": [
+                        {
+                            "location": {
+                                "location": [
+                                    "any_website",
+                                    "this_journal"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "Any Website",
+                                        "value": "any_website"
+                                    },
+                                    {
+                                        "value": "this_journal",
+                                        "phrase": "Journal Website",
+                                        "language": "en"
+                                    }
+                                ]
+                            },
+                            "additional_oa_fee": "yes",
+                            "license": [
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "value": "cc_by",
+                                            "phrase": "CC BY",
+                                            "language": "en"
+                                        }
+                                    ],
+                                    "license": "cc_by"
+                                },
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "phrase": "CC BY-NC-SA",
+                                            "language": "en",
+                                            "value": "cc_by_nc_sa"
+                                        }
+                                    ],
+                                    "license": "cc_by_nc_sa"
+                                },
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "value": "cc_by_nc_nd",
+                                            "language": "en",
+                                            "phrase": "CC BY-NC-ND"
+                                        }
+                                    ],
+                                    "license": "cc_by_nc_nd"
+                                }
+                            ],
+                            "conditions": [
+                                "Copyright and source must be acknowledged",
+                                "Must link to publisher version with DOI"
+                            ],
+                            "article_version": [
+                                "published"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "Yes",
+                                    "value": "yes"
+                                }
+                            ],
+                            "article_version_phrases": [
+                                {
+                                    "value": "published",
+                                    "phrase": "Published",
+                                    "language": "en"
+                                }
+                            ]
+                        }
+                    ],
+                    "open_access_prohibited": "no"
+                },
+                {
+                    "open_access_prohibited_phrases": [
+                        {
+                            "phrase": "No",
+                            "language": "en",
+                            "value": "no"
+                        }
+                    ],
+                    "id": 5006,
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/5006",
+                    "urls": [
+                        {
+                            "url": "https://www.cambridge.org/openaccess",
+                            "description": "Services for open access policies"
+                        },
+                        {
+                            "url": "https://www.cambridge.org/core/services/open-access-policies/open-access-journals/green-open-access-policy-for-journals",
+                            "description": "Green open access policy for journals"
+                        }
+                    ],
+                    "open_access_prohibited": "no",
+                    "permitted_oa": [
+                        {
+                            "article_version_phrases": [
+                                {
+                                    "value": "accepted",
+                                    "phrase": "Accepted",
+                                    "language": "en"
+                                }
+                            ],
+                            "conditions": [
+                                "Must state accepted for publication",
+                                "Copyright and source must be acknowledged",
+                                "Should link to publisher version or journal website"
+                            ],
+                            "license": [
+                                {
+                                    "license": "cc_by_nc_nd",
+                                    "license_phrases": [
+                                        {
+                                            "value": "cc_by_nc_nd",
+                                            "phrase": "CC BY-NC-ND",
+                                            "language": "en"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "license": "all_rights_reserved",
+                                    "license_phrases": [
+                                        {
+                                            "language": "en",
+                                            "phrase": "All Rights Reserved",
+                                            "value": "all_rights_reserved"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "additional_oa_fee": "no",
+                            "article_version": [
+                                "accepted"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "No",
+                                    "value": "no"
+                                }
+                            ],
+                            "location": {
+                                "location_phrases": [
+                                    {
+                                        "value": "any_website",
+                                        "language": "en",
+                                        "phrase": "Any Website"
+                                    },
+                                    {
+                                        "value": "authors_homepage",
+                                        "phrase": "Author's Homepage",
+                                        "language": "en"
+                                    }
+                                ],
+                                "location": [
+                                    "any_website",
+                                    "authors_homepage"
+                                ]
+                            },
+                            "embargo": {
+                                "units": "months",
+                                "units_phrases": [
+                                    {
+                                        "language": "en",
+                                        "phrase": "Months",
+                                        "value": "months"
+                                    }
+                                ],
+                                "amount": 0
+                            }
+                        },
+                        {
+                            "embargo": {
+                                "amount": 6,
+                                "units": "months",
+                                "units_phrases": [
+                                    {
+                                        "phrase": "Months",
+                                        "language": "en",
+                                        "value": "months"
+                                    }
+                                ]
+                            },
+                            "location": {
+                                "location": [
+                                    "any_website",
+                                    "institutional_website",
+                                    "non_commercial_institutional_repository",
+                                    "non_commercial_social_network",
+                                    "non_commercial_subject_repository"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "phrase": "Any Website",
+                                        "language": "en",
+                                        "value": "any_website"
+                                    },
+                                    {
+                                        "value": "institutional_website",
+                                        "language": "en",
+                                        "phrase": "Institutional Website"
+                                    },
+                                    {
+                                        "value": "non_commercial_institutional_repository",
+                                        "phrase": "Non-Commercial Institutional Repository",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "phrase": "Non-Commercial Social Network",
+                                        "language": "en",
+                                        "value": "non_commercial_social_network"
+                                    },
+                                    {
+                                        "phrase": "Non-Commercial Subject Repository",
+                                        "language": "en",
+                                        "value": "non_commercial_subject_repository"
+                                    }
+                                ]
+                            },
+                            "article_version": [
+                                "accepted"
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "language": "en",
+                                    "phrase": "No",
+                                    "value": "no"
+                                }
+                            ],
+                            "conditions": [
+                                "Must state accepted for publication",
+                                "Copyright and source must be acknowledged",
+                                "Should link to publisher version or journal website"
+                            ],
+                            "license": [
+                                {
+                                    "license_phrases": [
+                                        {
+                                            "value": "cc_by_nc_nd",
+                                            "phrase": "CC BY-NC-ND",
+                                            "language": "en"
+                                        }
+                                    ],
+                                    "license": "cc_by_nc_nd"
+                                },
+                                {
+                                    "license": "all_rights_reserved",
+                                    "license_phrases": [
+                                        {
+                                            "phrase": "All Rights Reserved",
+                                            "language": "en",
+                                            "value": "all_rights_reserved"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "additional_oa_fee": "no",
+                            "article_version_phrases": [
+                                {
+                                    "value": "accepted",
+                                    "phrase": "Accepted",
+                                    "language": "en"
+                                }
+                            ]
+                        }
+                    ],
+                    "publication_count": 88,
+                    "internal_moniker": "Cambridge Open - standard STM Green policy"
+                }
+            ],
+            "type_phrases": [
+                {
+                    "value": "journal",
+                    "phrase": "Journal",
+                    "language": "en"
+                }
+            ],
+            "type": "journal"
+        }
+    ]
+}

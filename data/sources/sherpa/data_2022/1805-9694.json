@@ -1,0 +1,330 @@
+{
+    "items": [
+        {
+            "issns": [
+                {
+                    "type_phrases": [
+                        {
+                            "phrase": "Print",
+                            "language": "en",
+                            "value": "print"
+                        }
+                    ],
+                    "issn": "1211-4286",
+                    "type": "print"
+                },
+                {
+                    "type": "electronic",
+                    "type_phrases": [
+                        {
+                            "phrase": "Electronic",
+                            "language": "en",
+                            "value": "electronic"
+                        }
+                    ],
+                    "issn": "1805-9694"
+                }
+            ],
+            "type": "journal",
+            "url": "https://actamedica.lfhk.cuni.cz/",
+            "publishers": [
+                {
+                    "relationship_type_phrases": [
+                        {
+                            "phrase": "University Publisher",
+                            "language": "en",
+                            "value": "university_publisher"
+                        }
+                    ],
+                    "publisher": {
+                        "url": "https://karolinum.cz/",
+                        "country_phrases": [
+                            {
+                                "phrase": "Czechia",
+                                "language": "en",
+                                "value": "cz"
+                            }
+                        ],
+                        "country": "cz",
+                        "publication_count": 7,
+                        "id": 63284,
+                        "uri": "https://v2.sherpa.ac.uk/id/publisher/63284",
+                        "name": [
+                            {
+                                "name": "Karolinum Press",
+                                "preferred": "name",
+                                "preferred_phrases": [
+                                    {
+                                        "language": "en",
+                                        "value": "name",
+                                        "phrase": "Name"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "relationship_type": "university_publisher"
+                }
+            ],
+            "listed_in_doaj_phrases": [
+                {
+                    "phrase": "Yes",
+                    "value": "yes",
+                    "language": "en"
+                }
+            ],
+            "id": 39095,
+            "title": [
+                {
+                    "title": "Acta Medica (Hradec Králové)",
+                    "preferred": "name",
+                    "language_phrases": [
+                        {
+                            "language": "en",
+                            "value": "la",
+                            "phrase": "Latin"
+                        }
+                    ],
+                    "language": "la",
+                    "preferred_phrases": [
+                        {
+                            "phrase": "Title",
+                            "value": "name",
+                            "language": "en"
+                        }
+                    ]
+                }
+            ],
+            "system_metadata": {
+                "publicly_visible": "yes",
+                "id": 39095,
+                "uri": "https://v2.sherpa.ac.uk/id/publication/39095",
+                "date_modified": "2022-08-17 14:08:20",
+                "publicly_visible_phrases": [
+                    {
+                        "phrase": "Yes",
+                        "language": "en",
+                        "value": "yes"
+                    }
+                ],
+                "date_created": "2021-05-26 12:09:45"
+            },
+            "listed_in_doaj": "yes",
+            "publisher_policy": [
+                {
+                    "publication_count": 8,
+                    "uri": "https://v2.sherpa.ac.uk/id/publisher_policy/4489",
+                    "open_access_prohibited_phrases": [
+                        {
+                            "value": "no",
+                            "language": "en",
+                            "phrase": "No"
+                        }
+                    ],
+                    "permitted_oa": [
+                        {
+                            "conditions": [
+                                "Published source must be acknowledged with citation"
+                            ],
+                            "additional_oa_fee": "no",
+                            "location": {
+                                "named_repository": [
+                                    "PubMed Central",
+                                    "arXiv"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "value": "any_repository",
+                                        "language": "en",
+                                        "phrase": "Any Repository"
+                                    },
+                                    {
+                                        "phrase": "Any Website",
+                                        "value": "any_website",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "phrase": "Institutional Repository",
+                                        "language": "en",
+                                        "value": "institutional_repository"
+                                    },
+                                    {
+                                        "phrase": "Named Repository",
+                                        "value": "named_repository",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "phrase": "Preprint Repository",
+                                        "value": "preprint_repository",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "value": "this_journal",
+                                        "phrase": "Journal Website"
+                                    }
+                                ],
+                                "location": [
+                                    "any_repository",
+                                    "any_website",
+                                    "institutional_repository",
+                                    "named_repository",
+                                    "preprint_repository",
+                                    "this_journal"
+                                ]
+                            },
+                            "article_version": [
+                                "published"
+                            ],
+                            "copyright_owner_phrases": [
+                                {
+                                    "phrase": "Authors",
+                                    "language": "en",
+                                    "value": "authors"
+                                }
+                            ],
+                            "license": [
+                                {
+                                    "version": "4",
+                                    "license_phrases": [
+                                        {
+                                            "language": "en",
+                                            "value": "cc_by",
+                                            "phrase": "CC BY"
+                                        }
+                                    ],
+                                    "license": "cc_by"
+                                }
+                            ],
+                            "copyright_owner": "authors",
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Published",
+                                    "value": "published",
+                                    "language": "en"
+                                }
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "value": "no",
+                                    "language": "en",
+                                    "phrase": "No"
+                                }
+                            ]
+                        },
+                        {
+                            "copyright_owner": "authors",
+                            "article_version_phrases": [
+                                {
+                                    "phrase": "Submitted",
+                                    "value": "submitted",
+                                    "language": "en"
+                                },
+                                {
+                                    "phrase": "Accepted",
+                                    "language": "en",
+                                    "value": "accepted"
+                                }
+                            ],
+                            "additional_oa_fee_phrases": [
+                                {
+                                    "value": "no",
+                                    "language": "en",
+                                    "phrase": "No"
+                                }
+                            ],
+                            "conditions": [
+                                "Published source must be acknowledged with citation"
+                            ],
+                            "additional_oa_fee": "no",
+                            "article_version": [
+                                "submitted",
+                                "accepted"
+                            ],
+                            "location": {
+                                "named_repository": [
+                                    "PubMed Central",
+                                    "arXiv"
+                                ],
+                                "location_phrases": [
+                                    {
+                                        "value": "any_repository",
+                                        "language": "en",
+                                        "phrase": "Any Repository"
+                                    },
+                                    {
+                                        "phrase": "Author's Homepage",
+                                        "value": "authors_homepage",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "phrase": "Institutional Repository",
+                                        "value": "institutional_repository",
+                                        "language": "en"
+                                    },
+                                    {
+                                        "language": "en",
+                                        "value": "named_repository",
+                                        "phrase": "Named Repository"
+                                    },
+                                    {
+                                        "value": "preprint_repository",
+                                        "language": "en",
+                                        "phrase": "Preprint Repository"
+                                    }
+                                ],
+                                "location": [
+                                    "any_repository",
+                                    "authors_homepage",
+                                    "institutional_repository",
+                                    "named_repository",
+                                    "preprint_repository"
+                                ]
+                            },
+                            "copyright_owner_phrases": [
+                                {
+                                    "language": "en",
+                                    "value": "authors",
+                                    "phrase": "Authors"
+                                }
+                            ],
+                            "license": [
+                                {
+                                    "license": "cc_by",
+                                    "license_phrases": [
+                                        {
+                                            "value": "cc_by",
+                                            "language": "en",
+                                            "phrase": "CC BY"
+                                        }
+                                    ],
+                                    "version": "4"
+                                }
+                            ]
+                        }
+                    ],
+                    "internal_moniker": "Creative Commons Attribution",
+                    "id": 4489,
+                    "urls": [
+                        {
+                            "url": "https://karolinum.cz/en/information-and-services/open-access",
+                            "description": "Open access"
+                        },
+                        {
+                            "description": "Open access",
+                            "url": "https://karolinum.cz/en/journals/open-access"
+                        }
+                    ],
+                    "open_access_prohibited": "no"
+                }
+            ],
+            "type_phrases": [
+                {
+                    "phrase": "Journal",
+                    "value": "journal",
+                    "language": "en"
+                }
+            ]
+        }
+    ]
+}
