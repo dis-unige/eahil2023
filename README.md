@@ -2,7 +2,7 @@
 
 Research presented at the EAHIL conference 2023 - 12–16 June, Trondheim, Norway: https://eahil2023.org/  
 
-Authors: **Floriane Muller** & **Pablo Iriarte**, Library of the University of Geneva, Switerland
+Authors: **Floriane Muller** & **Pablo Iriarte**, University of Geneva Library, Switzerland
 
 ## Abstract
 
